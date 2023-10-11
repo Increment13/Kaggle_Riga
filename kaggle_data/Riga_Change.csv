@@ -1,0 +1,15 @@
+,id,op_type,district,street,rooms,area,floor,total_floors,house_seria,house_type,condition
+483,5483,Change,Ziepniekkalns,Līvciema 10,3,74.0,5.0,5.0,Specpr.,Panel,All amenities
+808,5808,Change,Sarkandaugava,Ozolu 5,1,38.0,1.0,5.0,M. ģim.,Brick,All amenities
+1560,6560,Change,Pļavnieki,Deglava,1,38.0,2.0,5.0,103.,Brick,All amenities
+1833,6833,Change,Sarkandaugava,,1,21.5,2.0,2.0,P. kara,Wood,All amenities
+2144,7144,Change,Ziepniekkalns,,2,,9.0,9.0,602.,,All amenities
+2350,7350,Change,Ķengarags,Maskavas 427,2,,8.0,,,Panel,All amenities
+2558,7558,Change,Purvciems,Viršu 1,1,40.0,4.0,9.0,119.,Panel,All amenities
+2946,7946,Change,Ziepniekkalns,Ozolciema 32,1,32.0,9.0,9.0,Hrušč.,Panel,All amenities
+2987,7987,Change,,,5,190.0,,,Priv. m.,Brick,All amenities
+3025,8025,Change,Dzegužkalns,Tapešu,3,60.0,1.0,5.0,LT proj.,Panel,All amenities
+3751,8751,Change,,,3,,,,,,
+4025,9025,Change,Daugavgrīva,,2,45.0,3.0,5.0,103.,Panel-Brick,All amenities
+4435,9435,Change,Imanta,Slokas 130,3,,1.0,12.0,Čehu pr.,Brick,All amenities
+4467,9467,Change,Imanta,Kurzemes pr. 98,1,35.0,7.0,9.0,602.,Panel,All amenities

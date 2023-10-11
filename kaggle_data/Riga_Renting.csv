@@ -1,0 +1,85 @@
+,id,op_type,district,street,rooms,area,floor,total_floors,house_seria,house_type,condition
+80,5080,Renting,Āgenskalns,,4,,,,,,All amenities
+81,5081,Renting,Dzegužkalns,,2,,,,,,All amenities
+193,5193,Renting,centrs,Raiņa bulv. 1,2,50.0,1.0,5.0,P. kara,Brick-Panel,All amenities
+194,5194,Renting,Vecrīga,,2,50.0,1.0,3.0,P. kara,Brick-Panel,All amenities
+203,5203,Renting,Ziepniekkalns,,3,,1.0,3.0,,,All amenities
+263,5263,Renting,Ķengarags,Maskavas,2,,2.0,5.0,LT proj.,Brick-Panel,All amenities
+379,5379,Renting,Mežciems,,2,,,,,,All amenities
+470,5470,Renting,Āgenskalns,,1,,,,,,
+499,5499,Renting,Ķengarags,,1,,,,,,
+677,5677,Renting,Imanta,,2,,,,Jaun.,,All amenities
+678,5678,Renting,Jugla,,2,,,,,,
+734,5734,Renting,centrs,,2,,,,Jaun.,,
+858,5858,Renting,centrs,,3,70.0,2.0,,,,
+1100,6100,Renting,centrs,,2,70.0,2.0,,,Masonry,
+1153,6153,Renting,Purvciems,,3,65.0,,,,,All amenities
+1426,6426,Renting,,,3,,,,,,
+1551,6551,Renting,Imanta,,1,,,,,,
+1568,6568,Renting,Imanta,,3,,,,,,All amenities
+1595,6595,Renting,centrs,,1,,,,,,All amenities
+1810,6810,Renting,Vecmīlgrāvis,,,,,,,,
+1811,6811,Renting,Daugavgrīva,,,,,,,,
+1812,6812,Renting,Bolderāja,,,,,,,,
+1892,6892,Renting,Ķengarags,,Citi,,,,,,
+1893,6893,Renting,Mežciems,,Citi,,,,,,
+1921,6921,Renting,Purvciems,,1,,,,,,All amenities
+1967,6967,Renting,Imanta,,3,,,,,,All amenities
+2137,7137,Renting,Zolitūde,,2,,,,,,
+2138,7138,Renting,Purvciems,,2,,,,,,
+2217,7217,Renting,Purvciems,,3,,2.0,,,,
+2239,7239,Renting,Čiekurkalns,,,,,,,,
+2287,7287,Renting,centrs,,1,,2.0,,,,All amenities
+2303,7303,Renting,centrs,,2,,,,,,
+2323,7323,Renting,Mežaparks,,,,,,,,
+2324,7324,Renting,Dzegužkalns,,,,,,,,
+2368,7368,Renting,Zasulauks,,Citi,,,,,,
+2409,7409,Renting,Āgenskalns,,,,,,,,
+2410,7410,Renting,Teika,,,,,,,,
+2411,7411,Renting,Iļģuciems,,,,,,,,
+2412,7412,Renting,Jugla,,,,,,,,
+2413,7413,Renting,Sarkandaugava,,,,,,,,
+2414,7414,Renting,Mežciems,,,,,,,,
+2415,7415,Renting,Zolitūde,,Citi,,,,,,
+2416,7416,Renting,Maskavas priekšpilsēta,,,,,,,,
+2522,7522,Renting,Pļavnieki,,,,,,,,
+2535,7535,Renting,Šampēteris-Pleskodāle,,,,,,,,
+2602,7602,Renting,Purvciems,,2,,,,602.,Brick-Panel,Partial amenities
+2710,7710,Renting,Katlakalns,,1,,,,,,Partial amenities
+2724,7724,Renting,Vecāķi,,1,,,,Priv. m.,,All amenities
+2763,7763,Renting,Jugla,,1,,,,,,All amenities
+2954,7954,Renting,Dārzciems,,,,,,,,
+2955,7955,Renting,Krasta r-ns,,,,,,,,
+2961,7961,Renting,Purvciems,,Citi,,,,,,
+2974,7974,Renting,Mangaļi,,,,,,,,
+2975,7975,Renting,Torņakalns,,,,,,,,
+3138,8138,Renting,Imanta,,2,,,,,,
+3139,8139,Renting,Ziepniekkalns,,2,,,,,,
+3144,8144,Renting,Vecrīga,Pēterbaznīcas,6,,,,,,
+3165,8165,Renting,Iļģuciems,,3,,,,,,All amenities
+3312,8312,Renting,Dārzciems,,Citi,,,,,,
+3313,8313,Renting,Purvciems,,Citi,,,,,,
+3314,8314,Renting,Pļavnieki,,Citi,,,,,,
+3586,8586,Renting,centrs,,1,30.0,,,,,All amenities
+3676,8676,Renting,Ziepniekkalns,Bauskas,2,40.0,1.0,2.0,P. kara,Brick-Panel,Partial amenities
+3804,8804,Renting,Ziepniekkalns,,1,,,,,,All amenities
+3873,8873,Renting,centrs,,3,60.0,2.0,,,,All amenities
+3899,8899,Renting,centrs,,2,,,,,,
+3917,8917,Renting,centrs,,1,,,,,,
+3948,8948,Renting,centrs,,2,,,,,,
+3986,8986,Renting,,,1,,,,,,All amenities
+4124,9124,Renting,Bolderāja,,3,,,,,,
+4213,9213,Renting,Purvciems,,3,80.0,,,Jaun.,,All amenities
+4318,9318,Renting,Ziepniekkalns,,2,,,,,,All amenities
+4325,9325,Renting,Mežciems,,3,,,,Jaun.,,
+4459,9459,Renting,centrs,,2,,,,,,
+4479,9479,Renting,Jugla,,1,,1.0,12.0,,,All amenities
+4493,9493,Renting,Pļavnieki,,1,,,,,,
+4496,9496,Renting,Purvciems,,1,,,,,,
+4548,9548,Renting,Purvciems,,3,,,,,,
+4580,9580,Renting,,,1,,,,,,
+4638,9638,Renting,,,2,,,,,,All amenities
+4650,9650,Renting,Ziepniekkalns,,4,,,,,,
+4664,9664,Renting,Ķengarags,,,,,,,,
+4665,9665,Renting,Imanta,,,,,,,,
+4666,9666,Renting,Ziepniekkalns,,,,,,,,

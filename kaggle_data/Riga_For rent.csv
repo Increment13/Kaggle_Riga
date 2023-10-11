@@ -1,0 +1,1526 @@
+,id,op_type,district,street,rooms,area,floor,total_floors,house_seria,house_type,condition
+0,5000,For rent,Purvciems,Dzelzavas 93,1,27.0,3.0,5.0,LT proj.,Brick-Panel,All amenities
+1,5001,For rent,Ziepniekkalns,Ozolciema 32,2,50.0,7.0,9.0,602.,Panel,All amenities
+4,5004,For rent,Teika,Zemgala gatve 80,3,76.0,3.0,12.0,Jaun.,Masonry,All amenities
+5,5005,For rent,centrs,Ģertrūdes 16,2,40.0,3.0,6.0,P. kara,Masonry,All amenities
+7,5007,For rent,Imanta,Kurzemes pr. 46,2,49.0,3.0,5.0,LT proj.,Panel,All amenities
+8,5008,For rent,centrs,Avotu 7,2,48.0,5.0,5.0,P. kara,Brick,All amenities
+9,5009,For rent,Jugla,Juglas 53,2,45.0,2.0,5.0,Hrušč.,Panel,All amenities
+17,5017,For rent,Ziepniekkalns,Ozolciema 54,1,44.0,4.0,9.0,M. ģim.,Panel,All amenities
+20,5020,For rent,Bolderāja,Stagaru 4,2,50.0,2.0,5.0,Specpr.,Panel,All amenities
+22,5022,For rent,centrs,Čaka 33,2,40.0,4.0,6.0,P. kara,Masonry,All amenities
+23,5023,For rent,centrs,Bruņinieku 115,2,45.0,2.0,4.0,Renov.,Masonry,All amenities
+24,5024,For rent,Grīziņkalns,Alauksta 4a,1,26.0,2.0,3.0,Renov.,Wood,All amenities
+25,5025,For rent,Ziepniekkalns,Kartupeļu 47,2,56.0,8.0,9.0,Specpr.,Brick,All amenities
+26,5026,For rent,Bolderāja,Gobas 16,1,34.0,3.0,5.0,103.,Brick-Panel,All amenities
+30,5030,For rent,Dzegužkalns,Purva 25,1,29.0,4.0,5.0,LT proj.,Panel,All amenities
+31,5031,For rent,Imanta,Slokas 130a,2,60.0,3.0,8.0,Jaun.,Masonry,All amenities
+33,5033,For rent,centrs,Indrānu 13,1,34.0,5.0,5.0,LT proj.,Brick-Panel,All amenities
+35,5035,For rent,Purvciems,Ieriķu 58,1,43.0,9.0,9.0,Specpr.,Brick,All amenities
+36,5036,For rent,Ķīpsala,Balasta d. 72,2,86.0,2.0,4.0,Jaun.,Masonry,All amenities
+37,5037,For rent,centrs,Barona 14,1,40.0,4.0,5.0,Renov.,Masonry,All amenities
+38,5038,For rent,centrs,Bruņinieku 64,2,36.0,3.0,3.0,P. kara,Brick,All amenities
+43,5043,For rent,centrs,Republikas laukums 3,1,46.0,4.0,7.0,Jaun.,Masonry,All amenities
+44,5044,For rent,Purvciems,Ieriķu 58,1,40.0,2.0,5.0,Specpr.,Brick-Panel,All amenities
+45,5045,For rent,centrs,Asara 15,1,38.0,5.0,2.0,Specpr.,Brick,All amenities
+46,5046,For rent,Purvciems,Pūces 19,2,46.0,2.0,5.0,Jaun.,Panel,All amenities
+47,5047,For rent,Krasta r-ns,Lubānas 56,1,36.0,6.0,9.0,602.,Panel,All amenities
+50,5050,For rent,Mangaļi,Ezera 6,2,40.0,1.0,2.0,Renov.,Wood,All amenities
+52,5052,For rent,Jugla,Baltezera 1,2,49.0,2.0,5.0,LT proj.,Brick-Panel,All amenities
+53,5053,For rent,centrs,Asara 12,3,50.0,4.0,5.0,Renov.,Masonry,All amenities
+54,5054,For rent,Klīversala,Klīveru 1,1,26.0,4.0,4.0,P. kara,Masonry,All amenities
+57,5057,For rent,Vecmīlgrāvis,Rīnūžu 11,2,53.0,5.0,5.0,103.,Brick-Panel,All amenities
+60,5060,For rent,Pļavnieki,Jasmuižas 15,1,32.0,2.0,9.0,602.,Panel,All amenities
+66,5066,For rent,centrs,Pērnavas 10,1,32.0,5.0,5.0,Hrušč.,Brick,All amenities
+67,5067,For rent,Purvciems,Sesku 26,1,42.0,3.0,5.0,M. ģim.,Brick-Panel,All amenities
+71,5071,For rent,Ziepniekkalns,Ozolciema 18,1,50.0,3.0,9.0,119.,Panel,All amenities
+72,5072,For rent,Ziepniekkalns,Bērzupes 23,1,31.0,2.0,5.0,LT proj.,Panel-Brick,All amenities
+76,5076,For rent,Mežaparks,Viestura pr. 95,2,42.0,8.0,11.0,Jaun.,Brick,All amenities
+78,5078,For rent,Jugla,Veldres 32,1,33.0,12.0,12.0,Specpr.,Brick-Panel,All amenities
+79,5079,For rent,Sarkandaugava,Tilta 5,Citi,76.0,2.0,4.0,P. kara,Masonry,All amenities
+82,5082,For rent,Maskavas priekšpilsēta,Daugavpils 76,1,25.0,5.0,6.0,P. kara,Brick,All amenities
+83,5083,For rent,Āgenskalns,Kristapa 8,1,18.0,1.0,4.0,M. ģim.,Brick,All amenities
+85,5085,For rent,centrs,Barona 76,3,67.0,2.0,6.0,Renov.,Masonry,All amenities
+86,5086,For rent,centrs,Tallinas 65,3,83.0,5.0,5.0,Renov.,Masonry,All amenities
+87,5087,For rent,Ķengarags,Prūšu 3,1,30.0,5.0,5.0,LT proj.,Panel,All amenities
+89,5089,For rent,centrs,Klijānu 2e,1,30.0,2.0,9.0,Renov.,Brick-Panel,All amenities
+90,5090,For rent,Āgenskalns,Āgenskalna 22,2,41.0,3.0,5.0,Hrušč.,Brick,All amenities
+92,5092,For rent,centrs,Čaka 96,2,62.0,3.0,5.0,Jaun.,Brick-Panel,All amenities
+93,5093,For rent,centrs,Ausekļa 7,2,77.0,3.0,6.0,Renov.,Brick,All amenities
+97,5097,For rent,Imanta,M. Krūmu 6,1,29.0,4.0,5.0,LT proj.,Panel,All amenities
+99,5099,For rent,centrs,Lāčplēša 147,1,20.0,2.0,4.0,Jaun.,Brick,All amenities
+100,5100,For rent,Purvciems,Marsa g. 12,1,26.0,3.0,5.0,LT proj.,Panel,All amenities
+105,5105,For rent,centrs,Grostonas 17,3,88.0,7.0,8.0,Jaun.,Masonry,All amenities
+106,5106,For rent,centrs,Ģertrūdes 84,2,53.0,3.0,6.0,P. kara,Masonry,All amenities
+110,5110,For rent,Krasta r-ns,Maskavas 237,1,30.0,5.0,5.0,Hrušč.,Brick,All amenities
+113,5113,For rent,Imanta,Anniņmuižas bulvāris 43,2,45.0,9.0,24.0,Jaun.,Brick-Panel,All amenities
+114,5114,For rent,Dzegužkalns,Dzirciema 33,3,61.0,4.0,5.0,LT proj.,Panel,All amenities
+115,5115,For rent,Pļavnieki,Zemes 9,1,36.0,1.0,9.0,M. ģim.,Panel,All amenities
+118,5118,For rent,Pļavnieki,Ilūkstes 55,1,24.0,2.0,1.0,Priv. m.,Masonry,All amenities
+119,5119,For rent,Ziepniekkalns,Valdeķu 53,2,55.0,1.0,9.0,119.,Panel,All amenities
+122,5122,For rent,Zolitūde,Ruses 3,2,58.0,2.0,9.0,119.,Panel,All amenities
+123,5123,For rent,centrs,Elizabetes 10c,1,45.0,1.0,3.0,Jaun.,Masonry,All amenities
+125,5125,For rent,Ziepniekkalns,Graudu 30,1,36.0,1.0,2.0,Renov.,Masonry,All amenities
+126,5126,For rent,centrs,Eksporta 8,5,150.0,1.0,2.0,Jaun.,Masonry,All amenities
+127,5127,For rent,Vecmīlgrāvis,Emmas 19,2,48.0,4.0,5.0,LT proj.,Panel,All amenities
+128,5128,For rent,Grīziņkalns,Terēzes 2,1,30.0,1.0,3.0,Staļina,Masonry,All amenities
+132,5132,For rent,Daugavgrīva,Zvīņu 6,1,28.0,3.0,5.0,LT proj.,Brick,All amenities
+136,5136,For rent,Purvciems,Vējavas 12,1,39.0,4.0,5.0,M. ģim.,Brick-Panel,All amenities
+144,5144,For rent,Ziepniekkalns,Ozolciema 32,2,50.0,8.0,9.0,602.,Panel,All amenities
+146,5146,For rent,Ziepniekkalns,Vadakstes 1,2,47.0,1.0,1.0,Priv. m.,Masonry,All amenities
+149,5149,For rent,Pļavnieki,Ilūkstes 39,1,40.0,3.0,5.0,Specpr.,Brick-Panel,All amenities
+151,5151,For rent,centrs,Grostonas 17,3,88.0,7.0,7.0,Jaun.,Brick-Panel,All amenities
+152,5152,For rent,centrs,Brīvības 115,1,28.0,2.0,3.0,P. kara,Masonry,All amenities
+153,5153,For rent,centrs,Sapieru 3b,1,21.0,3.0,5.0,Jaun.,Panel,All amenities
+155,5155,For rent,Pļavnieki,Jasmuižas 24,1,22.0,1.0,3.0,Jaun.,Panel,All amenities
+156,5156,For rent,centrs,Tērbatas 78,1,33.0,2.0,5.0,P. kara,Masonry,All amenities
+159,5159,For rent,Zolitūde,Gramzdas 80,2,55.0,1.0,4.0,Jaun.,Panel,All amenities
+160,5160,For rent,Iļģuciems,Baltā 17,3,62.0,1.0,5.0,LT proj.,Panel,All amenities
+163,5163,For rent,Ķengarags,Maskavas 381/7,2,49.0,3.0,3.0,Staļina,Brick,All amenities
+164,5164,For rent,Mežciems,Hipokrāta 41,1,32.0,8.0,9.0,602.,Panel,All amenities
+165,5165,For rent,Purvciems,Andromedas g. 12,2,51.0,3.0,5.0,LT proj.,Panel,All amenities
+166,5166,For rent,Āgenskalns,Mūkusalas 29,2,79.0,4.0,4.0,Jaun.,Masonry,All amenities
+167,5167,For rent,Āgenskalns,Talsu 9,2,44.0,3.0,6.0,P. kara,Masonry,Partial amenities
+168,5168,For rent,Āgenskalns,Kalnciema 20,1,36.0,2.0,2.0,P. kara,Brick,All amenities
+169,5169,For rent,centrs,Sadovņikova 39a,1,30.0,3.0,5.0,P. kara,Brick,All amenities
+171,5171,For rent,centrs,Vesetas 30,2,42.0,4.0,6.0,Hrušč.,Brick,All amenities
+172,5172,For rent,centrs,Sadovņikova 21,1,40.0,2.0,4.0,P. kara,Brick,All amenities
+174,5174,For rent,centrs,Klusā 21,1,24.0,2.0,5.0,Renov.,Brick-Panel,All amenities
+175,5175,For rent,Bolderāja,Lemešu 9,1,34.0,1.0,9.0,602.,Panel,All amenities
+177,5177,For rent,Ķengarags,Maskavas 313,1,38.0,8.0,12.0,Čehu pr.,Brick,All amenities
+179,5179,For rent,centrs,Teātra 2,3,98.0,4.0,6.0,Jaun.,Brick,All amenities
+180,5180,For rent,Vecrīga,Teātra 2,3,98.0,4.0,6.0,Jaun.,Brick,All amenities
+181,5181,For rent,Āgenskalns,Valguma 35,2,40.0,1.0,5.0,Staļina,Brick,All amenities
+182,5182,For rent,centrs,Lugažu 14,1,30.0,1.0,3.0,Staļina,Brick,All amenities
+183,5183,For rent,Imanta,Kurzemes pr. 2,1,28.0,1.0,4.0,602.,Brick-Panel,All amenities
+186,5186,For rent,centrs,Klijānu 12,2,32.0,1.0,3.0,Jaun.,Brick,All amenities
+187,5187,For rent,centrs,Vesetas 26,2,43.0,4.0,9.0,Jaun.,Panel-Brick,All amenities
+188,5188,For rent,centrs,Bruņinieku 72,1,49.0,3.0,3.0,Jaun.,Masonry,All amenities
+189,5189,For rent,Dārzciems,Nīcgales 52,1,35.0,2.0,5.0,103.,Brick,All amenities
+190,5190,For rent,Purvciems,Nīcgales 52,1,35.0,2.0,5.0,103.,Brick,All amenities
+192,5192,For rent,centrs,Dzirnavu 6,3,60.0,3.0,5.0,Renov.,Masonry,All amenities
+197,5197,For rent,centrs,Barona 28,3,93.0,5.0,5.0,P. kara,Masonry,All amenities
+198,5198,For rent,centrs,Lāčplēša 70,3,85.0,3.0,5.0,P. kara,Brick,All amenities
+199,5199,For rent,Jugla,Brīvības gatve 365,2,40.0,1.0,5.0,Hrušč.,Brick,All amenities
+202,5202,For rent,centrs,Tomsona 30,2,55.0,5.0,9.0,Jaun.,Panel,All amenities
+204,5204,For rent,Jugla,Brīvības gatve 405/1,2,46.0,2.0,5.0,Hrušč.,Brick,All amenities
+210,5210,For rent,Ziepniekkalns,Ozolciema 18,2,58.0,8.0,9.0,119.,Panel,All amenities
+212,5212,For rent,Ziepniekkalns,Graudu 13,4,223.0,2.0,2.0,Priv. m.,Brick-Panel,All amenities
+214,5214,For rent,centrs,Lāčplēša 77,1,31.0,2.0,2.0,P. kara,Wood,All amenities
+215,5215,For rent,Čiekurkalns,Čiekurkalna 2. l. 1,1,23.0,1.0,2.0,P. kara,Masonry,All amenities
+216,5216,For rent,centrs,Pulkv. Brieža 21,2,83.0,3.0,7.0,Jaun.,Panel,All amenities
+220,5220,For rent,Purvciems,Dzelzavas 53,1,34.0,5.0,9.0,467.,Panel,All amenities
+224,5224,For rent,centrs,Stabu 94,3,97.0,6.0,6.0,Renov.,Masonry,All amenities
+226,5226,For rent,Sarkandaugava,Ganību d. 31b,2,39.0,2.0,5.0,Specpr.,Brick-Panel,All amenities
+227,5227,For rent,Sarkandaugava,Ganību d. 31b,1,30.0,4.0,5.0,Renov.,Brick-Panel,All amenities
+231,5231,For rent,Mežaparks,Viestura pr. 37,1,35.0,3.0,17.0,Specpr.,Brick-Panel,All amenities
+232,5232,For rent,centrs,Marijas 20,4,114.0,4.0,5.0,P. kara,Masonry,All amenities
+233,5233,For rent,Ziepniekkalns,Ozolciema 24,1,43.0,3.0,10.0,119.,Brick-Panel,All amenities
+234,5234,For rent,Mežciems,Hipokrāta 13,1,45.0,3.0,16.0,104.,Brick-Panel,All amenities
+235,5235,For rent,Pļavnieki,Dzeņu 8,1,40.0,4.0,5.0,M. ģim.,Panel,All amenities
+237,5237,For rent,Ziepniekkalns,Valdeķu 62,1,38.0,3.0,9.0,Specpr.,Brick,All amenities
+238,5238,For rent,centrs,Cēsu 41,2,40.0,2.0,2.0,P. kara,Wood,All amenities
+239,5239,For rent,Purvciems,Dudajeva g. 5,1,28.0,3.0,5.0,LT proj.,Brick-Panel,All amenities
+242,5242,For rent,centrs,Klijānu 6,1,14.0,5.0,9.0,Jaun.,Panel-Brick,All amenities
+245,5245,For rent,centrs,Matīsa 41,1,22.0,1.0,2.0,Jaun.,Wood,All amenities
+246,5246,For rent,centrs,Matīsa 46,1,17.0,3.0,5.0,Jaun.,Masonry,All amenities
+247,5247,For rent,Iļģuciems,Motoru 3,1,25.0,5.0,5.0,M. ģim.,Brick,All amenities
+248,5248,For rent,centrs,Barona 24/26,1,22.0,6.0,6.0,Renov.,Masonry,All amenities
+249,5249,For rent,Ziepniekkalns,Ozolciema 30,1,40.0,6.0,9.0,M. ģim.,Panel,All amenities
+254,5254,For rent,centrs,Cēsu 5,2,48.0,3.0,6.0,P. kara,Masonry,All amenities
+255,5255,For rent,centrs,Valdemāra 53,1,19.0,3.0,5.0,P. kara,Masonry,All amenities
+257,5257,For rent,Āgenskalns,Tukuma 3,1,24.0,2.0,3.0,P. kara,Panel-Brick,All amenities
+265,5265,For rent,Pļavnieki,Salnas 34,2,48.0,2.0,9.0,602.,Panel,All amenities
+268,5268,For rent,centrs,Lāčplēša 123,3,57.0,6.0,6.0,Jaun.,Masonry,All amenities
+269,5269,For rent,Teika,Burtnieku 35,1,18.0,3.0,5.0,M. ģim.,Brick,All amenities
+273,5273,For rent,centrs,Tērbatas 26,2,52.0,4.0,4.0,P. kara,Brick,All amenities
+281,5281,For rent,Mangaļi,Carnikavas 3c,1,24.0,1.0,1.0,Specpr.,Brick,All amenities
+282,5282,For rent,Zolitūde,Gramzdas 19,2,60.0,9.0,5.0,119.,Panel,All amenities
+285,5285,For rent,centrs,Maskavas 50,3,70.0,2.0,3.0,P. kara,Masonry,All amenities
+287,5287,For rent,centrs,Matīsa 85,2,48.0,1.0,4.0,P. kara,Masonry,All amenities
+288,5288,For rent,Ķengarags,Krustpils 123a,1,19.0,1.0,1.0,Renov.,Brick,All amenities
+290,5290,For rent,Imanta,Kurzemes pr. 148,1,33.0,7.0,9.0,602.,Panel,All amenities
+291,5291,For rent,Imanta,Dubultu 20,2,39.0,3.0,5.0,LT proj.,Panel,All amenities
+295,5295,For rent,centrs,Stabu 102,1,12.0,5.0,5.0,P. kara,Brick,All amenities
+296,5296,For rent,Jugla,Juglas 3,1,38.0,8.0,12.0,Specpr.,Brick,All amenities
+297,5297,For rent,Āgenskalns,Valentīna 16,3,70.0,1.0,1.0,Jaun.,Brick,All amenities
+298,5298,For rent,Imanta,Anniņmuižas iela 28,2,60.0,11.0,16.0,Specpr.,Brick,All amenities
+304,5304,For rent,Āgenskalns,Talsu 42,1,25.0,3.0,5.0,P. kara,Masonry,Partial amenities
+308,5308,For rent,Ziepniekkalns,Ozolciema 21/1,2,55.0,10.0,10.0,119.,Panel-Brick,All amenities
+311,5311,For rent,centrs,Grēcinieku 24,3,142.0,4.0,7.0,P. kara,Brick-Panel,All amenities
+312,5312,For rent,centrs,Čaka 33,2,40.0,4.0,6.0,P. kara,Brick,All amenities
+313,5313,For rent,Mangaļi,Viestura pr. 22,2,48.0,3.0,4.0,Specpr.,Brick,All amenities
+314,5314,For rent,centrs,Upes 2a,1,34.0,5.0,5.0,Specpr.,Panel-Brick,All amenities
+315,5315,For rent,centrs,Brīvības 103,Citi,300.0,4.0,5.0,Specpr.,Masonry,All amenities
+318,5318,For rent,Āgenskalns,Raņķa d. 34,3,109.0,8.0,23.0,Jaun.,Panel,All amenities
+319,5319,For rent,Ķīpsala,Ogļu 32,3,80.0,1.0,4.0,Renov.,Masonry,All amenities
+321,5321,For rent,centrs,Stabu 16,5,250.0,4.0,6.0,Renov.,Masonry,All amenities
+325,5325,For rent,centrs,Rūpniecības 22,3,98.0,6.0,7.0,Specpr.,Brick,All amenities
+326,5326,For rent,Jugla,Vidzemes al. 1,2,48.0,8.0,12.0,Čehu pr.,Brick-Panel,All amenities
+327,5327,For rent,centrs,Krāsotāju 6,3,95.0,4.0,5.0,Jaun.,Masonry,All amenities
+330,5330,For rent,centrs,Sadovņikova 47,1,19.0,3.0,5.0,P. kara,Brick,Partial amenities
+331,5331,For rent,Krasta r-ns,Salacas 1,1,36.0,3.0,4.0,Renov.,Brick-Panel,All amenities
+332,5332,For rent,Krasta r-ns,Salacas 1,1,23.0,1.0,4.0,Renov.,Brick,All amenities
+334,5334,For rent,Āgenskalns,Mūkusalas 25,2,49.0,3.0,6.0,Jaun.,Panel-Brick,All amenities
+343,5343,For rent,centrs,Terēzes 8,1,28.0,2.0,5.0,Renov.,Brick,All amenities
+346,5346,For rent,Imanta,Anniņmuižas bulvāris 41,3,95.0,18.0,24.0,Jaun.,Panel-Brick,All amenities
+347,5347,For rent,Imanta,Anniņmuižas bulvāris 41,3,96.0,6.0,24.0,Jaun.,Panel-Brick,All amenities
+350,5350,For rent,Maskavas priekšpilsēta,Daugavpils 8,1,15.0,1.0,2.0,P. kara,Wood,All amenities
+351,5351,For rent,Iļģuciems,Stūres 2,1,18.0,2.0,5.0,M. ģim.,Panel,Partial amenities
+357,5357,For rent,Mežciems,Kaivas 50,1,35.0,5.0,5.0,Jaun.,Panel-Brick,All amenities
+358,5358,For rent,Bolderāja,Gobas 29,2,60.0,4.0,5.0,Specpr.,Brick,All amenities
+363,5363,For rent,centrs,Čaka 143,3,75.0,4.0,5.0,P. kara,Masonry,Partial amenities
+364,5364,For rent,Ziepniekkalns,Ozolciema 12/2,2,59.0,9.0,9.0,119.,Panel,All amenities
+366,5366,For rent,Ķengarags,Prūšu 15,2,39.0,3.0,5.0,LT proj.,Panel,All amenities
+367,5367,For rent,Iļģuciems,Lilijas 9,3,54.0,4.0,5.0,Hrušč.,Brick,All amenities
+370,5370,For rent,centrs,Kalniņa 6,1,56.0,1.0,5.0,Renov.,Masonry,All amenities
+375,5375,For rent,Purvciems,Stirnu 53,1,30.0,3.0,5.0,LT proj.,Panel,All amenities
+376,5376,For rent,centrs,Stabu 15,2,55.0,2.0,5.0,Staļina,Brick,All amenities
+377,5377,For rent,centrs,Matīsa 69a,2,62.0,4.0,7.0,Jaun.,Brick,All amenities
+389,5389,For rent,Iļģuciems,Sniķeres 24,1,27.0,1.0,1.0,Priv. m.,Wood,All amenities
+391,5391,For rent,centrs,Ģertrūdes 50,2,45.0,6.0,6.0,P. kara,Masonry,All amenities
+393,5393,For rent,Bolderāja,Dolomīta 2,1,32.0,5.0,5.0,Hrušč.,Brick,All amenities
+394,5394,For rent,Bolderāja,Stagaru 4,1,38.0,4.0,5.0,M. ģim.,Brick-Panel,Partial amenities
+395,5395,For rent,Kundziņsala,Kundziņsalas 8. šķ. l. 3,1,32.0,1.0,2.0,P. kara,Masonry,All amenities
+396,5396,For rent,Mežciems,Mežciema 23,1,49.0,2.0,16.0,104.,Panel,All amenities
+397,5397,For rent,Grīziņkalns,Alauksta 9,1,45.0,4.0,6.0,Jaun.,Brick-Panel,All amenities
+400,5400,For rent,centrs,Ģertrūdes 81,1,45.0,2.0,3.0,Jaun.,Brick,All amenities
+401,5401,For rent,Āgenskalns,Lielirbes 13,3,90.0,15.0,30.0,Jaun.,Masonry,All amenities
+408,5408,For rent,centrs,Blaumaņa 56,2,64.0,5.0,6.0,P. kara,Masonry,All amenities
+409,5409,For rent,Ziepniekkalns,Stērstu 22,2,40.0,1.0,2.0,Specpr.,Masonry,Partial amenities
+410,5410,For rent,centrs,Miera 93,3,89.0,6.0,6.0,Jaun.,Panel,All amenities
+413,5413,For rent,Teika,Brīvības gatve 404,1,30.0,2.0,12.0,Čehu pr.,Brick,All amenities
+414,5414,For rent,Jugla,Brīvības gatve 404,1,30.0,2.0,12.0,Čehu pr.,Brick,All amenities
+415,5415,For rent,centrs,Čaka 59,3,85.0,5.0,5.0,P. kara,Brick,All amenities
+418,5418,For rent,Zolitūde,Augšzemes 5,2,57.0,3.0,4.0,Jaun.,Panel,All amenities
+420,5420,For rent,centrs,Čaka 143,2,58.0,4.0,5.0,P. kara,Brick-Panel,All amenities
+424,5424,For rent,Maskavas priekšpilsēta,Jēkabpils 9,1,25.0,3.0,3.0,Renov.,Masonry,All amenities
+425,5425,For rent,Mežciems,Hipokrāta 11,1,45.0,12.0,16.0,104.,Panel,All amenities
+426,5426,For rent,Zolitūde,Ruses 26,3,77.0,2.0,9.0,119.,Panel,All amenities
+432,5432,For rent,centrs,Matīsa 35,3,63.0,3.0,5.0,Renov.,Masonry,All amenities
+436,5436,For rent,Ķengarags,Aviācijas 23,1,35.0,6.0,12.0,LT proj.,Brick,All amenities
+437,5437,For rent,Teika,Zemgala gatve 52,3,55.0,1.0,1.0,Priv. m.,Masonry,All amenities
+438,5438,For rent,Jugla,Vangažu 11,1,32.0,4.0,12.0,M. ģim.,Brick,All amenities
+443,5443,For rent,centrs,Lāčplēša 18,1,25.0,5.0,5.0,P. kara,Masonry,All amenities
+447,5447,For rent,Ķengarags,Pelnu 2,2,49.0,5.0,5.0,LT proj.,Brick-Panel,All amenities
+450,5450,For rent,Zolitūde,Rostokas 4,2,58.0,2.0,9.0,119.,Panel,All amenities
+458,5458,For rent,centrs,Barona 21,2,50.0,4.0,4.0,P. kara,Brick,All amenities
+459,5459,For rent,Pļavnieki,Saharova 7,1,43.0,6.0,9.0,M. ģim.,Panel,All amenities
+465,5465,For rent,Maskavas priekšpilsēta,Maskavas 68,1,25.0,4.0,6.0,P. kara,Masonry,Partial amenities
+473,5473,For rent,centrs,Stabu 111,1,30.0,1.0,5.0,P. kara,Brick,All amenities
+474,5474,For rent,Sarkandaugava,Hāpsalas 1/1,2,64.0,2.0,5.0,Jaun.,Brick-Panel,All amenities
+484,5484,For rent,centrs,Tomsona 42,1,30.0,1.0,5.0,Hrušč.,Brick,All amenities
+486,5486,For rent,Sarkandaugava,Viestura pr. 43,1,35.0,2.0,9.0,Specpr.,Brick,All amenities
+490,5490,For rent,centrs,Skolas 38,4,190.0,7.0,7.0,Renov.,Masonry,All amenities
+491,5491,For rent,centrs,Lienes 14,1,30.0,2.0,3.0,P. kara,Brick,All amenities
+493,5493,For rent,centrs,Birznieka-Upīša 13,2,55.0,2.0,5.0,Jaun.,Masonry,All amenities
+494,5494,For rent,centrs,Barona 17,1,18.0,5.0,5.0,P. kara,Masonry,All amenities
+495,5495,For rent,Purvciems,Dzelzavas 76,2,50.0,3.0,9.0,602.,Panel,All amenities
+496,5496,For rent,Purvciems,Dudajeva g. 5,1,28.0,4.0,5.0,LT proj.,Panel,All amenities
+498,5498,For rent,Pļavnieki,Pļavnieku 9,1,46.0,7.0,9.0,Jaun.,Brick-Panel,All amenities
+500,5500,For rent,Pļavnieki,Grestes 2,1,31.0,6.0,9.0,602.,Panel,All amenities
+502,5502,For rent,Ziepniekkalns,Īslīces 14,1,29.0,2.0,12.0,M. ģim.,Brick,All amenities
+503,5503,For rent,Torņakalns,Jelgavas 63,2,57.0,6.0,6.0,Jaun.,Brick-Panel,All amenities
+504,5504,For rent,Iļģuciems,Stūres 2,1,18.0,5.0,5.0,M. ģim.,Brick,All amenities
+505,5505,For rent,Zolitūde,Gramzdas 80,1,55.0,1.0,4.0,Jaun.,Panel,All amenities
+508,5508,For rent,centrs,Bruņinieku 115,1,22.0,1.0,4.0,Renov.,Masonry,All amenities
+509,5509,For rent,Sarkandaugava,Tilta 4,1,38.0,4.0,4.0,P. kara,Masonry,All amenities
+510,5510,For rent,Maskavas priekšpilsēta,Viļānu 6,1,37.0,5.0,5.0,LT proj.,Panel,All amenities
+511,5511,For rent,centrs,Marijas 16,4,104.0,4.0,6.0,Renov.,Masonry,All amenities
+521,5521,For rent,Āgenskalns,Nometņu 62,1,20.0,1.0,1.0,Priv. m.,Wood,All amenities
+523,5523,For rent,centrs,Lāčplēša 98,1,20.0,4.0,6.0,Renov.,Brick-Panel,All amenities
+524,5524,For rent,Maskavas priekšpilsēta,Maskavas 180,1,40.0,1.0,5.0,Specpr.,Brick,All amenities
+526,5526,For rent,Grīziņkalns,Alauksta 9,3,109.0,6.0,6.0,Jaun.,Brick-Panel,All amenities
+529,5529,For rent,Purvciems,Ķeguma 43,1,40.0,5.0,5.0,M. ģim.,Panel,All amenities
+532,5532,For rent,centrs,Marijas 16,2,48.0,3.0,6.0,P. kara,Brick,All amenities
+546,5546,For rent,centrs,Rūpniecības 20,3,89.0,2.0,4.0,Renov.,Brick,All amenities
+554,5554,For rent,Teika,Stārķu 2,2,45.0,1.0,5.0,Jaun.,Panel,All amenities
+556,5556,For rent,Imanta,Kurzemes pr. 112,1,27.0,4.0,5.0,LT proj.,Panel,All amenities
+560,5560,For rent,centrs,Vīlandes 10,3,135.0,5.0,5.0,Renov.,Brick,All amenities
+561,5561,For rent,centrs,Stabu 71,2,47.0,3.0,5.0,P. kara,Masonry,All amenities
+562,5562,For rent,Purvciems,Burtnieku 35,1,18.0,2.0,4.0,Specpr.,Brick,All amenities
+563,5563,For rent,centrs,Brīvības iela 139,3,200.0,2.0,5.0,Renov.,Brick,All amenities
+565,5565,For rent,centrs,Marijas 16,2,32.0,4.0,6.0,Renov.,Brick,All amenities
+566,5566,For rent,Dzegužkalns,Jaunsaules 5,1,18.0,2.0,5.0,LT proj.,Panel,All amenities
+567,5567,For rent,centrs,Rūpniecības 5,2,120.0,5.0,5.0,Renov.,Masonry,All amenities
+568,5568,For rent,Mežciems,Mežciema 44,2,49.0,5.0,5.0,LT proj.,Panel,All amenities
+573,5573,For rent,centrs,Klijānu 6,3,79.0,7.0,9.0,Jaun.,Masonry,All amenities
+574,5574,For rent,Mežciems,Kaivas 74b,3,70.0,1.0,5.0,Jaun.,Masonry,All amenities
+575,5575,For rent,Mežciems,Kaivas 50-94b,1,39.0,1.0,5.0,Jaun.,Masonry,All amenities
+576,5576,For rent,Zolitūde,Zolitūdes 47,1,45.0,9.0,8.0,119.,Panel,All amenities
+577,5577,For rent,centrs,Jeruzalemes 5,2,67.0,2.0,6.0,Jaun.,Panel-Brick,All amenities
+579,5579,For rent,centrs,Čaka 117/1,3,75.0,6.0,6.0,Renov.,Masonry,All amenities
+585,5585,For rent,Vecrīga,Peitavas 5,3,78.0,5.0,5.0,Renov.,Brick,All amenities
+588,5588,For rent,Teika,Bajāru 7,3,58.0,2.0,2.0,Jaun.,Brick,All amenities
+589,5589,For rent,Zolitūde,Gramzdas 82,1,55.0,1.0,4.0,Jaun.,Brick-Panel,All amenities
+591,5591,For rent,centrs,Gogoļa 7,2,60.0,4.0,4.0,P. kara,Masonry,All amenities
+598,5598,For rent,centrs,Pulkv. Brieža 7,3,100.0,2.0,6.0,Renov.,Brick-Panel,All amenities
+600,5600,For rent,Daugavgrīva,Flotes 8,1,25.0,2.0,2.0,Renov.,Brick,All amenities
+602,5602,For rent,Jugla,Veldres 7,2,45.0,3.0,5.0,Hrušč.,Panel,All amenities
+603,5603,For rent,centrs,Sadovņikova 25,2,67.0,3.0,5.0,Jaun.,Panel-Brick,All amenities
+606,5606,For rent,centrs,Tomsona 30,2,81.0,2.0,9.0,Jaun.,Brick-Panel,All amenities
+607,5607,For rent,Imanta,Kurzemes pr. 122,1,37.0,9.0,9.0,602.,Panel,All amenities
+608,5608,For rent,centrs,Barona 24/26,1,20.0,2.0,6.0,Jaun.,Brick-Panel,All amenities
+609,5609,For rent,Pļavnieki,Ulbrokas 12,2,61.0,6.0,8.0,Jaun.,Brick,All amenities
+610,5610,For rent,centrs,Barona 21,1,40.0,4.0,5.0,P. kara,Masonry,All amenities
+611,5611,For rent,centrs,Antonijas 22,2,88.0,5.0,6.0,Renov.,Masonry,All amenities
+613,5613,For rent,Iļģuciems,Lidoņu 3a,2,50.0,3.0,5.0,LT proj.,Panel,All amenities
+614,5614,For rent,Grīziņkalns,Alauksta 21,1,30.0,2.0,5.0,P. kara,Brick,All amenities
+620,5620,For rent,centrs,Pērnavas 7,3,75.5,6.0,6.0,Renov.,Masonry,All amenities
+627,5627,For rent,centrs,Pērnavas 39,1,25.0,5.0,6.0,P. kara,Brick,All amenities
+629,5629,For rent,centrs,Ģertrūdes 99k2,2,30.0,3.0,5.0,P. kara,Masonry,Partial amenities
+632,5632,For rent,centrs,Ģertrūdes 22,2,60.0,5.0,5.0,Renov.,Brick,All amenities
+633,5633,For rent,centrs,Čaka 156,1,33.0,5.0,6.0,P. kara,Masonry,All amenities
+636,5636,For rent,centrs,Krāsotāju 2,4,75.0,1.0,2.0,P. kara,Wood,All amenities
+641,5641,For rent,Jugla,Brīvības gatve 391,2,44.0,4.0,5.0,Hrušč.,Brick,All amenities
+642,5642,For rent,centrs,Brīvības 162/2,2,43.0,8.0,8.0,Specpr.,Brick,All amenities
+643,5643,For rent,Pļavnieki,Pavasara g. 2,1,35.0,6.0,9.0,602.,Panel,All amenities
+645,5645,For rent,Jugla,Brīvības gatve 388,1,34.0,4.0,12.0,M. ģim.,Brick-Panel,All amenities
+647,5647,For rent,Vecrīga,Peitavas 5,3,110.0,3.0,5.0,Renov.,Masonry,All amenities
+651,5651,For rent,Vecrīga,Vāgnera 12,2,35.0,3.0,4.0,Renov.,Masonry,All amenities
+653,5653,For rent,centrs,Pulkv. Brieža 7,2,81.0,5.0,5.0,Renov.,Masonry,All amenities
+654,5654,For rent,centrs,Lāčplēša 119,1,16.0,1.0,5.0,Specpr.,Brick,All amenities
+660,5660,For rent,Āgenskalns,Baložu 5,4,112.0,3.0,3.0,Priv. m.,Brick,All amenities
+661,5661,For rent,Ķīpsala,Ķīpsalas 4,2,52.0,3.0,4.0,Jaun.,Masonry,All amenities
+667,5667,For rent,Ziepniekkalns,Ozolciema 38,1,44.0,2.0,9.0,119.,Panel,All amenities
+670,5670,For rent,centrs,Lāčplēša 98,1,20.0,3.0,5.0,Renov.,Brick-Panel,All amenities
+671,5671,For rent,Pļavnieki,Salnas 21,2,43.0,1.0,9.0,Jaun.,Brick-Panel,All amenities
+672,5672,For rent,centrs,Matīsa 109,3,88.0,5.0,5.0,Renov.,Brick,All amenities
+673,5673,For rent,Dzegužkalns,Ķiršu 4,2,25.0,1.0,2.0,P. kara,Masonry,All amenities
+674,5674,For rent,Ziepniekkalns,Sērenes 4,3,75.0,2.0,16.0,104.,Panel,All amenities
+676,5676,For rent,centrs,Zaubes 9,3,95.0,3.0,6.0,Jaun.,Masonry,All amenities
+679,5679,For rent,Purvciems,Vairoga 32,3,52.0,3.0,3.0,Jaun.,Masonry,All amenities
+683,5683,For rent,Vecmīlgrāvis,Kāvu 4,1,30.0,5.0,5.0,LT proj.,Panel,All amenities
+688,5688,For rent,centrs,Brīvības 72,2,85.0,3.0,6.0,P. kara,Masonry,All amenities
+690,5690,For rent,centrs,Strēlnieku 7,2,57.0,5.0,7.0,Jaun.,Panel-Brick,All amenities
+692,5692,For rent,centrs,Pulkv. Brieža 3,2,49.0,3.0,5.0,P. kara,Masonry,All amenities
+693,5693,For rent,centrs,Skolas 36,2,52.0,3.0,4.0,P. kara,Brick,All amenities
+695,5695,For rent,Iļģuciems,Kurzemes pr. 58,2,50.0,4.0,5.0,LT proj.,Panel,All amenities
+697,5697,For rent,centrs,Dzirnavu 130,2,53.0,1.0,2.0,P. kara,Wood,Partial amenities
+698,5698,For rent,centrs,Alberta 9,2,56.0,1.0,6.0,Renov.,Masonry,All amenities
+700,5700,For rent,centrs,Brīvības 59,1,40.0,6.0,6.0,P. kara,Masonry,All amenities
+702,5702,For rent,centrs,Lenču 2,2,45.0,1.0,6.0,P. kara,Masonry,All amenities
+703,5703,For rent,centrs,Valdemāra 75,2,82.0,6.0,6.0,P. kara,Masonry,All amenities
+705,5705,For rent,centrs,Barona 63,2,60.0,2.0,5.0,Renov.,Masonry,All amenities
+706,5706,For rent,Āgenskalns,Kandavas 8,1,34.0,4.0,5.0,103.,Brick-Panel,All amenities
+708,5708,For rent,Pļavnieki,J. Vācieša 2,1,67.0,1.0,16.0,Specpr.,Brick-Panel,All amenities
+709,5709,For rent,centrs,Lāčplēša 14,4,96.0,5.0,6.0,P. kara,Masonry,All amenities
+710,5710,For rent,Āgenskalns,Jūrmalas g. 7,3,55.0,5.0,5.0,LT proj.,Panel,All amenities
+712,5712,For rent,Pļavnieki,Saharova 15,1,49.0,10.0,12.0,104.,Panel,All amenities
+713,5713,For rent,centrs,Elizabetes 10,2,52.0,2.0,5.0,P. kara,Masonry,All amenities
+714,5714,For rent,Ķengarags,Maskavas 261,1,19.0,5.0,5.0,Renov.,Brick,All amenities
+715,5715,For rent,Āgenskalns,Mūkusalas 29,2,61.0,4.0,4.0,Jaun.,Masonry,All amenities
+716,5716,For rent,centrs,Ausekļa 11,4,145.0,5.0,6.0,P. kara,Masonry,All amenities
+721,5721,For rent,Vecrīga,Kalēju 74,2,72.0,4.0,7.0,Jaun.,Panel,All amenities
+722,5722,For rent,Jugla,Ciemupes 2,3,130.0,9.0,9.0,Jaun.,Brick-Panel,All amenities
+724,5724,For rent,Maskavas priekšpilsēta,Maskavas 146,1,20.0,1.0,5.0,Renov.,Brick,All amenities
+729,5729,For rent,centrs,Stabu 46,1,14.0,5.0,6.0,P. kara,Masonry,All amenities
+733,5733,For rent,Teika,Ūnijas 36,1,20.0,1.0,5.0,103.,Brick-Panel,All amenities
+741,5741,For rent,Āgenskalns,Mūkusalas 25,1,35.6,4.0,6.0,Jaun.,Masonry,All amenities
+743,5743,For rent,Mangaļi,Ezera 18,1,35.0,2.0,3.0,Specpr.,Brick,All amenities
+748,5748,For rent,centrs,Ģertrūdes 107,1,15.0,4.0,5.0,P. kara,Masonry,All amenities
+751,5751,For rent,Čiekurkalns,Čiekurkalna 1. l. 65,3,40.0,2.0,2.0,P. kara,Wood,Partial amenities
+757,5757,For rent,centrs,Bruņinieku 115a,1,20.0,4.0,5.0,P. kara,Masonry,Partial amenities
+759,5759,For rent,centrs,Klusā 20,1,28.0,3.0,9.0,Jaun.,Masonry,All amenities
+762,5762,For rent,Torņakalns,Ludviķa 3,1,37.0,1.0,1.0,Staļina,Wood,Partial amenities
+773,5773,For rent,Maskavas priekšpilsēta,Kalna 11,2,32.0,3.0,3.0,P. kara,Masonry,All amenities
+774,5774,For rent,centrs,Marijas 16,2,50.0,3.0,6.0,P. kara,Brick,All amenities
+777,5777,For rent,Iļģuciems,Kreslera 1,1,32.0,1.0,2.0,M. ģim.,Brick,All amenities
+780,5780,For rent,centrs,Barona 76,3,71.0,6.0,6.0,Renov.,Masonry,All amenities
+785,5785,For rent,centrs,Klusā 9,2,50.0,1.0,5.0,Specpr.,Brick,All amenities
+787,5787,For rent,centrs,Baznīcas 7,1,10.0,6.0,6.0,P. kara,Masonry,All amenities
+788,5788,For rent,Dzegužkalns,Daugavgrīvas 56,3,57.0,1.0,9.0,467.,Panel,All amenities
+789,5789,For rent,Iļģuciems,Daugavgrīvas 56,3,57.0,1.0,9.0,467.,Panel,All amenities
+790,5790,For rent,Teika,Ropažu 22,2,42.0,4.0,5.0,Hrušč.,Brick,All amenities
+791,5791,For rent,centrs,Stabu 49a,2,46.0,3.0,5.0,P. kara,Masonry,All amenities
+792,5792,For rent,Ziepniekkalns,Valdeķu 54/5,1,32.0,5.0,9.0,602.,Panel,All amenities
+794,5794,For rent,Iļģuciems,Iļģuciema 5,3,52.0,1.0,2.0,P. kara,Wood,Partial amenities
+796,5796,For rent,Iļģuciems,Skujenes 13,2,46.0,5.0,5.0,Hrušč.,Panel,All amenities
+798,5798,For rent,centrs,Brīvības iela 170,2,51.0,2.0,6.0,P. kara,Masonry,All amenities
+799,5799,For rent,centrs,Brīvības 92/94,2,60.0,2.0,5.0,Hrušč.,Brick,All amenities
+802,5802,For rent,Dzegužkalns,Kreslera 1/5,2,46.0,2.0,2.0,Hrušč.,Brick,All amenities
+804,5804,For rent,centrs,13. janvāra 21,1,58.0,6.0,7.0,Jaun.,Panel,All amenities
+806,5806,For rent,Purvciems,Deglava 7,1,46.0,5.0,6.0,Jaun.,Brick-Panel,All amenities
+813,5813,For rent,Purvciems,Marsa g. 6,2,50.0,1.0,5.0,LT proj.,Panel,All amenities
+814,5814,For rent,centrs,Elizabetes 9,2,57.0,2.0,5.0,P. kara,Masonry,All amenities
+815,5815,For rent,Jugla,Juglas 12,2,60.0,12.0,12.0,104.,Brick-Panel,All amenities
+816,5816,For rent,centrs,Pērnavas 14,2,42.0,4.0,5.0,Hrušč.,Brick,All amenities
+818,5818,For rent,Ziepniekkalns,Ozolciema 8,1,32.0,1.0,9.0,Specpr.,Brick,All amenities
+820,5820,For rent,Bolderāja,Lemešu 7,2,50.0,6.0,9.0,602.,Panel,All amenities
+826,5826,For rent,centrs,Ģertrūdes 129,2,37.0,4.0,5.0,Renov.,Brick,All amenities
+827,5827,For rent,Imanta,Anniņmuižas bulvāris 38,1,52.0,6.0,15.0,Jaun.,Brick-Panel,All amenities
+828,5828,For rent,Sarkandaugava,Pededzes 4,2,42.0,3.0,5.0,Hrušč.,Brick,All amenities
+831,5831,For rent,centrs,Lāčplēša 16,1,20.0,5.0,6.0,P. kara,Masonry,All amenities
+833,5833,For rent,Šampēteris-Pleskodāle,Lielirbes 11,3,92.0,12.0,25.0,Jaun.,Brick-Panel,All amenities
+838,5838,For rent,centrs,Sapieru 3b,1,26.0,4.0,5.0,Renov.,Brick,All amenities
+839,5839,For rent,centrs,Tērbatas 41,1,20.0,1.0,5.0,P. kara,Masonry,All amenities
+841,5841,For rent,Zolitūde,Gramzdas 80,2,72.0,2.0,4.0,Jaun.,Panel-Brick,All amenities
+850,5850,For rent,centrs,Matīsa 81,1,25.0,2.0,2.0,P. kara,Masonry,All amenities
+851,5851,For rent,Sarkandaugava,Tvaika 16,2,35.0,3.0,5.0,Hrušč.,Brick,All amenities
+856,5856,For rent,Pļavnieki,Zemes 3,1,14.0,2.0,9.0,602.,Panel,All amenities
+857,5857,For rent,Imanta,Progresa 31,1,22.0,2.0,2.0,Priv. m.,Brick,All amenities
+859,5859,For rent,Torņakalns,Vaiņodes 24a,2,36.0,4.0,5.0,LT proj.,Panel,Partial amenities
+867,5867,For rent,centrs,Miera 105,2,46.0,2.0,6.0,Renov.,Masonry,All amenities
+870,5870,For rent,Imanta,Kleistu 179,1,27.0,1.0,5.0,LT proj.,Panel,All amenities
+871,5871,For rent,Āgenskalns,Kuģu 22,2,45.0,5.0,6.0,Hrušč.,Brick,All amenities
+880,5880,For rent,centrs,Republikas laukums 3,2,56.0,2.0,7.0,Jaun.,Masonry,All amenities
+891,5891,For rent,centrs,Pērnavas 4,3,60.0,1.0,3.0,P. kara,Masonry,All amenities
+892,5892,For rent,Āgenskalns,Mūkusalas 29,2,52.1,2.0,4.0,Jaun.,Masonry,All amenities
+893,5893,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,5.0,30.0,Jaun.,Masonry,All amenities
+894,5894,For rent,Āgenskalns,Lielirbes 13,3,90.0,5.0,30.0,Jaun.,Masonry,All amenities
+905,5905,For rent,centrs,Elijas 20,1,40.0,1.0,5.0,P. kara,Brick,All amenities
+908,5908,For rent,Ķengarags,Ikšķiles 16,1,16.0,4.0,5.0,LT proj.,Panel,All amenities
+912,5912,For rent,Jugla,Vidzemes al. 1,1,35.0,3.0,9.0,Čehu pr.,Brick-Panel,All amenities
+915,5915,For rent,Purvciems,Kastrānes 1 k-2,1,16.0,1.0,5.0,Renov.,Brick-Panel,All amenities
+917,5917,For rent,Vecmīlgrāvis,Emmas 28,2,37.0,4.0,4.0,Staļina,Brick,All amenities
+926,5926,For rent,centrs,Maskavas 146,2,28.0,4.0,5.0,Renov.,Masonry,All amenities
+929,5929,For rent,Krasta r-ns,Ogres 14,2,52.0,5.0,9.0,467.,Panel,All amenities
+933,5933,For rent,Pļavnieki,Saharova 7,1,40.0,6.0,9.0,M. ģim.,Panel,All amenities
+937,5937,For rent,Mežaparks,Sudrabu Edžus 13,4,125.0,2.0,2.0,P. kara,Wood,All amenities
+938,5938,For rent,centrs,Brīvības iela 68,1,18.0,4.0,6.0,Renov.,Masonry,All amenities
+939,5939,For rent,Vecrīga,Vaļņu 8,3,100.0,3.0,5.0,P. kara,Masonry,All amenities
+944,5944,For rent,centrs,Valkas 4,2,63.0,2.0,5.0,Jaun.,Masonry,All amenities
+947,5947,For rent,Ķīpsala,Balasta d. 72,3,116.0,2.0,5.0,Renov.,Masonry,All amenities
+948,5948,For rent,Ķīpsala,M. Balasta d. 72,2,122.0,2.0,3.0,Renov.,Masonry,All amenities
+949,5949,For rent,Imanta,M. Krūmu 1,3,69.0,5.0,5.0,LT proj.,Panel,All amenities
+957,5957,For rent,Ziepniekkalns,Ozolciema 20/1,1,20.0,2.0,10.0,119.,Panel-Brick,All amenities
+958,5958,For rent,Zolitūde,Anniņmuižas 40,2,55.0,4.0,5.0,LT proj.,Panel,All amenities
+963,5963,For rent,centrs,Miera 101,2,45.0,4.0,5.0,P. kara,Masonry,All amenities
+964,5964,For rent,centrs,Ģertrūdes 93,1,26.0,1.0,5.0,P. kara,Brick-Panel,All amenities
+966,5966,For rent,centrs,Lāčplēša 35,1,24.0,3.0,6.0,P. kara,Masonry,All amenities
+968,5968,For rent,centrs,Mālpils 2,2,42.0,4.0,5.0,Hrušč.,Brick,All amenities
+969,5969,For rent,Maskavas priekšpilsēta,Lomonosova 2,1,32.0,2.0,4.0,Staļina,Masonry,All amenities
+972,5972,For rent,centrs,Valdemāra 20,3,131.0,5.0,5.0,P. kara,Masonry,All amenities
+973,5973,For rent,centrs,Vīlandes 2,2,61.0,5.0,5.0,Renov.,Masonry,All amenities
+974,5974,For rent,centrs,Rūpniecības 21,5,161.0,5.0,5.0,Jaun.,Masonry,All amenities
+975,5975,For rent,Čiekurkalns,Čiekurkalna 1. l. 28,2,57.0,3.0,3.0,P. kara,Brick,Partial amenities
+977,5977,For rent,centrs,Klusā 18,1,16.0,4.0,9.0,Renov.,Brick-Panel,All amenities
+979,5979,For rent,centrs,Elizabetes 2a,4,95.0,3.0,5.0,P. kara,Brick,All amenities
+980,5980,For rent,Ķengarags,Maskavas 315,1,35.0,1.0,12.0,Čehu pr.,Brick,All amenities
+983,5983,For rent,Āgenskalns,Vīlipa 12,1,49.0,3.0,7.0,Jaun.,Panel-Brick,All amenities
+984,5984,For rent,Imanta,Rigondas g. 3,2,46.0,6.0,12.0,Čehu pr.,Brick-Panel,All amenities
+985,5985,For rent,Jugla,Ūdeļu 29,2,47.0,5.0,5.0,103.,Brick-Panel,All amenities
+990,5990,For rent,Bolderāja,Platā 22,1,40.0,7.0,9.0,Specpr.,Brick,All amenities
+995,5995,For rent,centrs,Bruņinieku 8,3,113.0,5.0,5.0,P. kara,Masonry,All amenities
+998,5998,For rent,centrs,Barona 63,2,59.0,2.0,6.0,P. kara,Masonry,All amenities
+1004,6004,For rent,Čiekurkalns,Čiekurkalna 2. l. 61,1,21.0,2.0,4.0,P. kara,Brick,All amenities
+1012,6012,For rent,Bolderāja,Lielupes 68,2,48.0,5.0,5.0,LT proj.,Panel,All amenities
+1016,6016,For rent,centrs,Jeruzalemes 10,3,125.0,5.0,2.0,Jaun.,Panel,All amenities
+1022,6022,For rent,Zolitūde,Anniņmuižas 20,4,104.0,4.0,6.0,Jaun.,Panel,All amenities
+1023,6023,For rent,centrs,Dzirnavu 63,2,52.4,4.0,6.0,P. kara,Masonry,All amenities
+1024,6024,For rent,centrs,Rūpniecības 21 k-1,2,75.0,3.0,6.0,Jaun.,Panel,All amenities
+1031,6031,For rent,Purvciems,Purvciema 50,1,48.0,2.0,5.0,M. ģim.,Panel,All amenities
+1034,6034,For rent,Torņakalns,Jelgavas 63,2,38.0,4.0,6.0,Jaun.,Brick-Panel,All amenities
+1036,6036,For rent,centrs,Tērbatas 59/61,2,48.0,2.0,6.0,Renov.,Brick,All amenities
+1037,6037,For rent,centrs,Rūpniecības 44,3,83.0,4.0,7.0,Jaun.,Panel,All amenities
+1040,6040,For rent,Āgenskalns,Zeļļu 13,2,50.0,2.0,3.0,P. kara,Wood,All amenities
+1045,6045,For rent,Šampēteris-Pleskodāle,Volguntes 33a,1,32.0,2.0,3.0,P. kara,Masonry,All amenities
+1046,6046,For rent,centrs,Bruņinieku 60,2,50.0,5.0,6.0,P. kara,Brick,All amenities
+1054,6054,For rent,Čiekurkalns,Čiekurkalna 6. šķ l. 21,2,60.0,1.0,1.0,Priv. m.,Wood,All amenities
+1055,6055,For rent,Sarkandaugava,Ziemeļu 17,1,26.0,4.0,4.0,P. kara,Brick,Partial amenities
+1057,6057,For rent,Āgenskalns,Ormaņu 25,3,85.0,2.0,3.0,Jaun.,Masonry,All amenities
+1058,6058,For rent,Āgenskalns,Ormaņu 25,3,71.0,3.0,3.0,Jaun.,Masonry,All amenities
+1059,6059,For rent,centrs,Vagonu 22,1,33.0,2.0,5.0,Renov.,Masonry,All amenities
+1060,6060,For rent,centrs,Matīsa 100,1,30.0,4.0,5.0,Renov.,Brick,All amenities
+1062,6062,For rent,centrs,Vesetas 12,3,78.0,6.0,6.0,Specpr.,Brick,All amenities
+1064,6064,For rent,Purvciems,Deglava 54,1,30.0,2.0,2.0,Priv. m.,Wood,All amenities
+1066,6066,For rent,centrs,Rūpniecības 44,3,111.3,2.0,5.0,Jaun.,Brick-Panel,All amenities
+1069,6069,For rent,centrs,Barona 13,3,73.0,5.0,6.0,Renov.,Masonry,All amenities
+1070,6070,For rent,Vecrīga,Meistaru 6,3,74.0,3.0,5.0,P. kara,Masonry,All amenities
+1071,6071,For rent,Imanta,Kurzemes pr. 32,1,39.0,3.0,5.0,LT proj.,Panel,All amenities
+1072,6072,For rent,Iļģuciems,Spilves 25,1,49.0,12.0,14.0,Specpr.,Panel-Brick,All amenities
+1074,6074,For rent,centrs,Tomsona 32,1,25.0,3.0,5.0,Hrušč.,Brick,All amenities
+1077,6077,For rent,centrs,Lāčplēša 13,1,19.0,4.0,6.0,Renov.,Brick-Panel,All amenities
+1079,6079,For rent,Teika,Šmerļa 3,1,20.0,1.0,2.0,Staļina,Brick,All amenities
+1083,6083,For rent,centrs,Tērbatas 78,3,70.0,5.0,5.0,P. kara,Masonry,All amenities
+1085,6085,For rent,Mežciems,Kaivas 50/4,2,63.0,3.0,5.0,Jaun.,Panel,All amenities
+1086,6086,For rent,Pļavnieki,Ilūkstes 4,1,45.0,6.0,9.0,M. ģim.,Panel,All amenities
+1088,6088,For rent,Mežciems,Biķernieku 21,2,54.0,3.0,4.0,Jaun.,Panel,All amenities
+1091,6091,For rent,centrs,Maskavas 16,6,160.0,5.0,6.0,Jaun.,Brick-Panel,All amenities
+1092,6092,For rent,centrs,Skolas 36,2,75.0,4.0,4.0,Renov.,Brick-Panel,All amenities
+1093,6093,For rent,Pļavnieki,Ilūkstes 8,2,52.0,5.0,9.0,602.,Panel,All amenities
+1096,6096,For rent,Ziepniekkalns,Bruknas 12,2,51.0,1.0,10.0,119.,Panel,All amenities
+1097,6097,For rent,Krasta r-ns,Zilupes 16,2,49.0,9.0,9.0,467.,Panel,All amenities
+1105,6105,For rent,Teika,Biķernieku 12,1,27.0,2.0,5.0,Hrušč.,Brick,All amenities
+1110,6110,For rent,centrs,Elizabetes 9,2,33.0,5.0,5.0,P. kara,Masonry,All amenities
+1111,6111,For rent,Dzegužkalns,Ūdens 12,2,118.0,5.0,5.0,Specpr.,Brick-Panel,All amenities
+1119,6119,For rent,centrs,Tallinas 54,2,40.0,5.0,6.0,P. kara,Brick,All amenities
+1122,6122,For rent,centrs,Dzirnavu 132,2,52.0,2.0,5.0,P. kara,Masonry,All amenities
+1127,6127,For rent,Teika,Zemgaļu 99,1,40.0,1.0,1.0,Specpr.,Brick,All amenities
+1129,6129,For rent,centrs,Lāčplēša 62,2,56.0,2.0,6.0,P. kara,Brick,All amenities
+1130,6130,For rent,centrs,Hospitāļu 7a,1,37.0,2.0,3.0,Renov.,Wood,All amenities
+1132,6132,For rent,Āgenskalns,Baldones 28,2,45.0,4.0,5.0,LT proj.,Panel,All amenities
+1133,6133,For rent,centrs,Čaka 132,1,36.0,1.0,5.0,P. kara,Masonry,All amenities
+1134,6134,For rent,centrs,Rūpniecības 9,3,83.0,5.0,5.0,P. kara,Masonry,All amenities
+1135,6135,For rent,centrs,Klusā 18,1,38.0,3.0,9.0,Jaun.,Panel,All amenities
+1138,6138,For rent,Čiekurkalns,Čiekurkalna 3. šķ l. 25,3,70.0,2.0,9.0,Specpr.,Brick-Panel,All amenities
+1146,6146,For rent,Ziepniekkalns,Īslīces 1,4,89.0,10.0,12.0,119.,Panel-Brick,All amenities
+1148,6148,For rent,Imanta,Anniņmuižas bulvāris 38,2,51.0,1.0,17.0,Jaun.,Panel,All amenities
+1155,6155,For rent,Imanta,Anniņmuižas iela 38,2,60.0,10.0,16.0,Jaun.,Panel,All amenities
+1156,6156,For rent,Mežaparks,Visbijas pr. 45,3,95.0,2.0,3.0,Jaun.,Panel,All amenities
+1157,6157,For rent,centrs,Jeruzalemes 5,2,60.0,3.0,4.0,Jaun.,Panel-Brick,All amenities
+1168,6168,For rent,Iļģuciems,Lilijas 18,2,56.0,2.0,3.0,Renov.,Masonry,All amenities
+1170,6170,For rent,Ķengarags,Maskavas 273,1,31.0,4.0,5.0,LT proj.,Panel,All amenities
+1172,6172,For rent,Āgenskalns,Ventspils 7,1,27.0,2.0,5.0,P. kara,Brick,All amenities
+1173,6173,For rent,Āgenskalns,Lapu 29,3,70.0,3.0,3.0,P. kara,Masonry,All amenities
+1177,6177,For rent,centrs,Matīsa 137,1,25.0,4.0,4.0,P. kara,Masonry,Partial amenities
+1183,6183,For rent,Āgenskalns,Bāriņu 1a,1,23.0,2.0,4.0,Hrušč.,Brick,All amenities
+1187,6187,For rent,Pļavnieki,Lubānas 999,3,68.0,5.0,6.0,Jaun.,Masonry,All amenities
+1200,6200,For rent,Šampēteris-Pleskodāle,Stendes 7/3,1,13.0,1.0,3.0,Hrušč.,Brick,All amenities
+1201,6201,For rent,Āgenskalns,Kalnciema 105,1,13.0,1.0,3.0,Hrušč.,Brick,All amenities
+1203,6203,For rent,centrs,Čaka 117/1,2,45.0,2.0,6.0,Renov.,Masonry,All amenities
+1204,6204,For rent,Purvciems,Ūnijas 67,3,82.0,2.0,6.0,Jaun.,Panel,All amenities
+1206,6206,For rent,centrs,Antonijas 16a,2,102.0,1.0,6.0,Jaun.,Brick-Panel,All amenities
+1207,6207,For rent,centrs,Stabu 92,3,97.0,3.0,6.0,Renov.,Masonry,All amenities
+1208,6208,For rent,Purvciems,Varavīksnes g. 2,1,36.0,2.0,9.0,602.,Panel,All amenities
+1218,6218,For rent,Dārzciems,Lapsu 12,3,61.0,4.0,4.0,Jaun.,Panel,All amenities
+1219,6219,For rent,centrs,Matīsa 46,1,17.0,3.0,5.0,Jaun.,Masonry,All amenities
+1232,6232,For rent,centrs,Ģertrūdes 91,1,22.0,6.0,5.0,P. kara,Brick,All amenities
+1234,6234,For rent,centrs,Klijānu 2a,1,30.0,4.0,9.0,Renov.,Masonry,All amenities
+1235,6235,For rent,centrs,Pulkv. Brieža 3,6,120.0,5.0,5.0,P. kara,Masonry,All amenities
+1239,6239,For rent,centrs,Ģertrūdes 31,2,50.0,2.0,5.0,104.,Brick,All amenities
+1242,6242,For rent,centrs,Lāčplēša 127,2,95.0,3.0,3.0,Renov.,Brick,All amenities
+1243,6243,For rent,centrs,Tomsona 42,3,54.0,5.0,5.0,Hrušč.,Brick,All amenities
+1246,6246,For rent,centrs,Matīsa 69,2,66.0,4.0,7.0,Jaun.,Brick,All amenities
+1247,6247,For rent,Čiekurkalns,Čiekurkalna 2. šķ l. 4k1,3,75.0,5.0,5.0,Jaun.,Panel,All amenities
+1249,6249,For rent,Bieriņi,Mēmeles 5a,2,70.0,2.0,2.0,Priv. m.,Panel,All amenities
+1253,6253,For rent,centrs,Kalēju 47,3,42.0,3.0,5.0,Specpr.,Panel,All amenities
+1255,6255,For rent,Vecrīga,13. janvāra 21,2,55.0,2.0,5.0,Jaun.,Brick-Panel,All amenities
+1257,6257,For rent,centrs,Barona 24/26,1,22.0,2.0,6.0,Renov.,Brick,All amenities
+1262,6262,For rent,centrs,Baznīcas 27/29,3,85.0,4.0,5.0,P. kara,Masonry,All amenities
+1264,6264,For rent,Imanta,Kurzemes pr. 24,3,70.0,3.0,5.0,103.,Brick-Panel,All amenities
+1265,6265,For rent,Imanta,Kurzemes pr. 12,2,48.0,4.0,5.0,LT proj.,Panel,All amenities
+1266,6266,For rent,centrs,Strēlnieku 7,3,85.0,2.0,7.0,Jaun.,Panel,All amenities
+1267,6267,For rent,centrs,Matīsa 80a,1,25.0,1.0,6.0,P. kara,Masonry,All amenities
+1268,6268,For rent,Šķirotava,Granīta 7,1,20.0,2.0,3.0,LT proj.,Panel,Partial amenities
+1270,6270,For rent,centrs,Maskavas 261,1,19.0,2.0,5.0,Renov.,Brick,All amenities
+1276,6276,For rent,centrs,Tomsona 25,2,41.0,3.0,5.0,Hrušč.,Brick,All amenities
+1281,6281,For rent,centrs,Asara 20,1,30.0,6.0,6.0,P. kara,Masonry,All amenities
+1283,6283,For rent,centrs,Sadovņikova 25,2,59.0,6.0,6.0,Jaun.,Panel-Brick,All amenities
+1287,6287,For rent,centrs,Zaļā 7,2,36.0,3.0,3.0,P. kara,Masonry,All amenities
+1289,6289,For rent,Klīversala,Raņķa d. 7,2,42.0,1.0,5.0,Hrušč.,Brick,All amenities
+1290,6290,For rent,centrs,Teātra 4,2,64.0,4.0,5.0,Jaun.,Brick-Panel,All amenities
+1292,6292,For rent,centrs,Matīsa 85,2,46.0,4.0,5.0,P. kara,Masonry,All amenities
+1293,6293,For rent,Bolderāja,Gaigalas 23a,3,65.0,2.0,5.0,LT proj.,Brick-Panel,All amenities
+1294,6294,For rent,Maskavas priekšpilsēta,Maskavas 146,1,27.0,4.0,4.0,Renov.,Brick-Panel,All amenities
+1295,6295,For rent,centrs,Čaka 132,1,36.0,1.0,9.0,P. kara,Masonry,All amenities
+1296,6296,For rent,Maskavas priekšpilsēta,Maskavas 146,1,22.0,2.0,4.0,Renov.,Brick-Panel,All amenities
+1301,6301,For rent,centrs,Jeruzalemes 10,3,130.0,6.0,7.0,Jaun.,Masonry,All amenities
+1302,6302,For rent,centrs,Baznīcas 18a,3,85.0,5.0,6.0,Jaun.,Brick-Panel,All amenities
+1303,6303,For rent,centrs,Republikas laukums 3,3,106.0,3.0,8.0,Jaun.,Masonry,All amenities
+1305,6305,For rent,centrs,Stabu 92,3,103.0,3.0,6.0,Renov.,Masonry,All amenities
+1306,6306,For rent,Šampēteris-Pleskodāle,Lielirbes 11,3,131.0,24.0,25.0,Jaun.,Masonry,All amenities
+1307,6307,For rent,centrs,Bruņinieku 60,2,50.0,5.0,6.0,P. kara,Brick,All amenities
+1309,6309,For rent,Āgenskalns,Tukuma 1,2,71.0,1.0,2.0,P. kara,Wood,All amenities
+1310,6310,For rent,centrs,Avotu 59,3,115.0,4.0,4.0,P. kara,Brick,All amenities
+1312,6312,For rent,Āgenskalns,Vīlipa 12,2,68.0,5.0,9.0,Jaun.,Panel-Brick,All amenities
+1316,6316,For rent,centrs,Barona 76,3,58.0,5.0,6.0,Renov.,Masonry,All amenities
+1317,6317,For rent,centrs,Čaka 86,3,61.0,2.0,3.0,P. kara,Masonry,All amenities
+1318,6318,For rent,Iļģuciems,Stūres 2,1,18.0,3.0,5.0,M. ģim.,Brick,All amenities
+1320,6320,For rent,Bolderāja,Lielā 25,3,64.0,2.0,2.0,Priv. m.,Wood,All amenities
+1321,6321,For rent,Teika,Struktoru 4,1,32.0,5.0,5.0,Specpr.,Brick-Panel,All amenities
+1322,6322,For rent,centrs,Blaumaņa 36,5,140.0,5.0,5.0,P. kara,Masonry,All amenities
+1323,6323,For rent,centrs,Klusā 20,1,30.0,3.0,9.0,Jaun.,Panel,All amenities
+1326,6326,For rent,centrs,Riepnieku 2,4,104.0,2.0,5.0,Staļina,Brick,All amenities
+1327,6327,For rent,centrs,Visvalža 7,3,83.0,1.0,5.0,Staļina,Masonry,All amenities
+1329,6329,For rent,Āgenskalns,Liepājas 34,4,94.0,3.0,4.0,Jaun.,Panel,All amenities
+1331,6331,For rent,Purvciems,Stirnu 13a,2,46.0,1.0,6.0,Jaun.,Panel,All amenities
+1334,6334,For rent,centrs,Stabu 62,5,98.0,2.0,5.0,P. kara,Masonry,All amenities
+1336,6336,For rent,Ķengarags,Maskavas 250/11,2,46.0,2.0,5.0,LT proj.,Panel,All amenities
+1337,6337,For rent,Ziepniekkalns,Bikstu 6,2,46.0,3.0,6.0,Jaun.,Brick-Panel,All amenities
+1338,6338,For rent,Pļavnieki,Zemes 3,2,50.0,3.0,9.0,602.,Panel,All amenities
+1339,6339,For rent,centrs,Avotu 76,1,25.0,2.0,2.0,P. kara,Wood,All amenities
+1340,6340,For rent,centrs,Indrānu 8,2,56.0,2.0,7.0,Jaun.,Brick-Panel,All amenities
+1348,6348,For rent,Jaunciems,Jaunciema g. 167,1,15.0,3.0,3.0,Specpr.,Wood,Partial amenities
+1352,6352,For rent,Āgenskalns,M. Nometņu 73,2,62.0,2.0,4.0,P. kara,Masonry,All amenities
+1353,6353,For rent,centrs,Rūpniecības 11,3,97.0,4.0,5.0,Renov.,Masonry,All amenities
+1354,6354,For rent,Daugavgrīva,Parādes 28,1,35.0,1.0,5.0,Hrušč.,Masonry,All amenities
+1357,6357,For rent,Pļavnieki,Lubānas 115,1,44.0,5.0,9.0,M. ģim.,Panel,All amenities
+1364,6364,For rent,centrs,Deglava 9,2,80.0,6.0,6.0,Renov.,Masonry,All amenities
+1368,6368,For rent,centrs,Zaubes 4,3,110.0,6.0,6.0,P. kara,Masonry,All amenities
+1370,6370,For rent,Maskavas priekšpilsēta,Ludzas 17,2,37.0,5.0,5.0,P. kara,Brick,All amenities
+1376,6376,For rent,Zolitūde,Ruses 24,3,75.0,4.0,9.0,119.,Panel,All amenities
+1378,6378,For rent,Šampēteris-Pleskodāle,Kalnciema 135,2,30.0,2.0,3.0,Renov.,Wood,All amenities
+1380,6380,For rent,Imanta,Anniņmuižas bulvāris 38,2,80.0,8.0,18.0,Jaun.,Brick-Panel,All amenities
+1406,6406,For rent,centrs,Strēlnieku 7,3,85.0,2.0,7.0,Jaun.,Masonry,All amenities
+1407,6407,For rent,centrs,Čaka 117,3,69.0,4.0,6.0,P. kara,Masonry,All amenities
+1408,6408,For rent,centrs,Brīvības iela 74,3,100.0,6.0,6.0,P. kara,Masonry,All amenities
+1410,6410,For rent,Zolitūde,Liedes 2,3,89.0,3.0,4.0,Jaun.,Panel-Brick,All amenities
+1419,6419,For rent,Iļģuciems,Garā 18,3,62.0,2.0,5.0,LT proj.,Panel-Brick,All amenities
+1421,6421,For rent,Vecrīga,Vecpilsētas 11,1,35.0,3.0,3.0,Renov.,Masonry,All amenities
+1431,6431,For rent,centrs,11. novembra krastm. 35,2,44.0,3.0,6.0,Jaun.,Masonry,All amenities
+1435,6435,For rent,centrs,Dzirnavu 102a,6,85.0,2.0,2.0,P. kara,Brick,All amenities
+1437,6437,For rent,Āgenskalns,Auces 3,2,48.0,1.0,3.0,P. kara,Masonry,All amenities
+1441,6441,For rent,Ziepniekkalns,Ozolciema 14,3,77.0,5.0,9.0,Specpr.,Panel,All amenities
+1442,6442,For rent,Klīversala,Klīveru 1,1,33.0,4.0,4.0,P. kara,Masonry,All amenities
+1443,6443,For rent,centrs,Sadovņikova 39,2,32.0,3.0,7.0,Renov.,Masonry,All amenities
+1444,6444,For rent,centrs,Lejas 20,1,33.0,1.0,2.0,P. kara,Wood,All amenities
+1453,6453,For rent,centrs,Lāčplēša 52,3,57.0,3.0,3.0,P. kara,Brick,All amenities
+1454,6454,For rent,centrs,Tērbatas 93,3,95.0,3.0,5.0,P. kara,Masonry,All amenities
+1459,6459,For rent,Imanta,Rigondas g. 10,3,63.0,9.0,9.0,602.,Panel,All amenities
+1462,6462,For rent,Pļavnieki,Rudens 12,1,32.0,8.0,9.0,602.,Panel,All amenities
+1471,6471,For rent,centrs,Brīvības iela 52,5,133.0,4.0,5.0,P. kara,Brick,All amenities
+1474,6474,For rent,Zolitūde,Liedes 28,2,57.0,3.0,4.0,Jaun.,Masonry,All amenities
+1477,6477,For rent,Sarkandaugava,Limbažu 9,2,40.0,4.0,5.0,Hrušč.,Brick,All amenities
+1479,6479,For rent,Pļavnieki,Saharova 7,1,43.0,1.0,9.0,M. ģim.,Panel-Brick,All amenities
+1487,6487,For rent,Vecmīlgrāvis,Kalngales 8,1,36.0,9.0,9.0,602.,Panel,All amenities
+1489,6489,For rent,centrs,Miera 101,2,52.0,2.0,5.0,P. kara,Masonry,All amenities
+1491,6491,For rent,centrs,Lejas 7b,1,20.0,2.0,3.0,P. kara,Masonry,All amenities
+1494,6494,For rent,centrs,Duntes 48,1,25.0,4.0,6.0,P. kara,Masonry,All amenities
+1501,6501,For rent,Imanta,Dammes 31,1,37.0,3.0,9.0,602.,Panel,All amenities
+1502,6502,For rent,Maskavas priekšpilsēta,Maskavas 109,1,26.0,2.0,2.0,Renov.,Masonry,All amenities
+1503,6503,For rent,Ziepniekkalns,Ozolciema 30,1,43.0,9.0,9.0,M. ģim.,Panel-Brick,All amenities
+1506,6506,For rent,Krasta r-ns,Lubānas 6,2,51.0,3.0,9.0,467.,Panel,All amenities
+1509,6509,For rent,Vecdaugava,Atlantijas 30,1,30.0,3.0,4.0,Hrušč.,Masonry,All amenities
+1510,6510,For rent,Imanta,Jūrmalas g. 91,2,50.0,4.0,5.0,LT proj.,Panel,All amenities
+1513,6513,For rent,centrs,Bruņinieku 81,1,23.0,3.0,5.0,P. kara,Masonry,All amenities
+1515,6515,For rent,Mežaparks,Gdaņskas 11,3,75.0,1.0,3.0,Specpr.,Masonry,All amenities
+1520,6520,For rent,Imanta,Kleistu 205,2,45.0,1.0,1.0,Priv. m.,Wood,All amenities
+1521,6521,For rent,centrs,Čaka 70,3,120.0,2.0,5.0,P. kara,Brick,All amenities
+1522,6522,For rent,centrs,Avotu 64,2,42.0,1.0,5.0,P. kara,Masonry,All amenities
+1526,6526,For rent,Jugla,Kvēles 24,1,36.0,8.0,12.0,M. ģim.,Brick-Panel,All amenities
+1527,6527,For rent,centrs,Jēzusbaznīcas 20,1,8.0,4.0,4.0,P. kara,Brick-Panel,All amenities
+1536,6536,For rent,centrs,Ausekļa 5,4,152.0,2.0,6.0,Renov.,Masonry,All amenities
+1542,6542,For rent,Ķengarags,Ikšķiles 23,1,35.0,1.0,9.0,Čehu pr.,Brick,All amenities
+1544,6544,For rent,centrs,Matīsa 38,2,50.0,3.0,6.0,Renov.,Brick,All amenities
+1547,6547,For rent,Pļavnieki,Dzeņu 14,1,42.0,5.0,9.0,M. ģim.,Panel,All amenities
+1548,6548,For rent,centrs,Tirgoņu 17,2,67.0,4.0,5.0,P. kara,Brick,All amenities
+1549,6549,For rent,Vecrīga,Grēcinieku 20,2,80.0,4.0,5.0,Renov.,Masonry,All amenities
+1553,6553,For rent,Purvciems,Stirnu 19a,1,37.0,2.0,5.0,LT proj.,Panel,All amenities
+1555,6555,For rent,Ķengarags,Aviācijas 10,3,56.0,4.0,4.0,Hrušč.,Brick,All amenities
+1563,6563,For rent,Mežaparks,Stendera 10,1,41.0,1.0,2.0,Priv. m.,Brick,All amenities
+1588,6588,For rent,Pļavnieki,Ilūkstes 8,2,50.0,6.0,9.0,602.,Panel,All amenities
+1592,6592,For rent,Āgenskalns,Grīna bulv. 15,2,46.0,1.0,5.0,Specpr.,Brick,All amenities
+1600,6600,For rent,centrs,Merķeļa 1,1,15.0,4.0,6.0,P. kara,Brick,All amenities
+1601,6601,For rent,centrs,Merķeļa 1,1,24.0,4.0,6.0,P. kara,Brick,All amenities
+1603,6603,For rent,Vecrīga,Smilšu 10,4,120.0,7.0,7.0,Renov.,Masonry,All amenities
+1616,6616,For rent,Pļavnieki,Salnas 34,1,34.0,9.0,9.0,602.,Panel-Brick,All amenities
+1624,6624,For rent,Ķengarags,Dubnas 8,1,38.0,4.0,12.0,Čehu pr.,Brick-Panel,All amenities
+1626,6626,For rent,Pļavnieki,Sesku 10/1,1,43.0,5.0,5.0,Specpr.,Panel,All amenities
+1627,6627,For rent,Āgenskalns,Slokas 1a,1,28.0,2.0,3.0,P. kara,Wood,All amenities
+1628,6628,For rent,Purvciems,Zvaigznāja g. 7,1,30.0,5.0,5.0,LT proj.,Panel,All amenities
+1633,6633,For rent,Vecmīlgrāvis,Gāles 17,1,20.0,2.0,5.0,Specpr.,Brick-Panel,All amenities
+1636,6636,For rent,centrs,Pulkv. Brieža 7,3,87.0,3.0,6.0,P. kara,Brick,All amenities
+1641,6641,For rent,Teika,Brīvības gatve 300,2,50.0,3.0,3.0,Renov.,Brick,All amenities
+1643,6643,For rent,centrs,Visvalža 3a,2,53.0,2.0,5.0,P. kara,Masonry,All amenities
+1646,6646,For rent,centrs,Skanstes 29,2,44.0,23.0,23.0,Jaun.,Panel,All amenities
+1648,6648,For rent,centrs,Asara 20,1,25.0,2.0,6.0,P. kara,Masonry,All amenities
+1649,6649,For rent,Pļavnieki,Dravnieku 12,1,40.0,4.0,9.0,M. ģim.,Panel,All amenities
+1652,6652,For rent,centrs,Zaubes 6,3,110.0,5.0,6.0,P. kara,Masonry,All amenities
+1654,6654,For rent,Ķengarags,Salaspils 6,3,59.0,5.0,5.0,LT proj.,Panel,All amenities
+1657,6657,For rent,centrs,Tērbatas 4,3,110.0,6.0,7.0,Renov.,Masonry,All amenities
+1661,6661,For rent,Iļģuciems,Dzirciema 25,1,25.0,2.0,2.0,Priv. m.,Masonry,All amenities
+1664,6664,For rent,Ziepniekkalns,Kartupeļu 16,2,60.0,1.0,1.0,Priv. m.,Brick,All amenities
+1672,6672,For rent,Ziepniekkalns,Ziepniekkalna 70,2,61.0,1.0,4.0,Jaun.,Masonry,All amenities
+1674,6674,For rent,centrs,Brīvības 156,1,30.0,2.0,4.0,Specpr.,Brick,All amenities
+1683,6683,For rent,Ķengarags,Ikšķiles 11,1,18.0,5.0,5.0,LT proj.,Panel,All amenities
+1687,6687,For rent,centrs,Valdemāra 41,3,115.0,2.0,7.0,Jaun.,Brick-Panel,All amenities
+1690,6690,For rent,Āgenskalns,Kristapa 8,1,18.0,1.0,4.0,M. ģim.,Brick,All amenities
+1693,6693,For rent,centrs,Klijānu 12,2,45.0,1.0,3.0,Jaun.,Panel-Brick,All amenities
+1700,6700,For rent,Ķengarags,Maskavas 256/4,2,43.0,5.0,1.0,Hrušč.,Panel,All amenities
+1702,6702,For rent,centrs,Valdemāra 39,2,45.0,1.0,6.0,Renov.,Brick,All amenities
+1703,6703,For rent,centrs,Duntes 48,1,25.0,3.0,6.0,P. kara,Masonry,Partial amenities
+1705,6705,For rent,centrs,Alberta 11,2,44.0,3.0,6.0,P. kara,Masonry,All amenities
+1706,6706,For rent,centrs,Alberta 11,3,66.5,6.0,6.0,P. kara,Brick,All amenities
+1711,6711,For rent,centrs,Brīvības 148,1,22.0,3.0,6.0,P. kara,Masonry,All amenities
+1712,6712,For rent,centrs,Zvaigžņu 24,1,20.0,2.0,6.0,Renov.,Masonry,All amenities
+1720,6720,For rent,Šampēteris-Pleskodāle,Kukšu 4,3,70.0,1.0,2.0,Priv. m.,Brick,All amenities
+1723,6723,For rent,centrs,Stabu 33,2,57.0,2.0,2.0,Specpr.,Masonry,All amenities
+1725,6725,For rent,Maskavas priekšpilsēta,Ebreju 10,3,83.0,5.0,5.0,Specpr.,Brick-Panel,All amenities
+1737,6737,For rent,Purvciems,Lielvārdes 123,2,52.0,1.0,5.0,LT proj.,Panel,All amenities
+1740,6740,For rent,centrs,Skolas 4,4,150.0,3.0,5.0,Renov.,Masonry,All amenities
+1746,6746,For rent,centrs,Rūpniecības 42,1,24.0,2.0,3.0,Renov.,Brick,All amenities
+1747,6747,For rent,centrs,Rūpniecības 42,1,54.0,3.0,3.0,Renov.,Brick,All amenities
+1748,6748,For rent,Purvciems,Dzelzavas 37,1,35.0,3.0,9.0,602.,Panel,All amenities
+1757,6757,For rent,Zolitūde,Zolitūdes 46,1,42.0,3.0,9.0,119.,Panel,All amenities
+1759,6759,For rent,centrs,Lāčplēša 98,1,18.0,6.0,6.0,Renov.,Masonry,All amenities
+1762,6762,For rent,centrs,Republikas laukums 3,4,127.0,5.0,8.0,Jaun.,Panel,All amenities
+1763,6763,For rent,centrs,Pulkv. Brieža 7,3,100.0,5.0,6.0,P. kara,Masonry,All amenities
+1766,6766,For rent,Maskavas priekšpilsēta,Lomonosova 2,1,40.0,4.0,4.0,Staļina,Masonry,All amenities
+1771,6771,For rent,centrs,Elizabetes 27,2,75.0,4.0,4.0,P. kara,Brick,All amenities
+1775,6775,For rent,Mežaparks,Ezermalas 4a,1,21.0,4.0,5.0,Renov.,Brick-Panel,All amenities
+1781,6781,For rent,centrs,Vīlandes 7,3,72.0,5.0,5.0,P. kara,Masonry,All amenities
+1782,6782,For rent,centrs,Čaka 89,1,13.0,2.0,2.0,Renov.,Masonry,All amenities
+1783,6783,For rent,Maskavas priekšpilsēta,Maskavas 146,2,34.0,3.0,4.0,Renov.,Brick-Panel,All amenities
+1784,6784,For rent,centrs,Mūrnieku 7a,1,13.0,1.0,1.0,P. kara,Masonry,All amenities
+1785,6785,For rent,centrs,Jeruzalemes 5,2,67.0,3.0,4.0,Jaun.,Panel-Brick,All amenities
+1787,6787,For rent,Iļģuciems,Daugavgrīvas 132/1,1,15.0,3.0,4.0,Staļina,Brick,All amenities
+1791,6791,For rent,centrs,Zaubes 1,3,90.0,1.0,5.0,P. kara,Masonry,All amenities
+1795,6795,For rent,Āgenskalns,Ventspils 65a,1,36.0,2.0,3.0,Renov.,Brick-Panel,All amenities
+1801,6801,For rent,Āgenskalns,Slokas 33,2,59.0,2.0,4.0,Staļina,Masonry,All amenities
+1804,6804,For rent,centrs,Zvaigžņu 14,1,14.0,2.0,4.0,P. kara,Masonry,All amenities
+1808,6808,For rent,Mežciems,Kaivas 31/2,3,80.0,1.0,4.0,Jaun.,Panel,All amenities
+1809,6809,For rent,Grīziņkalns,Alauksta 7,1,34.0,1.0,4.0,P. kara,Masonry,All amenities
+1815,6815,For rent,Ķengarags,Bultu 8,2,38.0,4.0,5.0,LT proj.,Panel,All amenities
+1817,6817,For rent,Āgenskalns,Liepājas 2,3,88.0,4.0,6.0,Jaun.,Panel-Brick,All amenities
+1819,6819,For rent,centrs,Rūpniecības 9,3,105.0,5.0,6.0,Renov.,Masonry,All amenities
+1821,6821,For rent,centrs,Barona 76,3,70.0,6.0,6.0,Renov.,Masonry,All amenities
+1825,6825,For rent,Sarkandaugava,Hāpsalas 12,1,27.0,1.0,3.0,Renov.,Wood,All amenities
+1832,6832,For rent,Krasta r-ns,Maskavas 243,3,59.0,3.0,9.0,Specpr.,Panel,All amenities
+1834,6834,For rent,Klīversala,Valguma 22,1,34.0,3.0,4.0,Staļina,Masonry,All amenities
+1840,6840,For rent,Šampēteris-Pleskodāle,Ventspils 65a,1,36.0,2.0,3.0,Renov.,Brick-Panel,All amenities
+1850,6850,For rent,Purvciems,Nīcgales 12,1,28.0,4.0,5.0,LT proj.,Panel,All amenities
+1851,6851,For rent,Ķīpsala,Balasta d. 70,4,161.0,3.0,3.0,Renov.,Masonry,All amenities
+1855,6855,For rent,Purvciems,Stirnu 19a,2,37.0,2.0,5.0,LT proj.,Panel,All amenities
+1858,6858,For rent,centrs,Dzirnavu 66,2,80.0,6.0,7.0,P. kara,Masonry,All amenities
+1860,6860,For rent,centrs,Lāčplēša 98,2,30.0,6.0,6.0,Specpr.,Panel-Brick,All amenities
+1863,6863,For rent,Teika,Ropažu 28,2,43.0,5.0,5.0,Hrušč.,Brick-Panel,All amenities
+1864,6864,For rent,centrs,Hospitāļu 5a,3,70.0,3.0,3.0,Specpr.,Brick,Partial amenities
+1865,6865,For rent,Āgenskalns,Raņķa d. 34,3,93.0,14.0,23.0,Jaun.,Masonry,All amenities
+1866,6866,For rent,Āgenskalns,Raņķa d. 34,3,115.0,15.0,23.0,Jaun.,Masonry,All amenities
+1867,6867,For rent,Āgenskalns,Raņķa d. 34,3,95.0,14.0,23.0,Jaun.,Masonry,All amenities
+1874,6874,For rent,centrs,Republikas laukums 3,2,55.0,3.0,8.0,Jaun.,Masonry,All amenities
+1875,6875,For rent,centrs,Brīvības 64,3,87.0,4.0,6.0,P. kara,Masonry,All amenities
+1876,6876,For rent,centrs,Lāčplēša 98,1,14.0,4.0,6.0,Renov.,Masonry,All amenities
+1880,6880,For rent,centrs,Barona 76,3,58.0,5.0,6.0,Renov.,Masonry,All amenities
+1882,6882,For rent,Pļavnieki,Tīnūžu 4,2,50.0,6.0,9.0,602.,Panel,All amenities
+1885,6885,For rent,centrs,Hospitāļu 7a,1,25.0,2.0,3.0,Renov.,Wood,All amenities
+1886,6886,For rent,centrs,Avotu 23,3,72.0,3.0,4.0,Renov.,Masonry,All amenities
+1891,6891,For rent,Āgenskalns,Zemaišu 1/5,2,44.0,4.0,4.0,Hrušč.,Brick,All amenities
+1896,6896,For rent,Torņakalns,Mūkusalas 29,2,52.0,2.0,4.0,Renov.,Brick-Panel,All amenities
+1900,6900,For rent,Imanta,Slokas 111h,2,63.0,2.0,4.0,Jaun.,Panel,All amenities
+1905,6905,For rent,centrs,Barona 37,3,80.0,7.0,7.0,Renov.,Masonry,All amenities
+1910,6910,For rent,centrs,Ģertrūdes 91,1,20.0,5.0,5.0,P. kara,Brick,All amenities
+1915,6915,For rent,centrs,Avotu 9,2,27.0,3.0,3.0,P. kara,Masonry,All amenities
+1916,6916,For rent,centrs,Republikas laukums 3,3,202.0,6.0,6.0,Jaun.,Panel,All amenities
+1917,6917,For rent,centrs,Matīsa 35a,2,78.0,4.0,4.0,Renov.,Masonry,All amenities
+1922,6922,For rent,Šampēteris-Pleskodāle,Lielirbes 13,2,68.2,8.0,29.0,Jaun.,Panel-Brick,All amenities
+1924,6924,For rent,centrs,Lāčplēša 127,2,95.0,3.0,3.0,Renov.,Brick,All amenities
+1926,6926,For rent,Ķengarags,Maskavas 291,1,32.0,3.0,5.0,LT proj.,Panel,All amenities
+1927,6927,For rent,centrs,Raiņa bulv. 31,1,30.0,6.0,6.0,P. kara,Masonry,All amenities
+1928,6928,For rent,centrs,Pērnavas 24,1,20.0,5.0,6.0,P. kara,Masonry,All amenities
+1944,6944,For rent,Jugla,Slēpotāju 250,1,30.0,1.0,1.0,Priv. m.,Brick,All amenities
+1947,6947,For rent,Dzegužkalns,Iecavas 1,2,64.0,3.0,4.0,Specpr.,Brick,All amenities
+1950,6950,For rent,Purvciems,Brantkalna 11,2,60.0,9.0,9.0,119.,Brick-Panel,All amenities
+1955,6955,For rent,centrs,Zvaigžņu 14,1,28.0,2.0,4.0,Renov.,Masonry,All amenities
+1959,6959,For rent,Imanta,Rigondas g. 7,1,36.0,12.0,12.0,Specpr.,Masonry,All amenities
+1960,6960,For rent,Purvciems,Nīcgales 4,2,50.0,8.0,9.0,602.,Panel,All amenities
+1964,6964,For rent,Pļavnieki,Pļavnieku 9,2,54.0,7.0,9.0,Jaun.,Masonry,All amenities
+1980,6980,For rent,Dārzciems,Slāvu 13,2,49.0,6.0,9.0,602.,Panel,All amenities
+1981,6981,For rent,Sarkandaugava,Viestura pr. 47,1,33.0,4.0,9.0,Specpr.,Brick,All amenities
+1985,6985,For rent,centrs,Eksporta 2a,3,76.0,2.0,5.0,Specpr.,Brick,All amenities
+1989,6989,For rent,centrs,Čaka 33,3,100.0,7.0,7.0,P. kara,Masonry,All amenities
+1991,6991,For rent,Zolitūde,Lejiņa 2,2,55.0,9.0,9.0,119.,Panel,All amenities
+1999,6999,For rent,centrs,Marijas 16,3,79.0,6.0,7.0,Renov.,Masonry,All amenities
+2004,7004,For rent,Mežaparks,Ķempes 7,3,70.0,11.0,12.0,Specpr.,Brick-Panel,All amenities
+2012,7012,For rent,centrs,Gogoļa 7,1,40.0,3.0,4.0,Staļina,Brick,All amenities
+2014,7014,For rent,Teika,Ropažu 78,2,50.0,4.0,5.0,LT proj.,Panel,All amenities
+2018,7018,For rent,Imanta,Zentenes 18,2,49.0,9.0,9.0,602.,Panel,All amenities
+2021,7021,For rent,Vecrīga,Kungu 25,4,169.0,4.0,5.0,Jaun.,Masonry,All amenities
+2030,7030,For rent,centrs,Bruņinieku 81,1,30.0,3.0,5.0,P. kara,Masonry,All amenities
+2032,7032,For rent,centrs,Rūpniecības 11,3,115.0,6.0,6.0,Renov.,Masonry,All amenities
+2034,7034,For rent,centrs,Marijas 20,2,50.0,5.0,6.0,Specpr.,Masonry,All amenities
+2040,7040,For rent,centrs,Valdemāra 34,3,81.0,3.0,6.0,P. kara,Masonry,All amenities
+2048,7048,For rent,centrs,Stabu 99,2,100.0,5.0,5.0,Renov.,Brick,All amenities
+2051,7051,For rent,centrs,Klusā 20,1,38.0,2.0,9.0,Jaun.,Brick-Panel,All amenities
+2052,7052,For rent,Ziepniekkalns,Īslīces 1,1,45.0,3.0,10.0,119.,Panel,All amenities
+2053,7053,For rent,Purvciems,Vaidavas 9,1,31.0,3.0,5.0,LT proj.,Panel,All amenities
+2055,7055,For rent,Pļavnieki,Salnas 24,1,38.0,4.0,5.0,M. ģim.,Panel,All amenities
+2056,7056,For rent,centrs,Elku 2,2,55.0,2.0,3.0,P. kara,Masonry,All amenities
+2061,7061,For rent,Purvciems,Zileņu 12,1,35.0,3.0,5.0,Jaun.,Panel-Brick,All amenities
+2065,7065,For rent,Iļģuciems,Saulgožu 19,1,30.0,2.0,5.0,Hrušč.,Brick,All amenities
+2067,7067,For rent,Teika,Vidrižu 4,3,76.0,5.0,9.0,Specpr.,Brick,All amenities
+2070,7070,For rent,centrs,Riepnieku 4,2,55.0,5.0,5.0,Staļina,Brick,All amenities
+2071,7071,For rent,Pļavnieki,Dravnieku 13,3,63.0,7.0,8.0,602.,Panel,All amenities
+2074,7074,For rent,centrs,13. janvāra 21,3,91.0,4.0,6.0,Jaun.,Panel,All amenities
+2075,7075,For rent,Sarkandaugava,Ziemeļu 17,2,30.0,3.0,4.0,P. kara,Masonry,Partial amenities
+2076,7076,For rent,Ziepniekkalns,Zaļenieku 21,1,34.0,2.0,3.0,Jaun.,Masonry,All amenities
+2079,7079,For rent,Vecmīlgrāvis,Emmas 28,2,40.0,1.0,5.0,Jaun.,Brick-Panel,All amenities
+2083,7083,For rent,Vecrīga,Vaļņu 3,2,43.0,5.0,6.0,Renov.,Brick-Panel,All amenities
+2096,7096,For rent,centrs,Valdemāra 83,2,49.0,1.0,7.0,Renov.,Brick,All amenities
+2111,7111,For rent,centrs,Skolas 191,1,5.0,1.0,5.0,P. kara,Brick,All amenities
+2120,7120,For rent,Bolderāja,Gobas 35,2,49.0,2.0,5.0,LT proj.,Brick-Panel,All amenities
+2121,7121,For rent,centrs,Elijas 20,1,15.0,3.0,4.0,P. kara,Brick,All amenities
+2125,7125,For rent,Imanta,Jūrmalas g. 113b,4,102.0,2.0,3.0,Jaun.,Panel-Brick,All amenities
+2127,7127,For rent,Āgenskalns,Mūkusalas 25,1,35.0,3.0,6.0,Jaun.,Masonry,All amenities
+2128,7128,For rent,Purvciems,Pūces 45,2,70.0,1.0,9.0,Jaun.,Panel-Brick,All amenities
+2133,7133,For rent,Pļavnieki,Rudens 5,1,35.0,5.0,9.0,602.,Panel,All amenities
+2141,7141,For rent,centrs,Vagonu 22,1,30.0,3.0,5.0,Renov.,Brick,All amenities
+2142,7142,For rent,Imanta,Rigondas g. 7,1,30.0,12.0,12.0,Čehu pr.,Brick-Panel,All amenities
+2146,7146,For rent,centrs,Ausekļa 7,2,77.0,3.0,6.0,P. kara,Masonry,All amenities
+2150,7150,For rent,centrs,Stabu 70,4,111.3,4.0,5.0,P. kara,Brick,All amenities
+2151,7151,For rent,Ķengarags,Lokomotīves 48,2,49.0,2.0,5.0,LT proj.,Panel,All amenities
+2156,7156,For rent,centrs,Sermuliņu 14,2,50.0,2.0,5.0,Jaun.,Panel,All amenities
+2161,7161,For rent,Torņakalns,Jelgavas 62/64,1,22.0,2.0,2.0,P. kara,Wood,Partial amenities
+2162,7162,For rent,centrs,Eksporta 4,1,46.0,3.0,5.0,P. kara,Brick,All amenities
+2167,7167,For rent,centrs,Rūpniecības 1,5,155.0,2.0,6.0,Renov.,Masonry,All amenities
+2171,7171,For rent,Šampēteris-Pleskodāle,Šampētera 74,1,50.0,1.0,2.0,Priv. m.,Masonry,All amenities
+2181,7181,For rent,centrs,Bruņinieku 81,1,14.0,3.0,5.0,P. kara,Masonry,All amenities
+2189,7189,For rent,Teika,Vairoga 32,2,56.0,2.0,3.0,Jaun.,Brick-Panel,All amenities
+2193,7193,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,89.0,17.0,30.0,Jaun.,Masonry,All amenities
+2194,7194,For rent,Ķengarags,Prūšu 4,2,42.0,4.0,5.0,Jaun.,Panel,All amenities
+2198,7198,For rent,centrs,Republikas laukums 3,2,55.0,5.0,8.0,Jaun.,Brick-Panel,All amenities
+2201,7201,For rent,centrs,Brīvības 121-141,3,62.0,3.0,5.0,Staļina,Brick,All amenities
+2203,7203,For rent,centrs,Blaumaņa 5,5,133.0,4.0,4.0,P. kara,Masonry,All amenities
+2205,7205,For rent,centrs,Kalēju 74,2,61.0,3.0,6.0,Jaun.,Panel-Brick,All amenities
+2206,7206,For rent,centrs,Barona 37,3,81.0,7.0,7.0,P. kara,Masonry,All amenities
+2207,7207,For rent,centrs,Palasta 9,3,84.0,4.0,5.0,Renov.,Masonry,All amenities
+2208,7208,For rent,Šampēteris-Pleskodāle,Volguntes 40,3,104.0,3.0,4.0,Jaun.,Brick,All amenities
+2210,7210,For rent,centrs,Antonijas 14,1,30.0,4.0,8.0,Renov.,Panel,All amenities
+2211,7211,For rent,centrs,Antonijas 14,1,26.0,3.0,8.0,Renov.,Panel,All amenities
+2214,7214,For rent,Iļģuciems,Lilijas 8,3,68.0,5.0,5.0,LT proj.,Panel,All amenities
+2220,7220,For rent,centrs,Pulkv. Brieža 3,1,31.0,4.0,5.0,P. kara,Masonry,All amenities
+2222,7222,For rent,Ziepniekkalns,Ziepniekkalna 70,4,138.0,4.0,4.0,Jaun.,Masonry,All amenities
+2224,7224,For rent,Zolitūde,Apuzes 40,3,104.0,3.0,4.0,Jaun.,Brick-Panel,All amenities
+2227,7227,For rent,centrs,Baznīcas 26a,3,104.0,6.0,6.0,P. kara,Brick,All amenities
+2229,7229,For rent,centrs,Brīvības 114,2,38.0,2.0,3.0,P. kara,Masonry,All amenities
+2243,7243,For rent,Mežciems,Hipokrāta 9,1,47.0,5.0,16.0,104.,Panel,All amenities
+2249,7249,For rent,Āgenskalns,Kuldīgas 13a,2,63.0,4.0,5.0,Specpr.,Brick,All amenities
+2251,7251,For rent,Purvciems,Ilūkstes 48,2,64.0,2.0,9.0,119.,Panel,All amenities
+2253,7253,For rent,centrs,Stabu 46,3,85.0,5.0,5.0,P. kara,Masonry,All amenities
+2271,7271,For rent,centrs,Puškina 1,1,18.0,4.0,6.0,Specpr.,Brick,All amenities
+2272,7272,For rent,centrs,Stabu 65,2,36.0,4.0,5.0,P. kara,Masonry,All amenities
+2275,7275,For rent,centrs,Stabu 61,3,85.0,5.0,5.0,P. kara,Brick,All amenities
+2280,7280,For rent,centrs,Lāčplēša 7,3,81.0,2.0,5.0,Renov.,Masonry,All amenities
+2286,7286,For rent,centrs,Avotu 43,1,25.0,3.0,3.0,P. kara,Masonry,All amenities
+2288,7288,For rent,Zasulauks,Kalnciema 88,2,53.0,2.0,2.0,Priv. m.,Wood,All amenities
+2289,7289,For rent,centrs,Bruņinieku 111,1,16.0,1.0,4.0,Renov.,Brick,All amenities
+2290,7290,For rent,Šampēteris-Pleskodāle,Kalnciema 114,1,10.0,5.0,5.0,103.,Brick-Panel,All amenities
+2291,7291,For rent,Āgenskalns,Nometņu 62,1,23.0,1.0,1.0,Priv. m.,Wood,All amenities
+2292,7292,For rent,centrs,Čaka 117/1,3,68.0,2.0,6.0,Renov.,Masonry,All amenities
+2293,7293,For rent,Sarkandaugava,Viestura pr. 53,2,48.0,6.0,9.0,LT proj.,Brick-Panel,All amenities
+2297,7297,For rent,centrs,Jeruzalemes 5,2,60.0,2.0,6.0,Renov.,Panel-Brick,All amenities
+2307,7307,For rent,Zolitūde,Bieziņa 4,2,58.0,9.0,10.0,119.,Panel,All amenities
+2309,7309,For rent,Pļavnieki,Dzeņu 10,3,63.0,9.0,9.0,602.,Panel,All amenities
+2310,7310,For rent,Purvciems,Dudajeva g. 10,2,40.0,1.0,5.0,LT proj.,Panel-Brick,All amenities
+2312,7312,For rent,centrs,Alūksnes 3,1,20.0,4.0,5.0,Renov.,Masonry,All amenities
+2317,7317,For rent,centrs,Zvaigžņu 24,1,20.0,2.0,6.0,Renov.,Masonry,All amenities
+2318,7318,For rent,Ziepniekkalns,Ozolciema 16,1,40.0,1.0,7.0,119.,Panel,All amenities
+2319,7319,For rent,centrs,Pulkv. Brieža 13,3,75.0,4.0,5.0,Renov.,Masonry,All amenities
+2320,7320,For rent,Teika,Vairoga 32,3,47.0,3.0,3.0,Jaun.,Masonry,All amenities
+2327,7327,For rent,Torņakalns,Vienības g. 42,1,22.0,1.0,5.0,Staļina,Masonry,All amenities
+2328,7328,For rent,Mežciems,Kaivas 33/2,2,58.0,4.0,4.0,Jaun.,Brick-Panel,All amenities
+2331,7331,For rent,Vecrīga,Jēkaba 26/28,5,130.0,4.0,5.0,Renov.,Masonry,All amenities
+2354,7354,For rent,centrs,Tomsona 33a,3,75.9,4.0,5.0,Specpr.,Brick,All amenities
+2355,7355,For rent,Zolitūde,Zolitūdes 75,2,75.0,3.0,6.0,Jaun.,Masonry,All amenities
+2356,7356,For rent,Purvciems,Purvciema 53,1,43.0,3.0,9.0,Specpr.,Panel,All amenities
+2357,7357,For rent,Āgenskalns,Smiļģa 27,1,30.0,1.0,2.0,P. kara,Wood,Partial amenities
+2358,7358,For rent,centrs,Miķeļa 1,3,96.0,3.0,5.0,Specpr.,Brick-Panel,All amenities
+2360,7360,For rent,Teika,Pudiķa 13,1,28.0,3.0,3.0,P. kara,Brick,All amenities
+2361,7361,For rent,centrs,Lāčplēša 127,2,95.0,3.0,3.0,Renov.,Brick,All amenities
+2364,7364,For rent,centrs,Tallinas 77,1,32.0,2.0,5.0,Renov.,Brick,All amenities
+2371,7371,For rent,Sarkandaugava,Hāpsalas 6,1,34.0,2.0,9.0,602.,Panel,All amenities
+2376,7376,For rent,Dārzciems,Līvānu 1,2,42.0,2.0,2.0,Hrušč.,Brick,All amenities
+2378,7378,For rent,Ķengarags,Maskavas 252,2,48.0,3.0,5.0,LT proj.,Panel,All amenities
+2382,7382,For rent,centrs,Zvaigžņu 24,1,20.0,5.0,6.0,P. kara,Masonry,All amenities
+2385,7385,For rent,Pļavnieki,Deglava 122,3,76.0,5.0,9.0,119.,Panel,All amenities
+2388,7388,For rent,Torņakalns,Garozes 17,1,38.0,1.0,5.0,M. ģim.,Panel,All amenities
+2389,7389,For rent,Āgenskalns,Vīlipa 12,3,87.0,9.0,9.0,Jaun.,Panel-Brick,All amenities
+2391,7391,For rent,Ķengarags,Kaņiera 14,1,30.0,6.0,12.0,Čehu pr.,Brick-Panel,All amenities
+2392,7392,For rent,Purvciems,Dzelzavas 23,1,34.0,8.0,9.0,602.,Panel,All amenities
+2395,7395,For rent,centrs,Grostonas 25,2,66.0,14.0,24.0,Jaun.,Panel,All amenities
+2396,7396,For rent,centrs,Pērnavas 19,1,25.0,2.0,5.0,Specpr.,Masonry,All amenities
+2397,7397,For rent,Āgenskalns,Vīlipa 12,3,104.0,6.0,10.0,Jaun.,Panel-Brick,All amenities
+2405,7405,For rent,centrs,Matīsa 46a,2,62.0,4.0,5.0,Jaun.,Brick-Panel,All amenities
+2406,7406,For rent,Ķīpsala,Balasta d. 36,4,90.0,2.0,2.0,Jaun.,Masonry,All amenities
+2417,7417,For rent,Imanta,Imantas 1. l. 49,1,27.5,2.0,5.0,LT proj.,Panel,All amenities
+2419,7419,For rent,centrs,Kaļķu 6,2,72.0,2.0,4.0,P. kara,Masonry,All amenities
+2420,7420,For rent,Sarkandaugava,Tilta 3,1,35.0,1.0,5.0,103.,Panel-Brick,All amenities
+2424,7424,For rent,centrs,Eksporta 2,1,20.0,1.0,5.0,P. kara,Masonry,All amenities
+2425,7425,For rent,Āgenskalns,Cieceres 5,2,43.0,3.0,3.0,Staļina,Masonry,All amenities
+2430,7430,For rent,centrs,Čaka 117/1,3,61.0,2.0,6.0,Renov.,Masonry,All amenities
+2436,7436,For rent,centrs,Vaļņu 35,3,64.0,2.0,5.0,Renov.,Brick,All amenities
+2440,7440,For rent,Torņakalns,Satiksmes 4,2,44.0,1.0,2.0,Priv. m.,Wood,All amenities
+2443,7443,For rent,Āgenskalns,Kalnciema 39b,2,58.0,2.0,4.0,P. kara,Masonry,All amenities
+2444,7444,For rent,Iļģuciems,Grīvas 17,1,30.0,4.0,5.0,Hrušč.,Brick,All amenities
+2447,7447,For rent,Imanta,M. Krūmu 28,3,89.0,3.0,4.0,Jaun.,Brick-Panel,All amenities
+2450,7450,For rent,centrs,Vagonu 22,1,25.0,5.0,5.0,Renov.,Brick,All amenities
+2454,7454,For rent,centrs,Ģertrūdes 107,1,13.0,5.0,5.0,P. kara,Masonry,All amenities
+2456,7456,For rent,centrs,Valdemāra 41a,2,41.0,2.0,7.0,Jaun.,Panel-Brick,All amenities
+2464,7464,For rent,centrs,Vīlandes 10,3,106.0,4.0,5.0,Renov.,Brick,All amenities
+2465,7465,For rent,centrs,Vīlandes 10,4,155.0,2.0,6.0,Renov.,Brick,All amenities
+2470,7470,For rent,Mežaparks,Visbijas pr. 17,5,165.0,2.0,3.0,Renov.,Masonry,All amenities
+2471,7471,For rent,Teika,Vairoga 48,2,52.0,1.0,2.0,P. kara,Brick,All amenities
+2484,7484,For rent,Āgenskalns,Lielirbes 13,3,90.0,17.0,30.0,Jaun.,Masonry,All amenities
+2485,7485,For rent,centrs,Skanstes 29a,4,105.0,4.0,24.0,Jaun.,Panel,All amenities
+2487,7487,For rent,centrs,Blaumaņa 3,4,200.0,5.0,5.0,Renov.,Masonry,All amenities
+2488,7488,For rent,Āgenskalns,Kuģu 26,3,82.0,1.0,5.0,Jaun.,Brick-Panel,All amenities
+2489,7489,For rent,centrs,Jēkaba 26/28,5,130.0,4.0,5.0,Renov.,Masonry,All amenities
+2491,7491,For rent,Āgenskalns,Kuģu 28,5,175.0,1.0,5.0,Jaun.,Panel,All amenities
+2492,7492,For rent,Teika,Brīvības gatve 293,3,83.0,4.0,5.0,Jaun.,Masonry,All amenities
+2516,7516,For rent,centrs,Lāčplēša 62,3,75.0,1.0,5.0,P. kara,Brick,All amenities
+2519,7519,For rent,Pļavnieki,Ilūkstes 26,1,21.0,1.0,5.0,M. ģim.,Brick-Panel,All amenities
+2525,7525,For rent,Ziepniekkalns,Ozolciema 12,1,12.0,1.0,1.0,119.,Panel,All amenities
+2529,7529,For rent,Ķengarags,Salaspils 2,1,33.0,6.0,9.0,467.,Panel,All amenities
+2531,7531,For rent,Purvciems,Marsa g. 10,3,67.0,1.0,5.0,LT proj.,Panel,All amenities
+2534,7534,For rent,Purvciems,Madonas 21,2,63.0,16.0,5.0,Specpr.,Panel-Brick,All amenities
+2536,7536,For rent,centrs,Matīsa 41c,2,40.0,1.0,5.0,P. kara,Masonry,All amenities
+2537,7537,For rent,centrs,Matīsa 35a,2,74.0,4.0,4.0,Renov.,Masonry,All amenities
+2548,7548,For rent,Šampēteris-Pleskodāle,Lielirbes 13,2,68.0,17.0,30.0,Jaun.,Panel-Brick,All amenities
+2554,7554,For rent,Vecmīlgrāvis,Sniega 3,1,36.0,1.0,4.0,Jaun.,Brick,All amenities
+2555,7555,For rent,Teika,Biķernieku 16a,2,56.0,3.0,5.0,Jaun.,Masonry,All amenities
+2560,7560,For rent,centrs,Elizabetes 10b,4,153.0,2.0,5.0,Renov.,Masonry,All amenities
+2563,7563,For rent,Iļģuciems,Slokas 84,2,45.0,3.0,4.0,Jaun.,Masonry,All amenities
+2565,7565,For rent,Maskavas priekšpilsēta,Maskavas 104,1,19.0,3.0,3.0,Specpr.,Wood,All amenities
+2566,7566,For rent,Krasta r-ns,Salacas 26,1,30.0,2.0,2.0,Specpr.,Wood,All amenities
+2567,7567,For rent,centrs,Brīvības 148,1,35.0,2.0,5.0,P. kara,Masonry,All amenities
+2588,7588,For rent,centrs,Ģertrūdes 39,2,71.0,3.0,6.0,Renov.,Masonry,All amenities
+2590,7590,For rent,Imanta,Anniņmuižas bulvāris 90,3,75.0,1.0,2.0,Priv. m.,Brick,All amenities
+2595,7595,For rent,Vecrīga,Smilšu 10,2,50.0,3.0,6.0,Jaun.,Brick-Panel,All amenities
+2596,7596,For rent,Vecrīga,Kungu 25,2,65.0,2.0,6.0,Jaun.,Brick-Panel,All amenities
+2599,7599,For rent,Vecrīga,Smilšu 10,2,60.0,3.0,7.0,Renov.,Masonry,All amenities
+2600,7600,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,12.0,30.0,Jaun.,Masonry,All amenities
+2603,7603,For rent,Vecrīga,Smilšu 10,2,60.0,6.0,7.0,Renov.,Brick,All amenities
+2610,7610,For rent,Ziepniekkalns,Ozolciema 42k2,1,35.0,3.0,9.0,602.,Panel,All amenities
+2612,7612,For rent,Vecmīlgrāvis,Kāvu 10,3,60.0,4.0,5.0,LT proj.,Panel,All amenities
+2614,7614,For rent,Torņakalns,Vēja 19,1,26.0,1.0,2.0,P. kara,Masonry,All amenities
+2617,7617,For rent,Pļavnieki,Salnas 11,2,50.0,7.0,9.0,602.,Panel,All amenities
+2621,7621,For rent,Āgenskalns,Kuldīgas 39,1,42.0,2.0,5.0,Specpr.,Masonry,All amenities
+2623,7623,For rent,centrs,Barona 24/26,1,21.0,3.0,6.0,Renov.,Brick,All amenities
+2629,7629,For rent,Purvciems,Dzelzavas 15/1,2,43.0,3.0,5.0,Hrušč.,Brick,All amenities
+2630,7630,For rent,centrs,Bruņinieku 111,1,12.0,1.0,4.0,Renov.,Brick,All amenities
+2638,7638,For rent,Ziepniekkalns,Valdeķu 62,2,50.0,8.0,9.0,602.,Panel,All amenities
+2639,7639,For rent,Purvciems,Mārcienas 1,2,60.0,9.0,9.0,119.,Panel,All amenities
+2641,7641,For rent,centrs,Barona 5,2,45.0,2.0,6.0,Staļina,Masonry,All amenities
+2646,7646,For rent,Vecmīlgrāvis,Vecmīlgrāvja 1. l. 50,2,50.0,2.0,5.0,LT proj.,Panel,All amenities
+2647,7647,For rent,centrs,Ausekļa 3,3,68.0,5.0,5.0,P. kara,Brick,All amenities
+2650,7650,For rent,Imanta,Slokas 165,1,32.0,6.0,12.0,Čehu pr.,Brick,All amenities
+2651,7651,For rent,Iļģuciems,Lidoņu 29,1,45.0,9.0,9.0,Specpr.,Panel-Brick,All amenities
+2659,7659,For rent,Dzegužkalns,Daugavgrīvas 70,3,59.0,3.0,5.0,Specpr.,Brick,All amenities
+2660,7660,For rent,Ziepniekkalns,Ozolciema 56,2,50.0,4.0,9.0,602.,Panel,All amenities
+2663,7663,For rent,centrs,Brīvības 68,5,200.0,5.0,6.0,P. kara,Masonry,All amenities
+2665,7665,For rent,Imanta,Kurzemes pr. 42,1,50.0,3.0,5.0,LT proj.,Panel,All amenities
+2667,7667,For rent,centrs,Hospitāļu 5a,3,70.0,3.0,3.0,P. kara,Brick,All amenities
+2668,7668,For rent,centrs,Lāčplēša 98,1,20.0,3.0,5.0,Renov.,Masonry,All amenities
+2669,7669,For rent,centrs,Brīvības 162,1,33.0,1.0,8.0,Specpr.,Brick-Panel,All amenities
+2673,7673,For rent,Āgenskalns,Gardenes 4,1,16.0,2.0,2.0,Staļina,Masonry,All amenities
+2674,7674,For rent,Šampēteris-Pleskodāle,Lielirbes 13,2,90.0,20.0,30.0,Jaun.,Masonry,All amenities
+2680,7680,For rent,Sarkandaugava,Hāpsalas 5,1,18.0,5.0,5.0,M. ģim.,Brick-Panel,All amenities
+2689,7689,For rent,Purvciems,Ilūkstes 103,1,33.0,4.0,5.0,103.,Brick-Panel,All amenities
+2691,7691,For rent,Mežaparks,Stokholmas 33,6,140.0,1.0,2.0,P. kara,Wood,All amenities
+2692,7692,For rent,Imanta,Kurzemes pr. 76,2,50.0,2.0,5.0,LT proj.,Panel,All amenities
+2696,7696,For rent,Sarkandaugava,Viestura pr. 33,2,50.0,3.0,9.0,Specpr.,Brick,All amenities
+2698,7698,For rent,Jugla,M. Juglas 3a,3,166.0,2.0,3.0,Jaun.,Brick,All amenities
+2702,7702,For rent,Vecrīga,Republikas laukums 3,4,160.0,3.0,7.0,Jaun.,Brick,All amenities
+2714,7714,For rent,Vecāķi,Vecāķu pr. 191,2,294.0,4.0,4.0,Specpr.,Masonry,All amenities
+2730,7730,For rent,centrs,Lāčplēša 96,1,16.0,1.0,5.0,Renov.,Brick,All amenities
+2734,7734,For rent,Āgenskalns,M. Nometņu 5,1,38.0,2.0,5.0,P. kara,Masonry,Partial amenities
+2737,7737,For rent,Torņakalns,Jelgavas 63,4,170.0,6.0,7.0,Jaun.,Panel,All amenities
+2738,7738,For rent,Dārzciems,Zeltiņu 3,3,62.0,4.0,9.0,602.,Panel,All amenities
+2742,7742,For rent,Āgenskalns,Slokas 28,1,16.0,1.0,1.0,P. kara,Masonry,All amenities
+2745,7745,For rent,centrs,Valdemāra 37,3,110.0,5.0,6.0,Renov.,Masonry,All amenities
+2746,7746,For rent,centrs,Lāčplēša 114,2,42.0,5.0,5.0,P. kara,Masonry,All amenities
+2749,7749,For rent,centrs,Miera 90,3,65.0,6.0,4.0,Specpr.,Brick,All amenities
+2750,7750,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,11.0,30.0,Jaun.,Panel-Brick,All amenities
+2758,7758,For rent,Ķengarags,Aviācijas 2e,1,30.0,3.0,12.0,M. ģim.,Brick-Panel,All amenities
+2760,7760,For rent,Purvciems,Stirnu 20a,2,52.0,3.0,5.0,Jaun.,Masonry,All amenities
+2762,7762,For rent,Ziepniekkalns,Kartupeļu 47,2,56.0,9.0,9.0,Specpr.,Brick,All amenities
+2764,7764,For rent,Iļģuciems,Dzirciema 37,1,30.0,4.0,5.0,LT proj.,Panel,All amenities
+2766,7766,For rent,centrs,Bruņinieku 28,3,75.0,3.0,6.0,P. kara,Masonry,All amenities
+2768,7768,For rent,centrs,Brīvības 156,1,30.0,5.0,5.0,Specpr.,Panel,All amenities
+2771,7771,For rent,Jugla,Brīvības gatve 432k1,1,30.0,1.0,9.0,Specpr.,Brick,All amenities
+2772,7772,For rent,Pļavnieki,Dravnieku 13,2,50.0,9.0,9.0,602.,Panel,All amenities
+2773,7773,For rent,centrs,Stabu 49a,1,40.0,2.0,5.0,P. kara,Masonry,All amenities
+2774,7774,For rent,centrs,Stabu 49,3,60.0,2.0,5.0,P. kara,Masonry,All amenities
+2775,7775,For rent,Mežaparks,Ezermalas 27,2,52.0,4.0,12.0,Specpr.,Brick,All amenities
+2779,7779,For rent,Vecrīga,Kaļķu 6,2,72.0,2.0,4.0,P. kara,Masonry,All amenities
+2780,7780,For rent,centrs,J. Daliņa 8,3,120.0,13.0,23.0,Jaun.,Brick-Panel,All amenities
+2781,7781,For rent,centrs,Ganību d. 15,2,40.0,3.0,5.0,P. kara,Masonry,All amenities
+2789,7789,For rent,centrs,Dzirnavu 51,2,60.0,3.0,5.0,P. kara,Brick,All amenities
+2791,7791,For rent,Vecrīga,Vaļņu 8,4,107.0,5.0,5.0,P. kara,Masonry,All amenities
+2794,7794,For rent,Zolitūde,Ruses 16,2,55.0,4.0,9.0,119.,Panel,All amenities
+2795,7795,For rent,Āgenskalns,Kristapa 16,1,24.0,1.0,5.0,Hrušč.,Brick,All amenities
+2806,7806,For rent,Sarkandaugava,Viestura pr. 95,1,30.0,8.0,10.0,Jaun.,Brick-Panel,All amenities
+2807,7807,For rent,Āgenskalns,Kuldīgas 32,4,110.0,2.0,6.0,P. kara,Masonry,All amenities
+2821,7821,For rent,Vecrīga,Krāmu 4,2,80.0,3.0,4.0,Renov.,Brick,All amenities
+2823,7823,For rent,Teika,Brīvības gatve 234,2,48.0,5.0,5.0,Staļina,Masonry,All amenities
+2824,7824,For rent,Purvciems,Kastrānes 1/2,1,25.0,2.0,5.0,Renov.,Masonry,All amenities
+2841,7841,For rent,centrs,Elizabetes 63,2,80.0,4.0,6.0,Renov.,Masonry,All amenities
+2846,7846,For rent,Maskavas priekšpilsēta,Viļānu 7,1,26.0,2.0,5.0,Renov.,Masonry,All amenities
+2847,7847,For rent,Sarkandaugava,Aptiekas 6,2,44.0,2.0,5.0,Staļina,Brick,All amenities
+2861,7861,For rent,centrs,Riepnieku 4,2,53.0,3.0,5.0,P. kara,Masonry,All amenities
+2868,7868,For rent,centrs,Kalniņa 8,2,50.0,2.0,5.0,P. kara,Brick,All amenities
+2873,7873,For rent,Vecrīga,Brīvības bulvāris 19,2,64.0,5.0,6.0,Renov.,Masonry,All amenities
+2874,7874,For rent,Purvciems,Ūnijas 67,3,91.0,2.0,6.0,Jaun.,Panel,All amenities
+2881,7881,For rent,centrs,Klusā 20,1,38.0,2.0,9.0,Jaun.,Panel,All amenities
+2887,7887,For rent,centrs,Lāčplēša 54,1,29.0,3.0,5.0,P. kara,Masonry,All amenities
+2888,7888,For rent,Maskavas priekšpilsēta,Lomonosova 2,1,40.0,2.0,5.0,P. kara,Masonry,All amenities
+2890,7890,For rent,centrs,Baznīcas 35,2,54.0,4.0,5.0,Specpr.,Masonry,All amenities
+2891,7891,For rent,Āgenskalns,Kuģu 26,3,110.0,2.0,5.0,Jaun.,Brick-Panel,All amenities
+2915,7915,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,11.0,30.0,Jaun.,Masonry,All amenities
+2917,7917,For rent,centrs,Artilērijas 33,1,17.0,2.0,5.0,Jaun.,Panel,All amenities
+2918,7918,For rent,centrs,Artilērijas 33,1,24.0,2.0,5.0,Jaun.,Panel-Brick,All amenities
+2928,7928,For rent,Klīversala,Valguma 17,2,49.0,1.0,5.0,P. kara,Masonry,All amenities
+2933,7933,For rent,centrs,Ģertrūdes 50,3,94.0,5.0,6.0,P. kara,Masonry,All amenities
+2935,7935,For rent,Mežaparks,Ezermalas 2k-1,1,33.0,5.0,12.0,Specpr.,Brick,All amenities
+2936,7936,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,92.0,9.0,30.0,Jaun.,Brick-Panel,All amenities
+2948,7948,For rent,Šampēteris-Pleskodāle,Lielirbes 13,2,68.0,8.0,30.0,Jaun.,Brick-Panel,All amenities
+2956,7956,For rent,Teika,Ropažu 60,3,62.0,2.0,3.0,Staļina,Brick,All amenities
+2959,7959,For rent,centrs,Ganību d. 17,1,39.0,5.0,6.0,P. kara,Masonry,All amenities
+2962,7962,For rent,centrs,Brīvības iela 101,1,25.0,1.0,5.0,P. kara,Masonry,All amenities
+2964,7964,For rent,Teika,Brīvības gatve 296,2,50.0,3.0,3.0,P. kara,Masonry,All amenities
+2966,7966,For rent,Jugla,Juglas 29,3,56.0,1.0,5.0,Hrušč.,Panel,All amenities
+2967,7967,For rent,centrs,Gogoļa 13,1,13.0,5.0,5.0,P. kara,Brick-Panel,All amenities
+2970,7970,For rent,centrs,Elizabetes 9,3,70.0,2.0,5.0,P. kara,Masonry,All amenities
+2972,7972,For rent,Pļavnieki,Salnas 3,3,62.0,8.0,9.0,602.,Panel,All amenities
+2977,7977,For rent,Ziepniekkalns,Kartupeļu 47,1,38.0,6.0,9.0,Specpr.,Brick-Panel,All amenities
+2978,7978,For rent,centrs,Čaka 114,6,16.0,2.0,5.0,P. kara,Masonry,All amenities
+2979,7979,For rent,Ziepniekkalns,Ozolciema 50,1,34.0,5.0,9.0,602.,Panel,All amenities
+2985,7985,For rent,Mežciems,Kaivas 29,2,62.0,1.0,4.0,Jaun.,Panel,All amenities
+2986,7986,For rent,centrs,Pērnavas 57,2,50.0,4.0,4.0,P. kara,Masonry,Partial amenities
+2988,7988,For rent,centrs,Vesetas 24,2,43.0,7.0,10.0,Jaun.,Panel,All amenities
+2990,7990,For rent,Iļģuciems,Motoru 7,1,27.0,1.0,5.0,LT proj.,Panel,All amenities
+2997,7997,For rent,centrs,Brīvības iela 47,3,73.0,3.0,6.0,P. kara,Masonry,All amenities
+2998,7998,For rent,centrs,Tērbatas 83,1,25.0,3.0,5.0,Specpr.,Panel,All amenities
+3002,8002,For rent,centrs,Republikas laukums 3,2,40.0,3.0,6.0,Jaun.,Panel,All amenities
+3018,8018,For rent,Imanta,Dammes 34,3,62.0,3.0,9.0,602.,Panel,All amenities
+3019,8019,For rent,centrs,Bruņinieku 89,1,30.0,1.0,5.0,P. kara,Masonry,All amenities
+3024,8024,For rent,centrs,Marijas 19,1,28.0,5.0,5.0,P. kara,Masonry,All amenities
+3026,8026,For rent,Pļavnieki,Ulbrokas 10,1,40.0,1.0,5.0,M. ģim.,Panel-Brick,All amenities
+3027,8027,For rent,centrs,Maskavas 39,2,50.0,2.0,6.0,P. kara,Masonry,All amenities
+3031,8031,For rent,centrs,Vesetas 25,1,35.0,4.0,5.0,Specpr.,Panel-Brick,All amenities
+3037,8037,For rent,Mežciems,Biķernieku 244,1,20.0,2.0,2.0,Staļina,Masonry,All amenities
+3043,8043,For rent,Imanta,Progresa 4,2,49.0,3.0,5.0,LT proj.,Panel,Partial amenities
+3046,8046,For rent,Teika,Biķernieku 79,2,39.0,3.0,5.0,Hrušč.,Brick,All amenities
+3048,8048,For rent,Iļģuciems,Spilves 21,2,50.0,6.0,9.0,Jaun.,Panel,All amenities
+3051,8051,For rent,Ķengarags,Prūšu 4,2,38.0,2.0,5.0,Jaun.,Panel,All amenities
+3052,8052,For rent,centrs,Pētersalas 9,1,30.0,1.0,4.0,P. kara,Masonry,All amenities
+3053,8053,For rent,centrs,Valdemāra 83,3,80.0,4.0,7.0,Renov.,Brick,All amenities
+3055,8055,For rent,Āgenskalns,Nomales 6,2,43.0,3.0,4.0,Hrušč.,Brick,All amenities
+3056,8056,For rent,Vecrīga,Vaļņu 4,3,90.0,2.0,6.0,Jaun.,Masonry,All amenities
+3062,8062,For rent,Ķengarags,Salaspils 22,1,38.0,4.0,4.0,Renov.,Masonry,All amenities
+3065,8065,For rent,centrs,Vēžu 14,3,100.0,6.0,6.0,Jaun.,Masonry,All amenities
+3071,8071,For rent,Šampēteris-Pleskodāle,Lielirbes 13,2,68.0,4.0,23.0,Jaun.,Panel,All amenities
+3074,8074,For rent,Vecrīga,Bīskapa gāte 3,3,79.0,3.0,5.0,Staļina,Masonry,All amenities
+3077,8077,For rent,Jaunciems,Jaunciema 2. l. 5,1,30.0,3.0,5.0,Hrušč.,Brick,All amenities
+3090,8090,For rent,centrs,Brīvības 131,3,64.0,3.0,5.0,Staļina,Brick,All amenities
+3092,8092,For rent,centrs,Dzirnavu 9,1,33.0,1.0,4.0,Renov.,Masonry,All amenities
+3094,8094,For rent,Mežciems,Kaivas 50,3,65.0,5.0,5.0,Specpr.,Panel,All amenities
+3099,8099,For rent,Pļavnieki,Dravnieku 12,1,39.0,5.0,9.0,M. ģim.,Panel,All amenities
+3100,8100,For rent,Pļavnieki,Dravnieku 13,3,62.0,2.0,9.0,602.,Panel,All amenities
+3101,8101,For rent,centrs,Antonijas 14,1,26.0,3.0,8.0,Renov.,Brick-Panel,All amenities
+3105,8105,For rent,centrs,Krāsotāju 24,2,44.0,3.0,5.0,P. kara,Masonry,All amenities
+3108,8108,For rent,Grīziņkalns,Zvaigžņu 14a,1,19.0,2.0,2.0,Renov.,Masonry,All amenities
+3116,8116,For rent,centrs,Ganu 4,5,145.0,4.0,5.0,P. kara,Masonry,All amenities
+3123,8123,For rent,centrs,Vīlandes 7,6,189.0,1.0,5.0,Renov.,Brick,All amenities
+3133,8133,For rent,centrs,Rūpniecības 1,2,56.0,2.0,6.0,Renov.,Masonry,All amenities
+3141,8141,For rent,Teika,Piebalgas 12,1,26.0,2.0,2.0,Priv. m.,Brick,All amenities
+3142,8142,For rent,Pļavnieki,Salnas 7,2,50.0,5.0,9.0,602.,Panel,All amenities
+3145,8145,For rent,centrs,Baznīcas 27/29,3,85.0,4.0,5.0,P. kara,Brick,All amenities
+3146,8146,For rent,centrs,Čaka 117,3,59.0,5.0,6.0,P. kara,Masonry,All amenities
+3156,8156,For rent,centrs,Gogoļa 11,3,94.0,2.0,2.0,P. kara,Masonry,All amenities
+3161,8161,For rent,centrs,Rūpniecības 5,3,100.0,2.0,6.0,Renov.,Brick,All amenities
+3178,8178,For rent,Teika,Brīvības gatve 233,2,63.0,2.0,3.0,P. kara,Brick,All amenities
+3180,8180,For rent,Purvciems,Ainavas 2a,3,82.0,5.0,6.0,Jaun.,Masonry,All amenities
+3184,8184,For rent,Ķengarags,Maskavas 299,1,30.0,10.0,12.0,Čehu pr.,Brick-Panel,All amenities
+3186,8186,For rent,Pļavnieki,Tīnūžu 3,1,35.0,1.0,8.0,602.,Panel,All amenities
+3189,8189,For rent,Imanta,Jūrmalas g. 113b,3,55.0,1.0,3.0,Jaun.,Panel-Brick,All amenities
+3203,8203,For rent,centrs,13. janvāra 21,2,60.0,2.0,6.0,Jaun.,Brick-Panel,All amenities
+3209,8209,For rent,Āgenskalns,Valguma 20,2,50.0,4.0,4.0,P. kara,Masonry,All amenities
+3215,8215,For rent,centrs,Brīvības 76,5,180.0,5.0,6.0,Renov.,Masonry,All amenities
+3223,8223,For rent,Purvciems,Dzelzavas 33,1,30.0,5.0,5.0,LT proj.,Panel,All amenities
+3224,8224,For rent,centrs,Čaka 70,1,30.0,3.0,5.0,P. kara,Brick,All amenities
+3228,8228,For rent,centrs,Maskavas 15,2,42.0,4.0,4.0,Renov.,Brick,All amenities
+3229,8229,For rent,centrs,Matīsa 69,2,66.0,4.0,7.0,Jaun.,Brick,All amenities
+3236,8236,For rent,centrs,Lāčplēša 221,2,41.0,3.0,4.0,P. kara,Masonry,All amenities
+3239,8239,For rent,Iļģuciems,Dzirciema 57,3,57.0,4.0,9.0,467.,Panel,All amenities
+3244,8244,For rent,centrs,Ģertrūdes 129,1,27.0,1.0,5.0,Renov.,Brick,All amenities
+3245,8245,For rent,centrs,Ģertrūdes 129,3,75.0,5.0,5.0,Renov.,Brick,All amenities
+3249,8249,For rent,centrs,Miera 10,1,187.0,1.0,5.0,P. kara,Masonry,All amenities
+3254,8254,For rent,centrs,Miera 87a,4,112.0,2.0,4.0,Renov.,Brick,All amenities
+3255,8255,For rent,centrs,Barona 5,2,45.0,2.0,6.0,Staļina,Masonry,All amenities
+3256,8256,For rent,centrs,Jēkaba 28,1,22.0,1.0,6.0,P. kara,Masonry,All amenities
+3260,8260,For rent,centrs,Barona 24/26,2,45.0,3.0,6.0,Renov.,Brick,All amenities
+3273,8273,For rent,centrs,Brīvības iela 170,2,51.0,3.0,6.0,P. kara,Masonry,All amenities
+3281,8281,For rent,Jugla,Murjāņu 61,2,37.0,4.0,4.0,Renov.,Panel,All amenities
+3283,8283,For rent,Ziepniekkalns,Īslīces 1,1,44.0,6.0,10.0,119.,Panel,All amenities
+3285,8285,For rent,centrs,Bruņinieku 81,1,12.0,3.0,5.0,P. kara,Masonry,All amenities
+3287,8287,For rent,centrs,Pulkv. Brieža 13,3,75.0,4.0,6.0,Renov.,Masonry,All amenities
+3295,8295,For rent,centrs,Vārnu 4,1,22.0,2.0,2.0,P. kara,Wood,All amenities
+3296,8296,For rent,centrs,Bruņinieku 42a,2,42.0,4.0,6.0,P. kara,Brick,All amenities
+3298,8298,For rent,centrs,Miera 95,1,32.0,4.0,6.0,P. kara,Masonry,All amenities
+3299,8299,For rent,centrs,Čaka 67/69,3,96.0,2.0,5.0,Renov.,Brick-Panel,All amenities
+3301,8301,For rent,centrs,Hospitāļu 5a,1,30.0,3.0,3.0,Specpr.,Brick,All amenities
+3302,8302,For rent,Ziepniekkalns,Valdeķu 67,3,75.0,6.0,9.0,119.,Panel,All amenities
+3307,8307,For rent,centrs,Merķeļa 6,2,43.0,3.0,5.0,P. kara,Masonry,All amenities
+3315,8315,For rent,Dārzciems,Zeltiņu 45,1,20.0,1.0,2.0,Staļina,Panel,All amenities
+3319,8319,For rent,centrs,Marijas 16,2,40.0,2.0,6.0,P. kara,Masonry,All amenities
+3320,8320,For rent,centrs,Merķeļa 17,4,143.0,3.0,4.0,P. kara,Masonry,All amenities
+3324,8324,For rent,centrs,Indrānu 5,3,86.0,5.0,5.0,Jaun.,Panel-Brick,All amenities
+3325,8325,For rent,Klīversala,Valguma 24,2,42.0,1.0,5.0,Hrušč.,Brick,All amenities
+3334,8334,For rent,Jugla,Brīvības gatve 386,1,33.0,5.0,13.0,Jaun.,Brick-Panel,All amenities
+3352,8352,For rent,centrs,Lāčplēša 127,2,95.0,3.0,3.0,Renov.,Masonry,All amenities
+3357,8357,For rent,Purvciems,Ilūkstes 32,1,13.0,2.0,9.0,119.,Panel,All amenities
+3359,8359,For rent,centrs,Barona 76,3,79.4,2.0,6.0,Renov.,Masonry,All amenities
+3361,8361,For rent,centrs,Grostonas 17,3,89.0,6.0,8.0,Jaun.,Panel,All amenities
+3367,8367,For rent,Āgenskalns,Smiļģa 20,1,38.0,3.0,5.0,P. kara,Brick,All amenities
+3368,8368,For rent,centrs,Turgeņeva 21a,2,55.0,2.0,6.0,P. kara,Masonry,All amenities
+3369,8369,For rent,Purvciems,Brantkalna 4,3,75.0,5.0,9.0,119.,Panel,All amenities
+3373,8373,For rent,Purvciems,Vaidavas 3a,2,63.0,4.0,6.0,Jaun.,Brick,All amenities
+3383,8383,For rent,Āgenskalns,Kalnciema 9,1,43.0,2.0,9.0,Jaun.,Panel,All amenities
+3384,8384,For rent,centrs,Eksporta 2a,2,60.0,4.0,5.0,Specpr.,Brick,All amenities
+3397,8397,For rent,centrs,Maskavas 79,2,40.0,1.0,5.0,P. kara,Masonry,All amenities
+3400,8400,For rent,centrs,Čaka 31,5,85.0,2.0,5.0,Renov.,Masonry,All amenities
+3401,8401,For rent,centrs,Eksporta 2,2,62.0,5.0,5.0,Specpr.,Brick,All amenities
+3405,8405,For rent,centrs,Maskavas 146,1,26.0,4.0,6.0,Renov.,Masonry,All amenities
+3407,8407,For rent,Mežciems,Celmu 5,2,50.0,5.0,5.0,LT proj.,Panel,All amenities
+3408,8408,For rent,Mežciems,Eizenšteina 65,2,50.0,4.0,9.0,602.,Panel,All amenities
+3409,8409,For rent,centrs,Maskavas 79,1,35.0,3.0,5.0,P. kara,Brick,Partial amenities
+3410,8410,For rent,centrs,Katrīnas d. 24/18,3,90.0,2.0,3.0,Staļina,Masonry,All amenities
+3414,8414,For rent,centrs,Valdemāra 41,4,114.0,2.0,6.0,Jaun.,Masonry,All amenities
+3416,8416,For rent,centrs,Sapieru 13b,1,25.0,1.0,4.0,Jaun.,Panel-Brick,All amenities
+3418,8418,For rent,Purvciems,Nīcgales 46,1,30.0,1.0,5.0,103.,Brick-Panel,All amenities
+3426,8426,For rent,Ziepniekkalns,Ozolciema 18,2,62.0,1.0,9.0,119.,Panel,All amenities
+3427,8427,For rent,Grīziņkalns,Alauksta 9,1,45.0,5.0,6.0,Jaun.,Brick-Panel,All amenities
+3430,8430,For rent,Purvciems,Dzelzavas 95,3,53.0,2.0,5.0,LT proj.,Brick-Panel,All amenities
+3431,8431,For rent,Āgenskalns,Kalnciema 15,2,52.0,2.0,2.0,P. kara,Masonry,All amenities
+3436,8436,For rent,centrs,Pils lauk. 2b,4,150.0,2.0,2.0,Renov.,Brick,All amenities
+3439,8439,For rent,Āgenskalns,Ernestīnes 18a,1,30.0,5.0,5.0,Hrušč.,Brick,All amenities
+3446,8446,For rent,Imanta,Kurzemes pr. 138,2,50.0,2.0,9.0,602.,Panel,All amenities
+3447,8447,For rent,Purvciems,Braslas 19,2,46.0,5.0,6.0,Jaun.,Masonry,All amenities
+3448,8448,For rent,centrs,Miera 101,1,34.0,5.0,5.0,P. kara,Masonry,All amenities
+3454,8454,For rent,Sarkandaugava,Hāpsalas 5,1,19.0,5.0,5.0,M. ģim.,Brick,All amenities
+3457,8457,For rent,centrs,Republikas laukums 3,3,106.0,3.0,8.0,Jaun.,Masonry,All amenities
+3459,8459,For rent,Purvciems,Dzelzavas 38,1,48.0,2.0,12.0,104.,Panel,All amenities
+3460,8460,For rent,centrs,Matīsa 42,Citi,20.0,5.0,5.0,P. kara,Brick,All amenities
+3468,8468,For rent,Zolitūde,Rostokas 50,2,57.0,1.0,9.0,119.,Brick-Panel,All amenities
+3469,8469,For rent,centrs,Krasta 66,1,25.0,3.0,3.0,Specpr.,Brick,All amenities
+3477,8477,For rent,centrs,Pētersalas 9,1,30.0,1.0,4.0,P. kara,Masonry,All amenities
+3478,8478,For rent,Dzegužkalns,Jaunsaules 18,2,60.0,2.0,5.0,LT proj.,Panel,All amenities
+3484,8484,For rent,Purvciems,Stirnu 4,2,40.0,2.0,5.0,LT proj.,Panel-Brick,All amenities
+3488,8488,For rent,Klīversala,Akmeņu 16a,2,81.0,3.0,4.0,P. kara,Brick,All amenities
+3489,8489,For rent,Maskavas priekšpilsēta,Krāslavas 24,1,26.0,3.0,5.0,Renov.,Masonry,All amenities
+3500,8500,For rent,Maskavas priekšpilsēta,Krāslavas 24,2,32.0,3.0,5.0,Renov.,Masonry,All amenities
+3501,8501,For rent,centrs,Brīvības bulvāris 19,3,200.0,5.0,6.0,Renov.,Masonry,All amenities
+3503,8503,For rent,centrs,Čaka 41,2,40.0,1.0,2.0,P. kara,Wood,All amenities
+3508,8508,For rent,Purvciems,Ilūkstes 54/3,1,40.0,5.0,5.0,M. ģim.,Panel,All amenities
+3520,8520,For rent,Ķengarags,Lokomotīves 54,1,32.0,12.0,12.0,Čehu pr.,Panel-Brick,All amenities
+3522,8522,For rent,centrs,Pulkv. Brieža 13,3,90.0,3.0,5.0,P. kara,Masonry,All amenities
+3523,8523,For rent,centrs,Rūpniecības 16,2,52.0,1.0,6.0,P. kara,Brick,All amenities
+3524,8524,For rent,centrs,Stabu 53,2,52.0,2.0,2.0,P. kara,Brick,All amenities
+3529,8529,For rent,Pļavnieki,Saharova 15,1,49.0,11.0,12.0,104.,Panel-Brick,All amenities
+3533,8533,For rent,Torņakalns,Jelgavas 50,1,22.0,1.0,2.0,P. kara,Brick,All amenities
+3549,8549,For rent,Dārzciems,Zeltiņu 6,2,53.0,4.0,5.0,103.,Brick,All amenities
+3557,8557,For rent,Sarkandaugava,Sarkandaugavas 26,2,41.0,4.0,5.0,Hrušč.,Brick,All amenities
+3558,8558,For rent,Imanta,Kooperatīva 20,1,18.0,2.0,2.0,Priv. m.,Brick,All amenities
+3575,8575,For rent,centrs,Lāčplēša 98,1,20.0,6.0,6.0,Renov.,Masonry,All amenities
+3578,8578,For rent,centrs,Čaka 33,3,86.0,5.0,6.0,P. kara,Brick,All amenities
+3579,8579,For rent,Mežciems,Kaivas 50,1,32.0,3.0,5.0,Jaun.,Masonry,All amenities
+3580,8580,For rent,Purvciems,Dzelzavas 76,3,62.0,4.0,9.0,602.,Panel,All amenities
+3581,8581,For rent,Pļavnieki,Ilūkstes 4,1,41.0,8.0,9.0,M. ģim.,Panel-Brick,All amenities
+3583,8583,For rent,Āgenskalns,Alīses 8,2,44.0,5.0,5.0,Hrušč.,Panel,All amenities
+3587,8587,For rent,centrs,Indrānu 8,1,31.0,7.0,1.0,Jaun.,Brick-Panel,All amenities
+3593,8593,For rent,centrs,Pulkv. Brieža 7,3,83.0,2.0,6.0,Renov.,Masonry,All amenities
+3595,8595,For rent,centrs,Tomsona 2,2,47.0,3.0,5.0,Staļina,Panel-Brick,All amenities
+3596,8596,For rent,Vecrīga,Jāņa 3,3,45.0,4.0,4.0,P. kara,Masonry,All amenities
+3600,8600,For rent,Jugla,Vangažu 32,2,48.0,10.0,12.0,Čehu pr.,Brick-Panel,All amenities
+3601,8601,For rent,Pļavnieki,Keldiša 12,1,36.0,3.0,9.0,602.,Panel,All amenities
+3603,8603,For rent,Iļģuciems,Vaidelotes 11,2,45.0,2.0,5.0,Hrušč.,Brick,All amenities
+3605,8605,For rent,centrs,Alūksnes 3,1,22.0,1.0,5.0,Renov.,Brick,All amenities
+3606,8606,For rent,Āgenskalns,Kalnciema 22,3,66.0,1.0,2.0,P. kara,Wood,All amenities
+3610,8610,For rent,Ziepniekkalns,Ozolciema 18,2,60.0,4.0,9.0,119.,Panel,All amenities
+3611,8611,For rent,centrs,Čaka 96,2,61.0,3.0,5.0,Jaun.,Brick-Panel,All amenities
+3612,8612,For rent,centrs,Dzirnavu 50,1,16.0,1.0,6.0,P. kara,Masonry,All amenities
+3617,8617,For rent,Daugavgrīva,Zvīņu 6,2,46.0,1.0,5.0,Specpr.,Brick,All amenities
+3618,8618,For rent,Āgenskalns,Slokas 28,1,20.0,1.0,1.0,Renov.,Masonry,All amenities
+3621,8621,For rent,centrs,Alauksta 5,2,54.0,5.0,6.0,P. kara,Masonry,All amenities
+3630,8630,For rent,Imanta,Auru 5a,1,27.0,4.0,5.0,LT proj.,Panel,All amenities
+3632,8632,For rent,centrs,Stabu 70,2,50.0,2.0,6.0,P. kara,Brick,All amenities
+3637,8637,For rent,Maskavas priekšpilsēta,M. Krasta 37,2,45.0,1.0,2.0,P. kara,Brick,All amenities
+3640,8640,For rent,Ķīpsala,Balasta d. 70,2,77.0,3.0,3.0,Jaun.,Masonry,All amenities
+3642,8642,For rent,centrs,Brīvības 161,1,38.0,1.0,5.0,Renov.,Masonry,All amenities
+3644,8644,For rent,Pļavnieki,Dzeņu 1,2,50.0,5.0,9.0,602.,Panel,All amenities
+3649,8649,For rent,Iļģuciems,Spilves 21,2,50.0,6.0,9.0,Jaun.,Panel,All amenities
+3650,8650,For rent,Purvciems,Stirnu 19,3,45.0,5.0,5.0,LT proj.,Panel,All amenities
+3659,8659,For rent,Āgenskalns,Nometņu 62,1,23.0,1.0,1.0,Priv. m.,Masonry,All amenities
+3664,8664,For rent,Imanta,Jūrmalas g. 109,3,89.0,2.0,4.0,Jaun.,Masonry,All amenities
+3668,8668,For rent,centrs,Nītaures 3,2,94.0,2.0,6.0,Jaun.,Panel,All amenities
+3669,8669,For rent,Zolitūde,Augšzemes 5,2,57.0,2.0,4.0,Jaun.,Panel,All amenities
+3672,8672,For rent,Ziepniekkalns,Ozolciema 46,1,15.0,9.0,9.0,602.,Panel,All amenities
+3675,8675,For rent,Zolitūde,Anniņmuižas 7,2,64.0,12.0,13.0,Jaun.,Panel,All amenities
+3678,8678,For rent,centrs,Ģertrūdes 108,2,40.0,3.0,3.0,P. kara,Masonry,All amenities
+3682,8682,For rent,Maskavas priekšpilsēta,Maskavas 146,1,15.0,1.0,1.0,Renov.,Panel-Brick,All amenities
+3687,8687,For rent,centrs,Dzirnavu 31,3,82.0,7.0,7.0,P. kara,Masonry,All amenities
+3695,8695,For rent,centrs,Elizabetes 37,1,24.0,4.0,4.0,P. kara,Masonry,All amenities
+3696,8696,For rent,Zolitūde,Zolitūdes 46,3,78.0,5.0,9.0,119.,Panel,All amenities
+3698,8698,For rent,Vecmīlgrāvis,Dombrovska 75,2,56.0,3.0,5.0,103.,Brick-Panel,All amenities
+3699,8699,For rent,centrs,Katrīnas d. 22,2,42.0,1.0,4.0,Hrušč.,Brick,All amenities
+3714,8714,For rent,Grīziņkalns,Sapieru 1,1,25.0,3.0,3.0,P. kara,Wood,All amenities
+3719,8719,For rent,Imanta,Anniņmuižas bulvāris 43,3,80.0,17.0,24.0,Jaun.,Masonry,All amenities
+3720,8720,For rent,centrs,Cēsu 5,3,70.0,4.0,5.0,P. kara,Brick,All amenities
+3722,8722,For rent,VEF,Ropažu 5,3,67.0,1.0,5.0,LT proj.,Brick,All amenities
+3723,8723,For rent,Teika,Ropažu 5,3,67.0,1.0,5.0,LT proj.,Brick,All amenities
+3730,8730,For rent,centrs,Merķeļa 1,1,24.0,4.0,6.0,P. kara,Brick,All amenities
+3736,8736,For rent,Šampēteris-Pleskodāle,Irlavas 34,2,61.0,3.0,3.0,Jaun.,Masonry,All amenities
+3740,8740,For rent,centrs,Sadovņikova 56,2,30.0,2.0,5.0,Jaun.,Masonry,All amenities
+3744,8744,For rent,centrs,Ganību d. 14,1,31.0,2.0,2.0,P. kara,Brick,All amenities
+3746,8746,For rent,centrs,Republikas laukums 3,2,55.0,5.0,8.0,Jaun.,Panel-Brick,All amenities
+3748,8748,For rent,Vecrīga,Laipu 5,3,94.0,3.0,4.0,P. kara,Brick,All amenities
+3749,8749,For rent,Vecrīga,Kalēju 74,2,61.0,3.0,6.0,Jaun.,Panel-Brick,All amenities
+3750,8750,For rent,centrs,Matīsa 137,2,55.0,1.0,4.0,P. kara,Brick,Partial amenities
+3752,8752,For rent,centrs,Barona 76,3,55.0,2.0,6.0,Renov.,Masonry,All amenities
+3764,8764,For rent,Purvciems,Mārcienas 1,2,56.0,8.0,9.0,119.,Panel,All amenities
+3765,8765,For rent,Imanta,Anniņmuižas bulvāris 41,1,46.0,5.0,24.0,Jaun.,Panel-Brick,All amenities
+3767,8767,For rent,centrs,Vesetas 30,2,42.0,4.0,6.0,Hrušč.,Brick,All amenities
+3768,8768,For rent,Ziepniekkalns,Sērenes 4,2,53.0,6.0,16.0,104.,Panel,All amenities
+3769,8769,For rent,Āgenskalns,Pilsoņu 18,1,15.0,1.0,1.0,Renov.,Brick,All amenities
+3771,8771,For rent,Mežciems,Kaivas 50-4,1,45.0,5.0,5.0,Jaun.,Brick-Panel,All amenities
+3774,8774,For rent,Pļavnieki,Jasmuižas 18 k 1,2,72.0,1.0,10.0,Jaun.,Panel-Brick,All amenities
+3776,8776,For rent,centrs,Lāčplēša 44/46,2,45.0,4.0,4.0,Renov.,Brick-Panel,All amenities
+3781,8781,For rent,centrs,Republikas laukums 3,5,120.0,5.0,6.0,Jaun.,Masonry,All amenities
+3782,8782,For rent,Ķengarags,Maskavas 261,1,22.0,3.0,5.0,Renov.,Brick,All amenities
+3783,8783,For rent,centrs,Rūpniecības 16,2,60.0,3.0,5.0,P. kara,Masonry,All amenities
+3784,8784,For rent,Vecrīga,Kalēju 14,4,105.0,5.0,5.0,P. kara,Brick,All amenities
+3785,8785,For rent,Mežciems,Kaivas 50,1,32.0,1.0,5.0,Jaun.,Panel,All amenities
+3789,8789,For rent,Pļavnieki,Dravnieku 6,2,50.0,7.0,9.0,602.,Panel,All amenities
+3790,8790,For rent,centrs,Republikas laukums 3,3,100.0,5.0,7.0,Jaun.,Masonry,All amenities
+3791,8791,For rent,Vecrīga,Vāgnera 12,1,33.0,2.0,4.0,P. kara,Masonry,All amenities
+3806,8806,For rent,centrs,Pumpura 3a,4,120.0,1.0,3.0,Renov.,Masonry,All amenities
+3811,8811,For rent,centrs,Čaka 117/1,3,71.0,6.0,6.0,Renov.,Masonry,All amenities
+3812,8812,For rent,centrs,Čaka 117,3,75.0,4.0,6.0,Renov.,Masonry,All amenities
+3813,8813,For rent,centrs,Avotu 11,1,41.0,1.0,6.0,P. kara,Masonry,All amenities
+3814,8814,For rent,centrs,Ģertrūdes 9,3,150.0,8.0,9.0,P. kara,Masonry,All amenities
+3815,8815,For rent,centrs,Matīsa 18,2,40.0,2.0,5.0,P. kara,Masonry,All amenities
+3816,8816,For rent,Sarkandaugava,Duntes 48,1,34.0,3.0,6.0,P. kara,Masonry,Partial amenities
+3818,8818,For rent,centrs,Barona 76,3,67.0,3.0,6.0,Renov.,Masonry,All amenities
+3819,8819,For rent,centrs,Zvaigžņu 24,2,30.0,4.0,6.0,Renov.,Masonry,All amenities
+3825,8825,For rent,Ķīpsala,Ogļu 32,3,80.0,2.0,4.0,Renov.,Masonry,All amenities
+3828,8828,For rent,Āgenskalns,Rododendru 14,1,31.0,3.0,5.0,Hrušč.,Brick,All amenities
+3829,8829,For rent,centrs,Hospitāļu 3,3,95.0,1.0,1.0,P. kara,Brick,All amenities
+3833,8833,For rent,Imanta,Anniņmuižas bulvāris 41,2,55.0,2.0,24.0,Specpr.,Brick-Panel,All amenities
+3836,8836,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,15.0,30.0,Jaun.,Brick-Panel,All amenities
+3847,8847,For rent,centrs,Skolas 36a,2,52.0,3.0,4.0,P. kara,Masonry,All amenities
+3851,8851,For rent,Purvciems,Staiceles 11,1,36.0,5.0,9.0,602.,Panel,All amenities
+3852,8852,For rent,Pļavnieki,Ilūkstes 4,1,40.0,3.0,5.0,103.,Panel-Brick,All amenities
+3854,8854,For rent,centrs,Rūpniecības 34a,5,158.0,3.0,6.0,Jaun.,Masonry,All amenities
+3858,8858,For rent,centrs,Skolas 36,1,36.0,1.0,4.0,P. kara,Brick,All amenities
+3871,8871,For rent,Zolitūde,Jūrkalnes 87,4,136.0,2.0,5.0,Jaun.,Panel-Brick,All amenities
+3875,8875,For rent,Mežciems,Druvienas 36,2,50.0,7.0,9.0,602.,Panel,All amenities
+3884,8884,For rent,Imanta,Dubultu 23,2,50.0,4.0,5.0,LT proj.,Panel,All amenities
+3886,8886,For rent,Dārzciems,Zeltiņu 20,3,63.0,2.0,9.0,602.,Panel,All amenities
+3889,8889,For rent,Šampēteris-Pleskodāle,Ventspils 65,1,25.0,2.0,3.0,Specpr.,Masonry,All amenities
+3891,8891,For rent,centrs,Republikas laukums 3,1,43.0,3.0,7.0,Jaun.,Masonry,All amenities
+3892,8892,For rent,Purvciems,Žagatu 20a,2,50.0,7.0,9.0,602.,Panel,All amenities
+3900,8900,For rent,Mežciems,Kaivas 15,2,42.0,4.0,5.0,Jaun.,Panel,All amenities
+3903,8903,For rent,Ziepniekkalns,Ozolciema 54,1,44.0,3.0,9.0,M. ģim.,Panel,All amenities
+3912,8912,For rent,centrs,Zvaigžņu 24,1,20.0,3.0,5.0,P. kara,Masonry,All amenities
+3913,8913,For rent,centrs,Dzirnavu 31,3,120.0,7.0,7.0,P. kara,Brick,All amenities
+3916,8916,For rent,centrs,Brīvības 156,1,32.0,5.0,5.0,Specpr.,Panel,All amenities
+3923,8923,For rent,Āgenskalns,Tapešu 25,3,74.0,3.0,4.0,Specpr.,Brick-Panel,All amenities
+3924,8924,For rent,centrs,Elizabetes 1,4,94.0,2.0,5.0,Renov.,Masonry,All amenities
+3927,8927,For rent,centrs,Ausekļa 7,6,160.0,2.0,5.0,Renov.,Masonry,All amenities
+3929,8929,For rent,Mežciems,Hipokrāta 9,2,57.0,4.0,16.0,104.,Brick-Panel,All amenities
+3933,8933,For rent,Āgenskalns,Kalnciema 1a,2,69.0,1.0,4.0,P. kara,Masonry,All amenities
+3935,8935,For rent,Ziepniekkalns,Zaļenieku 22,1,33.0,2.0,2.0,Renov.,Masonry,All amenities
+3937,8937,For rent,centrs,Rūpniecības 1,5,150.0,2.0,5.0,P. kara,Wood,All amenities
+3940,8940,For rent,Pļavnieki,J. Vācieša 2c,4,115.0,16.0,16.0,Specpr.,Panel,All amenities
+3942,8942,For rent,Pļavnieki,Zebiekstes 3,2,59.0,7.0,9.0,119.,Panel,All amenities
+3945,8945,For rent,centrs,Ģertrūdes 38,4,121.0,2.0,5.0,Renov.,Brick,All amenities
+3946,8946,For rent,Torņakalns,Mūkusalas 56,1,25.0,2.0,3.0,Specpr.,Panel,All amenities
+3949,8949,For rent,centrs,Elizabetes 2a,4,95.0,3.0,5.0,P. kara,Masonry,All amenities
+3958,8958,For rent,centrs,Bruņinieku 75,1,17.0,1.0,5.0,Specpr.,Brick-Panel,All amenities
+3965,8965,For rent,centrs,Cēsu 8,3,87.0,4.0,6.0,P. kara,Masonry,All amenities
+3973,8973,For rent,centrs,Pulkv. Brieža 35,4,116.0,6.0,7.0,Jaun.,Masonry,All amenities
+3974,8974,For rent,Teika,Kastrānes 16,1,38.0,2.0,4.0,Specpr.,Brick-Panel,All amenities
+3978,8978,For rent,centrs,Brīvības iela 90,2,59.0,5.0,6.0,P. kara,Masonry,All amenities
+3980,8980,For rent,Ķengarags,Maskavas 280,1,34.0,1.0,5.0,LT proj.,Brick-Panel,All amenities
+3983,8983,For rent,Teika,Caunes 10 k1,3,75.0,8.0,9.0,Specpr.,Panel-Brick,All amenities
+3987,8987,For rent,centrs,Rūpniecības 34,5,159.0,3.0,7.0,Jaun.,Masonry,All amenities
+3989,8989,For rent,Āgenskalns,Liepājas 34,3,58.0,3.0,4.0,Renov.,Masonry,All amenities
+3992,8992,For rent,centrs,Pērnavas 19,1,18.0,3.0,5.0,Specpr.,Masonry,All amenities
+3998,8998,For rent,centrs,Bruņinieku 111,1,8.0,1.0,4.0,Renov.,Masonry,All amenities
+3999,8999,For rent,Pļavnieki,Ulbrokas 8,1,42.0,4.0,5.0,M. ģim.,Panel,All amenities
+4001,9001,For rent,centrs,Brīvības iela 148,1,28.0,2.0,5.0,P. kara,Masonry,All amenities
+4007,9007,For rent,Mangaļi,Viestura pr. 24,2,46.0,1.0,5.0,LT proj.,Panel,All amenities
+4008,9008,For rent,Āgenskalns,Melnsila 18,1,31.0,4.0,5.0,Specpr.,Panel,All amenities
+4012,9012,For rent,centrs,Rūjienas 6,2,56.0,1.0,2.0,P. kara,Wood,Partial amenities
+4017,9017,For rent,centrs,Bruņinieku 12,4,127.0,4.0,5.0,P. kara,Masonry,All amenities
+4019,9019,For rent,Mežaparks,Viestura pr. 63,2,47.0,9.0,9.0,Specpr.,Brick,All amenities
+4020,9020,For rent,Āgenskalns,St. Rusas 22,3,85.0,3.0,3.0,Jaun.,Panel-Brick,All amenities
+4021,9021,For rent,Bolderāja,Platā 10,1,43.4,5.0,5.0,M. ģim.,Panel,All amenities
+4022,9022,For rent,Imanta,Dubultu 23,3,55.0,2.0,5.0,LT proj.,Panel,All amenities
+4029,9029,For rent,Daugavgrīva,Birzes 40,1,32.0,4.0,5.0,104.,Brick-Panel,All amenities
+4033,9033,For rent,centrs,Baznīcas 13,3,106.0,5.0,6.0,Renov.,Masonry,All amenities
+4034,9034,For rent,Pļavnieki,Salnas 14,4,73.0,8.0,9.0,602.,Panel,All amenities
+4037,9037,For rent,centrs,Raiņa bulv. 31,3,43.0,3.0,5.0,P. kara,Brick,All amenities
+4038,9038,For rent,Zolitūde,Zolitūdes 46,1,42.0,6.0,9.0,119.,Panel,All amenities
+4040,9040,For rent,Imanta,Imantas 1,2,82.0,2.0,3.0,Priv. m.,Brick,All amenities
+4041,9041,For rent,centrs,Klijānu 6,3,200.0,8.0,9.0,Jaun.,Masonry,All amenities
+4042,9042,For rent,Imanta,Dammes 26,2,38.0,5.0,5.0,LT proj.,Panel,All amenities
+4043,9043,For rent,centrs,Ganību d. 13,3,70.0,5.0,6.0,Jaun.,Brick-Panel,All amenities
+4044,9044,For rent,centrs,Klijānu 6,1,35.0,5.0,9.0,Jaun.,Panel-Brick,All amenities
+4045,9045,For rent,centrs,Sadovņikova 39,2,45.0,3.0,5.0,Specpr.,Brick,All amenities
+4046,9046,For rent,centrs,Klijānu 6,2,70.0,8.0,9.0,Jaun.,Panel-Brick,All amenities
+4048,9048,For rent,Grīziņkalns,Zvaigžņu 18,3,70.0,4.0,5.0,103.,Brick,All amenities
+4049,9049,For rent,Vecmīlgrāvis,Kalngales 1,1,34.0,8.0,9.0,602.,Panel,All amenities
+4051,9051,For rent,Ziepniekkalns,Tīraines 10,2,36.0,2.0,4.0,602.,Brick-Panel,All amenities
+4061,9061,For rent,Ķengarags,Aglonas 12,3,60.0,1.0,5.0,LT proj.,Panel,All amenities
+4063,9063,For rent,Mežciems,Kaivas 50/1,3,70.0,5.0,5.0,Jaun.,Panel,All amenities
+4064,9064,For rent,centrs,Bruņinieku 104,2,47.0,3.0,5.0,P. kara,Brick,All amenities
+4065,9065,For rent,Sarkandaugava,Sīmaņa 6,1,27.0,2.0,2.0,P. kara,Brick,All amenities
+4072,9072,For rent,Imanta,Anniņmuižas bulvāris 38,2,64.0,10.0,18.0,Jaun.,Panel,All amenities
+4076,9076,For rent,centrs,Lāčplēša 127,2,95.0,3.0,3.0,Renov.,Brick,All amenities
+4079,9079,For rent,centrs,Eksporta 2a,3,80.0,3.0,6.0,Specpr.,Brick,All amenities
+4080,9080,For rent,centrs,Barona 76,3,68.0,3.0,6.0,Renov.,Masonry,All amenities
+4081,9081,For rent,centrs,Barona 76,3,80.0,3.0,6.0,Renov.,Masonry,All amenities
+4083,9083,For rent,Purvciems,Astras 8,1,40.0,5.0,24.0,Jaun.,Panel,All amenities
+4088,9088,For rent,Iļģuciems,Lielezeres 10,1,45.0,2.0,5.0,Jaun.,Panel,All amenities
+4090,9090,For rent,Jugla,Juglas 51,1,32.0,5.0,5.0,LT proj.,Panel,All amenities
+4095,9095,For rent,Imanta,Dammes 1,1,37.0,7.0,9.0,602.,Panel,All amenities
+4098,9098,For rent,Purvciems,Ieriķu 32,2,48.0,4.0,5.0,Specpr.,Brick,All amenities
+4101,9101,For rent,Teika,Ropažu 105,2,47.0,2.0,2.0,Hrušč.,Brick,All amenities
+4103,9103,For rent,centrs,Matīsa 38,2,46.0,3.0,6.0,Renov.,Brick,All amenities
+4105,9105,For rent,Krasta r-ns,Salacas 16,1,50.0,10.0,16.0,104.,Panel,All amenities
+4106,9106,For rent,Āgenskalns,Kalnciema 107,1,15.0,1.0,3.0,Hrušč.,Brick,All amenities
+4107,9107,For rent,Maskavas priekšpilsēta,Katoļu 35a,1,40.0,6.0,6.0,Renov.,Masonry,All amenities
+4109,9109,For rent,Ziepniekkalns,Ozolciema 56/2,2,49.0,9.0,9.0,602.,Panel,All amenities
+4110,9110,For rent,centrs,Ģertrūdes 54,1,29.0,4.0,6.0,P. kara,Masonry,All amenities
+4111,9111,For rent,centrs,Ģertrūdes 54,3,85.0,4.0,6.0,P. kara,Masonry,All amenities
+4113,9113,For rent,Sarkandaugava,Sarkandaugavas 2,1,34.0,4.0,5.0,103.,Brick-Panel,All amenities
+4115,9115,For rent,centrs,Stabu 52,2,42.0,3.0,3.0,P. kara,Wood,All amenities
+4117,9117,For rent,centrs,Eksporta 12,2,57.0,3.0,6.0,Renov.,Brick-Panel,All amenities
+4118,9118,For rent,Pļavnieki,Keldiša 24,2,50.0,9.0,9.0,602.,Panel,All amenities
+4121,9121,For rent,Mežaparks,Viestura pr. 43,2,35.0,2.0,9.0,Specpr.,Brick,All amenities
+4123,9123,For rent,Purvciems,Vaidavas 2,1,32.0,4.0,5.0,Specpr.,Brick-Panel,All amenities
+4127,9127,For rent,Vecmīlgrāvis,Sniega 3,1,35.0,1.0,2.0,Specpr.,Brick,All amenities
+4128,9128,For rent,centrs,Pētersalas 18,2,40.0,3.0,5.0,Hrušč.,Brick,All amenities
+4130,9130,For rent,Dzegužkalns,Eiženijas 17,2,40.0,4.0,4.0,Jaun.,Panel-Brick,All amenities
+4133,9133,For rent,centrs,Rūpniecības 7,3,108.0,4.0,5.0,P. kara,Masonry,All amenities
+4138,9138,For rent,Āgenskalns,Kristapa 16,2,40.0,3.0,5.0,Hrušč.,Brick,All amenities
+4139,9139,For rent,Bolderāja,Platā 22,1,40.0,9.0,9.0,Specpr.,Brick,All amenities
+4141,9141,For rent,Ziepniekkalns,Īslīces 9,1,42.0,8.0,9.0,119.,Panel,All amenities
+4142,9142,For rent,Teika,Ieriķu 37,1,31.0,2.0,5.0,LT proj.,Panel,All amenities
+4146,9146,For rent,Zolitūde,Zolitūdes 46,2,56.0,4.0,9.0,119.,Panel,All amenities
+4147,9147,For rent,centrs,Artilērijas 64a,1,25.0,4.0,6.0,P. kara,Brick,All amenities
+4153,9153,For rent,centrs,Sadovņikova 47,1,30.0,2.0,5.0,Renov.,Brick,All amenities
+4154,9154,For rent,Krasta r-ns,Salacas 1,1,30.0,3.0,4.0,Renov.,Brick,All amenities
+4156,9156,For rent,centrs,J. Daliņa 2,2,39.0,1.0,5.0,LT proj.,Masonry,All amenities
+4160,9160,For rent,centrs,Valdemāra 106,3,87.0,2.0,6.0,Staļina,Masonry,All amenities
+4161,9161,For rent,centrs,Valdemāra 83,2,43.0,7.0,7.0,Renov.,Brick,All amenities
+4162,9162,For rent,Grīziņkalns,Rūdolfa 1,2,42.0,2.0,5.0,Renov.,Masonry,All amenities
+4163,9163,For rent,centrs,Lāčplēša 48,2,52.0,2.0,6.0,Renov.,Masonry,All amenities
+4164,9164,For rent,centrs,Tallinas 35,2,45.0,2.0,5.0,P. kara,Brick,All amenities
+4165,9165,For rent,Ķengarags,Krustpils 123a,1,19.0,3.0,3.0,Renov.,Brick,All amenities
+4171,9171,For rent,Purvciems,Zvaigznāja g. 3,1,28.0,3.0,5.0,LT proj.,Panel,All amenities
+4173,9173,For rent,centrs,Riepnieku 2,1,56.0,2.0,6.0,Staļina,Brick,All amenities
+4174,9174,For rent,Vecmīlgrāvis,Gāles 17,1,20.0,2.0,5.0,Specpr.,Brick-Panel,All amenities
+4177,9177,For rent,Sarkandaugava,Tvaika 14,2,35.0,4.0,5.0,Hrušč.,Brick-Panel,All amenities
+4179,9179,For rent,Ķengarags,Lokomotīves 44,2,39.0,5.0,5.0,LT proj.,Panel,All amenities
+4180,9180,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,20.0,30.0,Jaun.,Panel-Brick,All amenities
+4181,9181,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,21.0,30.0,Jaun.,Panel-Brick,All amenities
+4182,9182,For rent,Krasta r-ns,Balvu 13,2,52.0,2.0,5.0,Specpr.,Brick,All amenities
+4185,9185,For rent,centrs,Bruņinieku 44,3,72.0,5.0,5.0,P. kara,Brick,All amenities
+4186,9186,For rent,Šampēteris-Pleskodāle,Astras 10a,1,40.0,2.0,3.0,Priv. m.,Masonry,All amenities
+4187,9187,For rent,centrs,Stabu 92,3,103.0,3.0,6.0,Renov.,Masonry,All amenities
+4188,9188,For rent,centrs,Bruņinieku 72,2,52.0,2.0,3.0,Jaun.,Masonry,Partial amenities
+4191,9191,For rent,Maskavas priekšpilsēta,Kalna 11,1,26.0,4.0,5.0,P. kara,Brick,All amenities
+4197,9197,For rent,centrs,Brīvības 106,2,36.0,1.0,5.0,Renov.,Brick-Panel,All amenities
+4198,9198,For rent,Āgenskalns,Kapseļu 4a,2,54.0,3.0,3.0,Staļina,Brick,All amenities
+4200,9200,For rent,Teika,Apes 5,1,27.0,3.0,5.0,Hrušč.,Brick-Panel,All amenities
+4201,9201,For rent,Krasta r-ns,Salacas 1,1,33.0,3.0,4.0,Renov.,Brick,All amenities
+4205,9205,For rent,centrs,Valdemāra 69,1,20.0,1.0,5.0,Renov.,Masonry,All amenities
+4206,9206,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,15.0,30.0,Jaun.,Panel-Brick,All amenities
+4209,9209,For rent,Čiekurkalns,Ezermalas 2/2,1,35.0,9.0,12.0,Specpr.,Brick,All amenities
+4210,9210,For rent,Imanta,Anniņmuižas bulvāris 38,2,60.0,2.0,17.0,Jaun.,Masonry,All amenities
+4218,9218,For rent,centrs,Merķeļa 3,1,14.0,3.0,5.0,P. kara,Brick,All amenities
+4221,9221,For rent,Zolitūde,Ruses 7,1,43.0,7.0,9.0,119.,Panel,All amenities
+4224,9224,For rent,Zolitūde,Ruses 16,1,37.0,5.0,9.0,119.,Panel,All amenities
+4225,9225,For rent,Šampēteris-Pleskodāle,Lielirbes 11,2,68.0,15.0,25.0,Jaun.,Masonry,All amenities
+4226,9226,For rent,Teika,Palmu 5,2,50.0,1.0,6.0,Specpr.,Brick,All amenities
+4227,9227,For rent,Pļavnieki,Pļavnieku 8,2,50.0,9.0,4.0,602.,Panel,All amenities
+4230,9230,For rent,centrs,Riepnieku 4,2,53.0,3.0,5.0,P. kara,Masonry,All amenities
+4231,9231,For rent,Jugla,Juglas 1,2,48.0,5.0,5.0,LT proj.,Brick-Panel,All amenities
+4234,9234,For rent,Ķengarags,Prūšu 1,1,32.0,3.0,5.0,LT proj.,Panel,All amenities
+4237,9237,For rent,Vecrīga,Kalēju 47,3,42.0,3.0,5.0,Specpr.,Panel,All amenities
+4238,9238,For rent,Ziepniekkalns,Graudu 76,2,70.0,3.0,3.0,Jaun.,Masonry,All amenities
+4239,9239,For rent,centrs,Marijas 16,2,54.0,3.0,6.0,P. kara,Brick,All amenities
+4244,9244,For rent,centrs,Klusā 20,1,27.0,6.0,9.0,Renov.,Masonry,All amenities
+4245,9245,For rent,Mežciems,Eizenšteina 49a,3,18.0,1.0,2.0,Jaun.,Panel,All amenities
+4247,9247,For rent,Teika,Kastrānes 1,2,33.0,1.0,5.0,Renov.,Brick,All amenities
+4248,9248,For rent,Vecmīlgrāvis,Atlantijas 7,1,18.0,3.0,5.0,Specpr.,Brick-Panel,All amenities
+4252,9252,For rent,Iļģuciems,Palangas 7,2,40.0,4.0,5.0,LT proj.,Panel,All amenities
+4255,9255,For rent,centrs,Upes 12,1,32.0,1.0,4.0,P. kara,Masonry,Partial amenities
+4257,9257,For rent,centrs,Brīvības 132,2,57.0,2.0,3.0,P. kara,Masonry,All amenities
+4260,9260,For rent,Āgenskalns,Kuģu 22,1,25.0,1.0,4.0,Hrušč.,Brick,All amenities
+4262,9262,For rent,centrs,Cēsu 17,1,30.0,2.0,2.0,P. kara,Wood,All amenities
+4263,9263,For rent,Zolitūde,Zolitūdes 73,3,72.0,2.0,6.0,Jaun.,Brick-Panel,All amenities
+4267,9267,For rent,Imanta,Kurzemes pr. 84,1,32.0,9.0,9.0,602.,Panel,All amenities
+4268,9268,For rent,centrs,Bruņinieku 111,2,45.0,1.0,2.0,P. kara,Masonry,All amenities
+4271,9271,For rent,Ziepniekkalns,Čakstes g. 49,1,19.0,1.0,2.0,Specpr.,Brick,All amenities
+4274,9274,For rent,centrs,Pērnavas 10a,2,39.0,2.0,5.0,LT proj.,Brick,All amenities
+4275,9275,For rent,centrs,Pērnavas 12,2,46.0,5.0,5.0,LT proj.,Brick,All amenities
+4278,9278,For rent,Ziepniekkalns,Ozolciema 20/1,1,43.0,4.0,10.0,119.,Panel-Brick,All amenities
+4279,9279,For rent,Zolitūde,Zolitūdes 25,1,45.0,3.0,9.0,Specpr.,Panel-Brick,All amenities
+4281,9281,For rent,Mežaparks,Kokneses pr. 4 k-1,3,72.0,3.0,10.0,Jaun.,Brick-Panel,All amenities
+4282,9282,For rent,Grīziņkalns,Barona 122,2,60.0,3.0,5.0,Specpr.,Brick-Panel,All amenities
+4283,9283,For rent,centrs,Stabu 59,3,71.0,2.0,5.0,P. kara,Masonry,All amenities
+4284,9284,For rent,centrs,Bruņinieku 28,4,116.0,3.0,6.0,P. kara,Masonry,All amenities
+4285,9285,For rent,Purvciems,Nīcgales 4,2,49.0,1.0,1.0,602.,Panel,All amenities
+4291,9291,For rent,Pļavnieki,Salnas 7,2,50.0,3.0,9.0,602.,Panel,All amenities
+4292,9292,For rent,Torņakalns,Akmeņu 16a,2,81.0,3.0,4.0,P. kara,Brick,All amenities
+4294,9294,For rent,centrs,Vagonu 22,1,26.0,1.0,5.0,Renov.,Masonry,All amenities
+4299,9299,For rent,centrs,Stabu 54,3,84.0,2.0,4.0,P. kara,Masonry,All amenities
+4301,9301,For rent,centrs,Baznīcas 26a,2,90.0,3.0,6.0,Renov.,Brick,All amenities
+4314,9314,For rent,Mežaparks,Viestura pr. 53,1,35.0,3.0,9.0,Specpr.,Brick-Panel,All amenities
+4316,9316,For rent,Ziepniekkalns,Dignājas 3a,2,62.0,5.0,6.0,Jaun.,Panel,All amenities
+4317,9317,For rent,Sarkandaugava,Hāpsalas 9,1,30.0,2.0,2.0,P. kara,Brick,Partial amenities
+4319,9319,For rent,Jugla,Vangažu 7,1,35.0,5.0,12.0,Specpr.,Brick,All amenities
+4320,9320,For rent,Ziepniekkalns,Ozolciema 18,2,58.0,5.0,9.0,119.,Brick-Panel,All amenities
+4321,9321,For rent,Bolderāja,Silikātu 7a,1,25.0,2.0,2.0,M. ģim.,Brick-Panel,Partial amenities
+4322,9322,For rent,centrs,Valdemāra 89,1,15.0,4.0,5.0,P. kara,Brick,All amenities
+4323,9323,For rent,Purvciems,Dudajeva g. 5,1,28.0,4.0,5.0,LT proj.,Panel,All amenities
+4327,9327,For rent,Iļģuciems,Spilves 33,2,50.0,4.0,5.0,LT proj.,Panel,All amenities
+4329,9329,For rent,Ķengarags,Maskavas 377,2,49.0,5.0,5.0,LT proj.,Panel,All amenities
+4330,9330,For rent,Pļavnieki,Salnas 21,2,50.0,9.0,9.0,Jaun.,Panel-Brick,All amenities
+4338,9338,For rent,Ziepniekkalns,Valdeķu 5,3,61.0,7.0,9.0,602.,Panel,All amenities
+4341,9341,For rent,Čiekurkalns,Rusova 7,2,37.0,4.0,9.0,Jaun.,Masonry,All amenities
+4342,9342,For rent,Maskavas priekšpilsēta,Maskavas 175,1,14.0,4.0,4.0,Specpr.,Masonry,All amenities
+4348,9348,For rent,centrs,Lāčplēša 98,1,20.0,6.0,6.0,Specpr.,Panel-Brick,All amenities
+4349,9349,For rent,Āgenskalns,St. Rusas 5,1,35.0,3.0,6.0,Hrušč.,Masonry,All amenities
+4350,9350,For rent,Teika,Brīvības gatve 312,2,54.0,3.0,5.0,Renov.,Masonry,All amenities
+4352,9352,For rent,Teika,Ropažu 56,2,35.0,1.0,5.0,Staļina,Brick,All amenities
+4353,9353,For rent,Pļavnieki,Deglava 152,1,31.0,2.0,9.0,602.,Panel,All amenities
+4354,9354,For rent,centrs,Bruņinieku 115c,1,20.0,4.0,5.0,P. kara,Masonry,Partial amenities
+4359,9359,For rent,Teika,Brīvības gatve 293 a,3,91.0,3.0,5.0,Jaun.,Panel,All amenities
+4365,9365,For rent,Purvciems,Ilūkstes 101,2,45.0,2.0,10.0,467.,Panel-Brick,All amenities
+4371,9371,For rent,centrs,Birznieka-Upīša 23,1,16.0,3.0,3.0,P. kara,Masonry,All amenities
+4373,9373,For rent,Šampēteris-Pleskodāle,Lielirbes 11,3,93.0,9.0,23.0,Jaun.,Panel-Brick,All amenities
+4374,9374,For rent,centrs,Ģertrūdes 127,1,29.0,4.0,5.0,P. kara,Brick,All amenities
+4375,9375,For rent,centrs,M. Piena 8,3,51.0,4.0,4.0,P. kara,Brick,All amenities
+4377,9377,For rent,Bieriņi,Līdaku 3a,1,25.0,2.0,2.0,P. kara,Wood,Partial amenities
+4379,9379,For rent,Sarkandaugava,Limbažu 2,1,26.12,5.0,5.0,Hrušč.,Brick,All amenities
+4380,9380,For rent,centrs,Senču 5,3,93.0,3.0,5.0,P. kara,Masonry,All amenities
+4383,9383,For rent,Ziepniekkalns,Valdeķu 66/1,1,34.0,5.0,9.0,602.,Panel,All amenities
+4385,9385,For rent,Pļavnieki,Rudens 9,1,31.0,1.0,9.0,602.,Panel,All amenities
+4387,9387,For rent,Mežaparks,Siguldas pr. 14,4,151.0,2.0,3.0,P. kara,Masonry,All amenities
+4388,9388,For rent,centrs,Čaka 89,1,13.0,2.0,2.0,Renov.,Masonry,All amenities
+4389,9389,For rent,Purvciems,Viršu 4,1,44.0,7.0,12.0,104.,Panel,All amenities
+4390,9390,For rent,Zolitūde,Bieziņa 3,3,70.0,2.0,10.0,119.,Panel,All amenities
+4391,9391,For rent,centrs,Matīsa 14,1,33.0,2.0,2.0,P. kara,Wood,All amenities
+4392,9392,For rent,Maskavas priekšpilsēta,Maskavas 146,1,23.0,1.0,1.0,Renov.,Panel-Brick,All amenities
+4399,9399,For rent,Dzegužkalns,Dzirciema 21,2,48.0,12.0,12.0,Čehu pr.,Brick-Panel,All amenities
+4400,9400,For rent,centrs,Brīvības 56,4,20.0,3.0,6.0,Staļina,Panel,All amenities
+4401,9401,For rent,Purvciems,Ūnijas 31,2,55.0,1.0,3.0,Staļina,Brick,All amenities
+4402,9402,For rent,centrs,Cēsu 2,2,54.0,4.0,6.0,P. kara,Masonry,All amenities
+4403,9403,For rent,centrs,Birznieka-Upīša 29,3,82.0,5.0,6.0,Renov.,Masonry,All amenities
+4404,9404,For rent,Šampēteris-Pleskodāle,Zalves 47,3,82.0,1.0,5.0,Jaun.,Brick,All amenities
+4405,9405,For rent,centrs,Cēsu 2,2,50.0,5.0,6.0,P. kara,Masonry,All amenities
+4408,9408,For rent,Ziepniekkalns,Ozolciema 52,1,41.0,2.0,9.0,M. ģim.,Panel,All amenities
+4418,9418,For rent,centrs,Eksporta 8,4,260.0,2.0,2.0,Jaun.,Masonry,All amenities
+4419,9419,For rent,centrs,Eksporta 8,4,235.0,2.0,2.0,Jaun.,Masonry,All amenities
+4420,9420,For rent,Ziepniekkalns,Valdeķu 50,3,65.0,3.0,9.0,602.,Panel,All amenities
+4421,9421,For rent,Āgenskalns,Gardenes 7,2,42.0,5.0,5.0,Hrušč.,Brick,All amenities
+4427,9427,For rent,Pļavnieki,Deglava 106,1,40.0,1.0,9.0,119.,Panel,All amenities
+4429,9429,For rent,centrs,Miera 27,4,101.0,5.0,5.0,P. kara,Masonry,Partial amenities
+4430,9430,For rent,centrs,Rūpniecības 21,3,95.0,3.0,7.0,Jaun.,Brick,All amenities
+4432,9432,For rent,Purvciems,Ilūkstes 60,1,30.0,5.0,5.0,LT proj.,Panel,All amenities
+4433,9433,For rent,Purvciems,Ieriķu 36,1,28.0,3.0,5.0,103.,Brick-Panel,All amenities
+4436,9436,For rent,Purvciems,Ilūkstes 54,1,43.0,2.0,5.0,M. ģim.,Panel,All amenities
+4437,9437,For rent,centrs,Čaka 130,1,35.0,1.0,6.0,P. kara,Brick,All amenities
+4443,9443,For rent,Ķengarags,Maskavas 266,2,45.0,4.0,5.0,LT proj.,Panel,All amenities
+4444,9444,For rent,centrs,Alunāna 6,2,50.0,2.0,4.0,P. kara,Brick,All amenities
+4448,9448,For rent,centrs,Kurbada 3b,5,50.0,3.0,5.0,Renov.,Brick-Panel,All amenities
+4451,9451,For rent,Imanta,Kurzemes pr. 148,1,34.0,8.0,9.0,602.,Panel,All amenities
+4455,9455,For rent,Purvciems,Kastrānes 1/2,1,24.0,2.0,5.0,Renov.,Masonry,All amenities
+4463,9463,For rent,centrs,Brīvības iela 162,4,86.0,5.0,8.0,Specpr.,Brick-Panel,All amenities
+4464,9464,For rent,Jugla,Ciemupes 1,3,100.0,4.0,10.0,Jaun.,Masonry,All amenities
+4466,9466,For rent,centrs,Eksporta 12,4,245.0,6.0,6.0,Renov.,Masonry,All amenities
+4469,9469,For rent,Mangaļi,Briežu 7,1,26.0,5.0,6.0,Jaun.,Panel,All amenities
+4471,9471,For rent,centrs,Tallinas 68,2,35.0,5.0,5.0,P. kara,Masonry,All amenities
+4472,9472,For rent,centrs,Alberta 11,3,64.26,5.0,6.0,P. kara,Masonry,All amenities
+4473,9473,For rent,centrs,Avotu 75,1,20.0,1.0,2.0,P. kara,Wood,Partial amenities
+4475,9475,For rent,centrs,Čaka 54,4,100.0,2.0,6.0,P. kara,Brick,All amenities
+4481,9481,For rent,Zolitūde,Ruses 24,3,75.0,4.0,9.0,119.,Panel,All amenities
+4483,9483,For rent,centrs,Birznieka-Upīša 23,4,98.0,1.0,3.0,P. kara,Masonry,All amenities
+4484,9484,For rent,Purvciems,Dzelzavas 95,2,51.0,4.0,5.0,LT proj.,Panel,All amenities
+4486,9486,For rent,Ziepniekkalns,Ozolciema 56 k-2,1,35.0,9.0,9.0,602.,Panel,All amenities
+4491,9491,For rent,Purvciems,Ūnijas 59,2,46.0,5.0,5.0,103.,Brick-Panel,All amenities
+4492,9492,For rent,centrs,Avotu 37,3,63.0,3.0,3.0,Staļina,Brick,Partial amenities
+4495,9495,For rent,Bolderāja,Lielupes 1,1,28.0,1.0,5.0,Hrušč.,Masonry,All amenities
+4497,9497,For rent,Āgenskalns,Kuldīgas 37a,3,79.0,4.0,5.0,Jaun.,Panel,All amenities
+4498,9498,For rent,Ziepniekkalns,Ziepniekkalna 64,2,60.0,1.0,5.0,Jaun.,Masonry,All amenities
+4499,9499,For rent,Iļģuciems,Spilves 35,1,25.0,5.0,5.0,LT proj.,Panel,All amenities
+4502,9502,For rent,Pļavnieki,Ilūkstes 4,1,40.0,4.0,9.0,104.,Panel,All amenities
+4503,9503,For rent,Pļavnieki,J. Vācieša 10,2,51.0,5.0,9.0,602.,Panel,All amenities
+4504,9504,For rent,Ziepniekkalns,Valdeķu 60,2,51.0,3.0,9.0,602.,Brick-Panel,All amenities
+4505,9505,For rent,Šampēteris-Pleskodāle,Šampētera 42,2,40.0,1.0,2.0,Renov.,Wood,All amenities
+4506,9506,For rent,Krasta r-ns,Maskavas 218,2,50.0,7.0,9.0,467.,Panel,All amenities
+4507,9507,For rent,centrs,Vidus 4,3,82.0,4.0,5.0,P. kara,Brick,All amenities
+4508,9508,For rent,Jaunciems,Jaunciema 5. šķ. l. 10b,1,50.0,1.0,3.0,Priv. m.,Masonry,All amenities
+4513,9513,For rent,centrs,Eksporta 8,5,150.0,1.0,2.0,Jaun.,Masonry,All amenities
+4514,9514,For rent,Purvciems,Ķeguma 60,1,40.0,3.0,5.0,M. ģim.,Panel,All amenities
+4516,9516,For rent,centrs,Valdemāra 147/3,2,54.0,2.0,5.0,Specpr.,Brick,All amenities
+4517,9517,For rent,centrs,Barona 82a,1,23.0,1.0,2.0,Staļina,Masonry,All amenities
+4521,9521,For rent,Purvciems,Dzelzavas 38,2,57.0,12.0,12.0,104.,Panel,All amenities
+4524,9524,For rent,Zolitūde,Liedes 2,2,63.0,1.0,4.0,Jaun.,Panel,All amenities
+4525,9525,For rent,Zolitūde,Ruses 3,1,42.0,5.0,9.0,119.,Panel,All amenities
+4526,9526,For rent,Sarkandaugava,Ozolu 7,2,40.0,1.0,5.0,Specpr.,Brick-Panel,All amenities
+4527,9527,For rent,centrs,Tērbatas 4,4,119.0,4.0,5.0,Renov.,Masonry,All amenities
+4528,9528,For rent,Mežaparks,Visbijas pr. 17,5,165.0,2.0,3.0,Renov.,Masonry,All amenities
+4530,9530,For rent,Āgenskalns,Alīses 6,2,43.0,5.0,5.0,Hrušč.,Panel,All amenities
+4531,9531,For rent,Ziepniekkalns,Ziepniekkalna 70,3,84.0,3.0,4.0,Jaun.,Masonry,All amenities
+4533,9533,For rent,centrs,Eksporta 8,4,148.0,1.0,3.0,Jaun.,Wood,All amenities
+4534,9534,For rent,Šampēteris-Pleskodāle,Lielirbes 13,3,90.0,15.0,30.0,Jaun.,Masonry,All amenities
+4536,9536,For rent,Teika,Brīvības gatve 334,2,43.0,3.0,5.0,Hrušč.,Brick-Panel,All amenities
+4537,9537,For rent,Pļavnieki,Saharova 7,1,40.0,3.0,9.0,M. ģim.,Panel,All amenities
+4539,9539,For rent,Mežciems,Celmu 10,2,49.0,2.0,5.0,LT proj.,Panel,All amenities
+4543,9543,For rent,centrs,Jeruzalemes 10,3,116.0,5.0,7.0,Jaun.,Panel-Brick,All amenities
+4544,9544,For rent,Vecrīga,Kungu 25,3,83.0,5.0,6.0,Jaun.,Panel-Brick,All amenities
+4546,9546,For rent,centrs,Pulkv. Brieža 7,2,81.0,2.0,6.0,Renov.,Masonry,All amenities
+4547,9547,For rent,Klīversala,Valguma 31,2,65.0,2.0,6.0,Jaun.,Panel,All amenities
+4552,9552,For rent,Jugla,Juglas 29,1,31.0,4.0,4.0,Specpr.,Brick,All amenities
+4558,9558,For rent,centrs,Zaubes 5,1,25.0,4.0,6.0,P. kara,Brick,All amenities
+4559,9559,For rent,centrs,Čaka 67,1,25.0,6.0,6.0,P. kara,Brick,All amenities
+4563,9563,For rent,centrs,Valdemāra 75,3,100.0,2.0,5.0,P. kara,Masonry,All amenities
+4564,9564,For rent,Šampēteris-Pleskodāle,Astras 10a,2,79.0,3.0,3.0,Jaun.,Masonry,All amenities
+4565,9565,For rent,Šampēteris-Pleskodāle,Astras 10a,1,69.0,3.0,3.0,Jaun.,Masonry,All amenities
+4566,9566,For rent,Šampēteris-Pleskodāle,Astras 10a,1,82.0,2.0,3.0,Priv. m.,Masonry,All amenities
+4567,9567,For rent,Pļavnieki,Deglava 160,1,32.0,2.0,9.0,602.,Panel,All amenities
+4568,9568,For rent,Purvciems,Dzelzavas 76,2,50.0,9.0,9.0,602.,Panel,All amenities
+4569,9569,For rent,centrs,Avotu 23,3,72.0,3.0,4.0,Renov.,Masonry,All amenities
+4571,9571,For rent,centrs,Maskavas 68,1,15.0,4.0,6.0,P. kara,Masonry,All amenities
+4572,9572,For rent,centrs,Avotu 23,3,72.0,2.0,4.0,Renov.,Masonry,All amenities
+4574,9574,For rent,Purvciems,Nīcgales 21,2,47.0,2.0,5.0,LT proj.,Panel,All amenities
+4575,9575,For rent,Mežciems,Gaiļezera 4,2,50.0,5.0,9.0,602.,Panel-Brick,All amenities
+4576,9576,For rent,Mangaļi,Ezera 18,2,42.0,2.0,3.0,Renov.,Brick,All amenities
+4577,9577,For rent,Mangaļi,Ezera 18,1,30.0,2.0,3.0,Renov.,Brick,All amenities
+4579,9579,For rent,Bolderāja,Velkoņu 2,2,54.0,2.0,5.0,103.,Brick,All amenities
+4585,9585,For rent,Āgenskalns,Kristapa 8b,1,18.0,2.0,4.0,M. ģim.,Brick,All amenities
+4586,9586,For rent,centrs,Klijānu 6,2,47.0,7.0,9.0,Renov.,Brick-Panel,All amenities
+4587,9587,For rent,Mežaparks,Viestura pr. 95,2,50.0,7.0,9.0,Jaun.,Brick-Panel,All amenities
+4588,9588,For rent,Ziepniekkalns,Svētes 1,3,99.0,1.0,4.0,Jaun.,Brick,All amenities
+4591,9591,For rent,centrs,Strēlnieku 19,2,40.0,1.0,3.0,P. kara,Brick-Panel,All amenities
+4592,9592,For rent,Krasta r-ns,Lubānas 14,1,33.0,9.0,9.0,467.,Panel-Brick,All amenities
+4594,9594,For rent,Āgenskalns,Gardenes 5,1,30.0,1.0,5.0,Hrušč.,Brick,All amenities
+4596,9596,For rent,Āgenskalns,Valentīna 16,1,35.0,4.0,5.0,Jaun.,Brick-Panel,All amenities
+4597,9597,For rent,centrs,Lāčplēša 131,2,47.0,1.0,4.0,P. kara,Masonry,All amenities
+4599,9599,For rent,Purvciems,Astras 8 k-1,3,83.0,16.0,24.0,Jaun.,Panel,All amenities
+4600,9600,For rent,Purvciems,Kastrānes 1-2,1,18.0,4.0,5.0,Renov.,Brick,All amenities
+4605,9605,For rent,centrs,Zaļā 4,3,100.0,6.0,7.0,Specpr.,Masonry,All amenities
+4608,9608,For rent,Purvciems,Nīcgales 4,2,50.0,8.0,9.0,602.,Panel,All amenities
+4609,9609,For rent,centrs,Sermuliņu 16,2,45.0,1.0,1.0,Jaun.,Masonry,All amenities
+4610,9610,For rent,Dārzciems,Stopiņu 14,2,56.0,2.0,5.0,Jaun.,Masonry,All amenities
+4613,9613,For rent,Iļģuciems,Kreslera 1k5,1,32.0,1.0,2.0,Hrušč.,Brick,All amenities
+4614,9614,For rent,Jugla,Brīvības gatve 404,1,34.0,6.0,12.0,Specpr.,Brick-Panel,All amenities
+4616,9616,For rent,centrs,Klusā 18,1,25.0,9.0,9.0,Renov.,Masonry,All amenities
+4618,9618,For rent,Āgenskalns,Mūkusalas 25,2,44.0,3.0,6.0,Jaun.,Masonry,All amenities
+4619,9619,For rent,centrs,Brīvības iela 169,2,48.0,4.0,5.0,103.,Panel-Brick,All amenities
+4622,9622,For rent,Grīziņkalns,Tallinas 85,2,38.0,4.0,4.0,P. kara,Masonry,All amenities
+4624,9624,For rent,centrs,Bruņinieku 73a,2,55.0,2.0,4.0,P. kara,Masonry,All amenities
+4626,9626,For rent,Ķengarags,Krustpils 73,1,12.0,3.0,3.0,M. ģim.,Brick,All amenities
+4628,9628,For rent,Purvciems,Ieriķu 9a,1,31.0,1.0,3.0,Hrušč.,Brick-Panel,All amenities
+4632,9632,For rent,Purvciems,Kastrānes 1/2,1,20.0,3.0,5.0,Jaun.,Panel,All amenities
+4633,9633,For rent,Teika,Raunas 45,2,41.0,1.0,1.0,Hrušč.,Brick,All amenities
+4634,9634,For rent,centrs,Sadovņikova 39,1,40.0,3.0,7.0,Renov.,Masonry,All amenities
+4635,9635,For rent,Dārzciems,Ūbeles 5,1,44.0,3.0,5.0,Specpr.,Brick-Panel,All amenities
+4636,9636,For rent,Ziepniekkalns,Basu 3a,2,57.0,2.0,2.0,Jaun.,Masonry,All amenities
+4639,9639,For rent,centrs,Čaka 33,2,45.0,4.0,6.0,P. kara,Masonry,All amenities
+4642,9642,For rent,centrs,Brīvības 133,3,57.0,4.0,4.0,P. kara,Brick,All amenities
+4645,9645,For rent,Purvciems,Marsa g. 12,1,27.0,1.0,5.0,LT proj.,Panel,All amenities
+4652,9652,For rent,Iļģuciems,Lidoņu 26,2,50.0,3.0,5.0,LT proj.,Panel,All amenities
+4654,9654,For rent,Iļģuciems,Vaidelotes 24,2,41.0,5.0,5.0,Hrušč.,Brick,All amenities
+4655,9655,For rent,Vecmīlgrāvis,Kalngales 11,1,40.0,3.0,9.0,602.,Panel-Brick,All amenities
+4658,9658,For rent,Ķengarags,Maskavas 429,2,52.0,4.0,5.0,LT proj.,Panel,All amenities
+4659,9659,For rent,Purvciems,Marsa g. 12,1,26.0,3.0,5.0,LT proj.,Panel,All amenities
+4662,9662,For rent,centrs,Eksporta 8,4,260.0,2.0,2.0,Jaun.,Masonry,All amenities
+4667,9667,For rent,Purvciems,Nīcgales 31,3,76.0,8.0,8.0,119.,Panel,All amenities
+4668,9668,For rent,centrs,Lenču 2,2,50.0,1.0,5.0,P. kara,Masonry,All amenities
+4672,9672,For rent,Sarkandaugava,Tvaika 16,1,30.0,5.0,5.0,Hrušč.,Brick,All amenities
+4673,9673,For rent,centrs,Krasta 25,2,50.0,3.0,4.0,P. kara,Masonry,All amenities
+4676,9676,For rent,Vecmīlgrāvis,Emmas 3a,1,29.0,5.0,5.0,Hrušč.,Brick,All amenities
+4677,9677,For rent,Ķengarags,Lokomotīves 48,1,33.0,4.0,5.0,LT proj.,Panel,All amenities
+4680,9680,For rent,centrs,Katrīnas d. 26,1,21.0,2.0,3.0,M. ģim.,Brick,All amenities
+4681,9681,For rent,Ķengarags,Krustpils 73,2,50.0,1.0,3.0,Staļina,Brick,All amenities
+4682,9682,For rent,Pļavnieki,Krustpils 73,2,50.0,1.0,3.0,Staļina,Brick,All amenities
+4684,9684,For rent,Āgenskalns,Elvīras 13a,1,30.0,4.0,5.0,LT proj.,Panel,All amenities
+4685,9685,For rent,Daugavgrīva,Birzes 32,1,32.0,2.0,5.0,103.,Brick-Panel,All amenities
